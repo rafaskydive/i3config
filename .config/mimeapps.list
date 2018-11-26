@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/magnet=transmission-remote.desktop
+x-scheme-handler/mailto=mutt.desktop;
+
+[Added Associations]
+video/mp4=mpv.desktop;
+application/x-bittorrent=transmission-remote.desktop;

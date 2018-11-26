@@ -1,0 +1,1079 @@
+Nov 20 21:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 21:22 : exception: Failed to open '/home/skydive420dz/.config/mpd/state': No such file or directory
+Nov 20 21:22 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 21:22 : client: [0] opened from 127.0.0.1:47826
+Nov 20 21:22 : exception: Failed to access /home/skydive420dz/Music: No such file or directory
+Nov 20 21:22 : client: [0] closed
+Nov 20 21:22 : client: [1] opened from 127.0.0.1:47830
+Nov 20 21:22 : client: [2] opened from 127.0.0.1:47834
+Nov 20 21:22 : client: [2] closed
+Nov 20 21:24 : client: [3] opened from 127.0.0.1:47846
+Nov 20 21:24 : client: [3] closed
+Nov 20 21:24 : client: [4] opened from 127.0.0.1:47850
+Nov 20 21:24 : client: [4] closed
+Nov 20 21:41 : client: [5] opened from 127.0.0.1:48166
+Nov 20 21:41 : client: [5] closed
+Nov 20 21:41 : client: [6] opened from 127.0.0.1:48170
+Nov 20 21:41 : client: [6] closed
+Nov 20 21:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 21:43 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 21:43 : client: [0] opened from 127.0.0.1:48032
+Nov 20 21:44 : client: [1] opened from 127.0.0.1:48038
+Nov 20 21:44 : client: [1] closed
+Nov 20 21:44 : client: [2] opened from 127.0.0.1:48044
+Nov 20 21:44 : client: [2] closed
+Nov 20 21:44 : client: [3] opened from 127.0.0.1:48050
+Nov 20 21:44 : client: [3] closed
+Nov 20 21:44 : client: [4] opened from 127.0.0.1:48056
+Nov 20 21:44 : client: [4] closed
+Nov 20 22:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 22:48 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 22:48 : client: [0] opened from 127.0.0.1:58470
+Nov 20 22:48 : client: [1] opened from 127.0.0.1:58474
+Nov 20 22:48 : client: [1] closed
+Nov 20 23:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 23:07 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 23:07 : client: [0] opened from 127.0.0.1:43092
+Nov 20 23:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 23:23 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 23:23 : client: [0] opened from 127.0.0.1:35378
+Nov 20 23:23 : client: [1] opened from 127.0.0.1:35382
+Nov 20 23:23 : client: [1] closed
+Nov 20 23:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 23:29 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 23:29 : client: [0] opened from 127.0.0.1:47434
+Nov 20 23:29 : client: [1] opened from 127.0.0.1:47438
+Nov 20 23:29 : client: [0] closed
+Nov 20 23:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 23:31 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 23:31 : client: [0] opened from 127.0.0.1:47744
+Nov 20 23:31 : client: [1] opened from 127.0.0.1:47748
+Nov 20 23:31 : client: [1] closed
+Nov 20 23:42 : client: [0] closed
+Nov 20 23:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 23:42 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 20 23:42 : client: [0] opened from 127.0.0.1:60134
+Nov 21 00:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 00:47 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 00:47 : client: [0] opened from 127.0.0.1:43772
+Nov 21 00:48 : client: [1] opened from 127.0.0.1:43778
+Nov 21 00:48 : client: [1] closed
+Nov 21 00:49 : client: [2] opened from 127.0.0.1:43786
+Nov 21 00:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 00:53 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 00:53 : client: [0] opened from 127.0.0.1:51476
+Nov 21 00:53 : client: [1] opened from 127.0.0.1:51480
+Nov 21 00:53 : client: [1] closed
+Nov 21 00:53 : client: [2] opened from 127.0.0.1:51488
+Nov 21 00:53 : client: [2] closed
+Nov 21 00:53 : client: [3] opened from 127.0.0.1:51494
+Nov 21 00:53 : client: [3] closed
+Nov 21 01:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 01:22 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 01:22 : client: [0] opened from 127.0.0.1:56504
+Nov 21 01:22 : client: [1] opened from 127.0.0.1:56508
+Nov 21 01:22 : client: [1] closed
+Nov 21 01:26 : client: [2] opened from 127.0.0.1:56518
+Nov 21 01:26 : client: [2] closed
+Nov 21 01:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 01:32 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 01:32 : client: [0] opened from 127.0.0.1:33982
+Nov 21 01:32 : client: [1] opened from 127.0.0.1:33986
+Nov 21 01:32 : client: [1] closed
+Nov 21 02:05 : client: [0] closed
+Nov 21 02:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 02:25 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 02:25 : client: [0] opened from 127.0.0.1:34624
+Nov 21 02:25 : client: [1] opened from 127.0.0.1:34628
+Nov 21 02:25 : client: [1] closed
+Nov 21 02:44 : client: [2] opened from 127.0.0.1:34800
+Nov 21 02:44 : client: [2] closed
+Nov 21 18:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 18:22 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 18:22 : client: [0] opened from 127.0.0.1:38726
+Nov 21 18:22 : client: [1] opened from 127.0.0.1:38730
+Nov 21 18:22 : client: [1] closed
+Nov 21 18:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 18:55 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 18:55 : client: [0] opened from 127.0.0.1:50214
+Nov 21 18:55 : client: [1] opened from 127.0.0.1:50218
+Nov 21 18:55 : client: [1] closed
+Nov 21 19:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 19:34 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 19:34 : client: [0] opened from 127.0.0.1:36830
+Nov 21 19:34 : client: [1] opened from 127.0.0.1:36834
+Nov 21 19:34 : client: [1] closed
+Nov 21 19:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 19:50 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 19:50 : client: [0] opened from 127.0.0.1:55442
+Nov 21 20:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 20:11 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 20:11 : client: [0] opened from 127.0.0.1:45958
+Nov 21 20:11 : client: [0] closed
+Nov 21 20:11 : client: [1] opened from 127.0.0.1:45964
+Nov 21 21:46 : client: [2] opened from 127.0.0.1:46230
+Nov 21 21:46 : client: [2] closed
+Nov 21 21:49 : client: [3] opened from 127.0.0.1:46236
+Nov 21 21:49 : exception: Not playing
+Nov 21 21:49 : client: [3] closed
+Nov 21 21:49 : client: [4] opened from 127.0.0.1:46240
+Nov 21 21:49 : exception: Not playing
+Nov 21 21:49 : client: [4] closed
+Nov 21 21:49 : client: [5] opened from 127.0.0.1:46244
+Nov 21 21:49 : exception: Not playing
+Nov 21 21:49 : client: [5] closed
+Nov 21 21:51 : client: [6] opened from 127.0.0.1:46250
+Nov 21 21:52 : client: [6] closed
+Nov 21 22:18 : client: [7] opened from 127.0.0.1:46290
+Nov 21 22:18 : client: [7] closed
+Nov 21 22:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 22:39 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 22:39 : client: [0] opened from 127.0.0.1:40214
+Nov 21 22:39 : client: [1] opened from 127.0.0.1:40218
+Nov 21 22:39 : client: [1] closed
+Nov 21 23:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 23:00 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 21 23:00 : client: [0] opened from 127.0.0.1:48672
+Nov 21 23:00 : client: [1] opened from 127.0.0.1:48676
+Nov 21 23:00 : client: [1] closed
+Nov 21 23:26 : client: [2] opened from 127.0.0.1:48822
+Nov 21 23:26 : client: [2] closed
+Nov 22 00:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 00:14 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 00:14 : client: [0] opened from 127.0.0.1:37606
+Nov 22 00:14 : client: [1] opened from 127.0.0.1:37610
+Nov 22 00:14 : client: [1] closed
+Nov 22 01:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 01:04 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 01:04 : client: [0] opened from 127.0.0.1:60522
+Nov 22 01:04 : client: [1] opened from 127.0.0.1:60526
+Nov 22 01:04 : client: [1] closed
+Nov 22 01:05 : client: [2] opened from 127.0.0.1:60540
+Nov 22 01:05 : client: [2] closed
+Nov 22 01:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 01:07 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 01:07 : client: [0] opened from 127.0.0.1:33062
+Nov 22 01:07 : client: [1] opened from 127.0.0.1:33066
+Nov 22 01:07 : client: [0] closed
+Nov 22 01:09 : client: [2] opened from 127.0.0.1:33090
+Nov 22 01:09 : client: [2] closed
+Nov 22 01:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 01:44 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 01:44 : client: [0] opened from 127.0.0.1:48848
+Nov 22 01:44 : client: [1] opened from 127.0.0.1:48852
+Nov 22 01:44 : client: [1] closed
+Nov 22 01:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 01:49 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 01:49 : client: [0] opened from 127.0.0.1:33390
+Nov 22 01:49 : client: [1] opened from 127.0.0.1:33394
+Nov 22 01:49 : client: [1] closed
+Nov 22 02:14 : client: [2] opened from 127.0.0.1:33438
+Nov 22 02:14 : client: [2] closed
+Nov 22 02:15 : client: [3] opened from 127.0.0.1:33442
+Nov 22 02:15 : client: [3] closed
+Nov 22 02:15 : client: [4] opened from 127.0.0.1:33448
+Nov 22 02:15 : client: [4] closed
+Nov 22 02:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 02:58 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 02:58 : client: [0] opened from 127.0.0.1:43750
+Nov 22 02:58 : client: [1] opened from 127.0.0.1:43756
+Nov 22 02:58 : client: [1] closed
+Nov 22 03:44 : client: [2] opened from 127.0.0.1:43916
+Nov 22 03:44 : client: [2] closed
+Nov 22 04:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 04:11 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 04:11 : client: [0] opened from 127.0.0.1:49554
+Nov 22 04:11 : client: [1] opened from 127.0.0.1:49558
+Nov 22 04:11 : client: [1] closed
+Nov 22 07:59 : client: [2] opened from 127.0.0.1:49768
+Nov 22 07:59 : client: [2] closed
+Nov 22 08:03 : client: [3] opened from 127.0.0.1:49790
+Nov 22 08:03 : client: [3] closed
+Nov 22 08:03 : client: [4] opened from 127.0.0.1:49794
+Nov 22 08:03 : client: [4] closed
+Nov 22 08:03 : client: [5] opened from 127.0.0.1:49798
+Nov 22 08:03 : client: [5] closed
+Nov 22 08:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 08:08 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 08:08 : client: [0] opened from 127.0.0.1:55300
+Nov 22 08:08 : client: [1] opened from 127.0.0.1:55304
+Nov 22 08:08 : client: [1] closed
+Nov 22 12:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 12:15 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 12:15 : client: [0] opened from 127.0.0.1:57026
+Nov 22 12:15 : client: [1] opened from 127.0.0.1:57030
+Nov 22 12:15 : client: [1] closed
+Nov 22 12:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 12:27 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 12:27 : client: [0] opened from 127.0.0.1:33376
+Nov 22 12:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 12:43 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 12:43 : client: [0] opened from 127.0.0.1:47588
+Nov 22 12:43 : client: [0] closed
+Nov 22 12:44 : client: [1] opened from 127.0.0.1:47604
+Nov 22 12:44 : client: [1] closed
+Nov 22 12:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 12:55 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 12:55 : client: [0] opened from 127.0.0.1:37714
+Nov 22 13:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 13:02 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 13:02 : client: [0] opened from 127.0.0.1:43092
+Nov 22 13:02 : client: [1] opened from 127.0.0.1:43096
+Nov 22 13:02 : client: [1] closed
+Nov 22 13:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 13:17 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 13:17 : client: [0] opened from 127.0.0.1:47956
+Nov 22 13:17 : client: [1] opened from 127.0.0.1:47960
+Nov 22 13:17 : client: [1] closed
+Nov 22 13:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 13:47 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 13:47 : client: [0] opened from 127.0.0.1:52082
+Nov 22 13:47 : client: [1] opened from 127.0.0.1:52086
+Nov 22 13:47 : client: [1] closed
+Nov 22 13:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 13:58 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 13:58 : client: [0] opened from 127.0.0.1:58038
+Nov 22 13:58 : client: [1] opened from 127.0.0.1:58042
+Nov 22 13:58 : client: [1] closed
+Nov 22 19:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 19:16 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 19:16 : client: [0] opened from 127.0.0.1:56712
+Nov 22 19:16 : client: [1] opened from 127.0.0.1:56716
+Nov 22 19:16 : client: [1] closed
+Nov 22 19:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 19:54 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 19:54 : client: [0] opened from 127.0.0.1:46622
+Nov 22 20:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 20:43 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 20:43 : client: [0] opened from 127.0.0.1:60024
+Nov 22 20:43 : client: [1] opened from 127.0.0.1:60028
+Nov 22 20:43 : client: [1] closed
+Nov 22 20:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 20:50 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 20:50 : client: [0] opened from 127.0.0.1:56316
+Nov 22 20:50 : client: [1] opened from 127.0.0.1:56320
+Nov 22 20:50 : client: [1] closed
+Nov 22 20:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 20:51 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 20:51 : client: [0] opened from 127.0.0.1:35872
+Nov 22 21:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 21:06 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 21:06 : client: [0] opened from 127.0.0.1:43628
+Nov 22 21:06 : client: [1] opened from 127.0.0.1:43632
+Nov 22 21:06 : client: [1] closed
+Nov 22 21:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 21:07 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 21:07 : client: [0] opened from 127.0.0.1:33772
+Nov 22 21:07 : client: [1] opened from 127.0.0.1:33776
+Nov 22 21:07 : client: [1] closed
+Nov 22 21:09 : client: [0] closed
+Nov 22 21:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 21:16 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 21:16 : client: [0] opened from 127.0.0.1:53424
+Nov 22 21:42 : client: [1] opened from 127.0.0.1:53452
+Nov 22 21:42 : client: [1] closed
+Nov 22 21:42 : client: [2] opened from 127.0.0.1:53458
+Nov 22 21:42 : client: [2] closed
+Nov 22 21:42 : client: [3] opened from 127.0.0.1:53462
+Nov 22 21:42 : client: [3] closed
+Nov 22 23:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 23:14 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 23:14 : client: [0] opened from 127.0.0.1:35016
+Nov 22 23:14 : client: [1] opened from 127.0.0.1:35020
+Nov 22 23:14 : client: [1] closed
+Nov 22 23:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 23:32 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 22 23:32 : client: [0] opened from 127.0.0.1:49028
+Nov 23 00:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 00:09 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 00:09 : client: [0] opened from 127.0.0.1:57168
+Nov 23 00:09 : client: [1] opened from 127.0.0.1:57172
+Nov 23 00:09 : client: [1] closed
+Nov 23 00:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 00:26 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 00:26 : client: [0] opened from 127.0.0.1:59198
+Nov 23 00:26 : client: [1] opened from 127.0.0.1:59202
+Nov 23 00:26 : client: [1] closed
+Nov 23 00:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 00:32 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 00:32 : client: [0] opened from 127.0.0.1:59296
+Nov 23 00:32 : client: [1] opened from 127.0.0.1:59300
+Nov 23 00:32 : client: [0] closed
+Nov 23 00:46 : client: [2] opened from 127.0.0.1:59396
+Nov 23 00:46 : client: [2] closed
+Nov 23 00:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 00:51 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 00:51 : client: [0] opened from 127.0.0.1:43042
+Nov 23 00:55 : client: [1] opened from 127.0.0.1:43066
+Nov 23 00:55 : client: [1] closed
+Nov 23 01:26 : client: [2] opened from 127.0.0.1:43566
+Nov 23 01:26 : client: [2] closed
+Nov 23 01:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 01:42 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 01:42 : client: [0] opened from 127.0.0.1:46376
+Nov 23 01:42 : client: [1] opened from 127.0.0.1:46380
+Nov 23 01:42 : client: [1] closed
+Nov 23 01:44 : client: [2] opened from 127.0.0.1:46392
+Nov 23 01:44 : client: [2] closed
+Nov 23 11:05 : client: [0] closed
+Nov 23 11:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 11:06 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 11:06 : client: [0] opened from 127.0.0.1:42300
+Nov 23 11:06 : client: [1] opened from 127.0.0.1:42304
+Nov 23 11:06 : client: [1] closed
+Nov 23 11:12 : client: [2] opened from 127.0.0.1:42322
+Nov 23 11:12 : client: [2] closed
+Nov 23 11:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 11:14 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 11:14 : client: [0] opened from 127.0.0.1:41460
+Nov 23 11:14 : client: [1] opened from 127.0.0.1:41464
+Nov 23 11:14 : client: [1] closed
+Nov 23 11:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 11:43 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 11:43 : client: [0] opened from 127.0.0.1:53612
+Nov 23 11:52 : client: [1] opened from 127.0.0.1:53628
+Nov 23 11:52 : client: [1] closed
+Nov 23 12:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 12:02 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 12:02 : client: [0] opened from 127.0.0.1:47856
+Nov 23 12:02 : client: [1] opened from 127.0.0.1:47860
+Nov 23 12:02 : client: [1] closed
+Nov 23 12:05 : client: [2] opened from 127.0.0.1:48058
+Nov 23 12:05 : client: [2] closed
+Nov 23 13:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 13:09 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 13:09 : client: [0] opened from 127.0.0.1:48486
+Nov 23 13:21 : client: [1] opened from 127.0.0.1:48634
+Nov 23 13:21 : client: [1] closed
+Nov 23 13:27 : client: [2] opened from 127.0.0.1:48676
+Nov 23 13:27 : client: [2] closed
+Nov 23 13:40 : client: [3] opened from 127.0.0.1:48726
+Nov 23 13:40 : client: [3] closed
+Nov 23 13:54 : client: [4] opened from 127.0.0.1:48804
+Nov 23 13:54 : client: [4] closed
+Nov 23 14:14 : client: [5] opened from 127.0.0.1:48848
+Nov 23 14:14 : client: [5] closed
+Nov 23 14:27 : client: [6] opened from 127.0.0.1:48908
+Nov 23 14:27 : client: [6] closed
+Nov 23 14:29 : client: [7] opened from 127.0.0.1:48940
+Nov 23 14:29 : client: [7] closed
+Nov 23 14:30 : client: [8] opened from 127.0.0.1:48946
+Nov 23 14:30 : client: [8] closed
+Nov 23 14:36 : client: [9] opened from 127.0.0.1:48966
+Nov 23 14:36 : client: [9] closed
+Nov 23 14:36 : client: [10] opened from 127.0.0.1:48972
+Nov 23 14:36 : client: [10] closed
+Nov 23 14:37 : client: [11] opened from 127.0.0.1:48980
+Nov 23 14:37 : client: [11] closed
+Nov 23 14:38 : client: [12] opened from 127.0.0.1:48986
+Nov 23 14:38 : client: [12] closed
+Nov 23 14:38 : client: [13] opened from 127.0.0.1:48992
+Nov 23 14:38 : client: [13] closed
+Nov 23 14:39 : client: [14] opened from 127.0.0.1:48998
+Nov 23 14:39 : client: [14] closed
+Nov 23 14:49 : client: [15] opened from 127.0.0.1:49016
+Nov 23 14:49 : client: [15] closed
+Nov 23 14:54 : client: [0] closed
+Nov 23 15:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:00 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 15:00 : client: [0] opened from 127.0.0.1:45914
+Nov 23 15:00 : client: [1] opened from 127.0.0.1:45918
+Nov 23 15:00 : client: [1] closed
+Nov 23 15:18 : client: [2] opened from 127.0.0.1:46160
+Nov 23 15:18 : client: [2] closed
+Nov 23 15:23 : client: [3] opened from 127.0.0.1:46188
+Nov 23 15:23 : client: [3] closed
+Nov 23 15:24 : client: [4] opened from 127.0.0.1:46206
+Nov 23 15:24 : client: [4] closed
+Nov 23 15:24 : client: [5] opened from 127.0.0.1:46210
+Nov 23 15:24 : exception: Not playing
+Nov 23 15:24 : client: [5] closed
+Nov 23 15:25 : client: [6] opened from 127.0.0.1:46214
+Nov 23 15:25 : client: [6] closed
+Nov 23 20:12 : client: [7] opened from 127.0.0.1:47870
+Nov 23 20:12 : client: [7] closed
+Nov 23 20:17 : client: [8] opened from 127.0.0.1:47906
+Nov 23 20:17 : client: [8] closed
+Nov 23 20:23 : client: [9] opened from 127.0.0.1:47924
+Nov 23 20:23 : client: [9] closed
+Nov 23 20:23 : client: [10] opened from 127.0.0.1:47930
+Nov 23 20:23 : client: [10] closed
+Nov 23 20:24 : client: [11] opened from 127.0.0.1:47938
+Nov 23 20:24 : client: [11] closed
+Nov 23 20:24 : client: [12] opened from 127.0.0.1:47944
+Nov 23 20:24 : client: [12] closed
+Nov 23 20:24 : client: [13] opened from 127.0.0.1:47950
+Nov 23 20:24 : client: [13] closed
+Nov 23 21:04 : client: [14] opened from 127.0.0.1:48108
+Nov 23 21:04 : client: [14] closed
+Nov 23 21:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 21:12 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 21:12 : client: [0] opened from 127.0.0.1:47106
+Nov 23 21:12 : client: [1] opened from 127.0.0.1:47110
+Nov 23 21:12 : client: [1] closed
+Nov 23 21:13 : client: [2] opened from 127.0.0.1:47118
+Nov 23 21:13 : client: [2] closed
+Nov 23 21:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 21:31 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 21:31 : client: [0] opened from 127.0.0.1:59322
+Nov 23 21:31 : client: [1] opened from 127.0.0.1:59326
+Nov 23 21:31 : client: [0] closed
+Nov 23 21:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 21:33 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 21:33 : client: [0] opened from 127.0.0.1:40374
+Nov 23 21:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 21:35 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 21:35 : client: [0] opened from 127.0.0.1:42360
+Nov 23 21:35 : client: [1] opened from 127.0.0.1:42364
+Nov 23 21:35 : client: [1] closed
+Nov 23 21:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 21:38 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 23 21:38 : client: [0] opened from 127.0.0.1:58420
+Nov 23 21:38 : client: [1] opened from 127.0.0.1:58424
+Nov 23 21:38 : client: [1] closed
+Nov 23 22:13 : client: [2] opened from 127.0.0.1:58658
+Nov 23 22:13 : client: [2] closed
+Nov 23 22:28 : client: [3] opened from 127.0.0.1:58744
+Nov 23 22:28 : client: [3] closed
+Nov 24 02:08 : client: [4] opened from 127.0.0.1:59906
+Nov 24 02:08 : client: [4] closed
+Nov 24 02:28 : client: [5] opened from 127.0.0.1:59952
+Nov 24 02:28 : client: [5] closed
+Nov 24 03:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 03:08 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 03:08 : client: [0] opened from 127.0.0.1:33736
+Nov 24 03:10 : client: [1] opened from 127.0.0.1:33744
+Nov 24 03:10 : client: [1] closed
+Nov 24 03:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 03:16 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 03:16 : client: [0] opened from 127.0.0.1:39026
+Nov 24 03:16 : client: [1] opened from 127.0.0.1:39030
+Nov 24 03:16 : client: [1] closed
+Nov 24 03:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 03:31 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 03:31 : client: [0] opened from 127.0.0.1:60650
+Nov 24 03:31 : client: [1] opened from 127.0.0.1:60660
+Nov 24 03:31 : client: [1] closed
+Nov 24 03:31 : client: [2] opened from 127.0.0.1:60672
+Nov 24 03:31 : exception: Not playing
+Nov 24 03:31 : client: [2] closed
+Nov 24 03:32 : client: [3] opened from 127.0.0.1:60676
+Nov 24 03:32 : client: [3] closed
+Nov 24 03:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 03:34 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 03:34 : client: [0] opened from 127.0.0.1:51098
+Nov 24 03:35 : client: [1] opened from 127.0.0.1:51108
+Nov 24 03:35 : client: [1] closed
+Nov 24 03:35 : client: [2] opened from 127.0.0.1:51112
+Nov 24 03:35 : client: [2] closed
+Nov 24 03:35 : client: [3] opened from 127.0.0.1:51116
+Nov 24 03:35 : client: [3] closed
+Nov 24 03:38 : client: [4] opened from 127.0.0.1:51120
+Nov 24 03:38 : client: [4] closed
+Nov 24 11:03 : client: [5] opened from 127.0.0.1:51168
+Nov 24 11:03 : client: [5] closed
+Nov 24 11:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 11:04 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 11:04 : client: [0] opened from 127.0.0.1:41788
+Nov 24 11:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 11:09 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 11:09 : client: [0] opened from 127.0.0.1:50602
+Nov 24 11:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 11:46 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 11:46 : client: [0] opened from 127.0.0.1:44664
+Nov 24 11:46 : client: [1] opened from 127.0.0.1:44668
+Nov 24 11:46 : client: [1] closed
+Nov 24 12:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 12:13 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 12:13 : client: [0] opened from 127.0.0.1:60062
+Nov 24 12:13 : client: [1] opened from 127.0.0.1:60066
+Nov 24 12:13 : client: [1] closed
+Nov 24 12:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 12:18 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 12:18 : client: [0] opened from 127.0.0.1:58288
+Nov 24 12:18 : client: [1] opened from 127.0.0.1:58292
+Nov 24 12:18 : client: [1] closed
+Nov 24 12:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 12:42 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 12:42 : client: [0] opened from 127.0.0.1:60000
+Nov 24 14:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 14:39 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 14:39 : client: [0] opened from 127.0.0.1:59824
+Nov 24 14:39 : client: [1] opened from 127.0.0.1:59828
+Nov 24 14:39 : client: [1] closed
+Nov 24 16:14 : client: [2] opened from 127.0.0.1:60696
+Nov 24 16:14 : client: [2] closed
+Nov 24 17:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 17:04 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 17:04 : client: [0] opened from 127.0.0.1:46152
+Nov 24 17:04 : client: [1] opened from 127.0.0.1:46158
+Nov 24 17:04 : client: [1] closed
+Nov 24 17:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 17:14 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 17:14 : client: [0] opened from 127.0.0.1:56998
+Nov 24 17:19 : client: [1] opened from 127.0.0.1:57070
+Nov 24 17:19 : client: [1] closed
+Nov 24 18:29 : client: [2] opened from 127.0.0.1:58292
+Nov 24 18:29 : client: [2] closed
+Nov 24 18:40 : client: [3] opened from 127.0.0.1:58624
+Nov 24 18:40 : client: [3] closed
+Nov 24 19:46 : client: [4] opened from 127.0.0.1:59448
+Nov 24 19:46 : client: [4] closed
+Nov 24 19:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 19:48 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 19:48 : client: [0] opened from 127.0.0.1:38618
+Nov 24 19:54 : client: [1] opened from 127.0.0.1:38742
+Nov 24 19:54 : client: [1] closed
+Nov 24 19:54 : client: [2] opened from 127.0.0.1:38756
+Nov 24 19:54 : client: [2] closed
+Nov 24 19:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 19:59 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 19:59 : client: [0] opened from 127.0.0.1:38374
+Nov 24 19:59 : client: [1] opened from 127.0.0.1:38378
+Nov 24 19:59 : client: [1] closed
+Nov 24 20:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 20:29 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 20:29 : client: [0] opened from 127.0.0.1:52312
+Nov 24 20:29 : client: [1] opened from 127.0.0.1:52316
+Nov 24 20:29 : client: [1] closed
+Nov 24 20:38 : client: [2] opened from 127.0.0.1:52450
+Nov 24 20:38 : client: [2] closed
+Nov 24 20:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 20:53 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 20:53 : client: [0] opened from 127.0.0.1:35360
+Nov 24 21:19 : client: [1] opened from 127.0.0.1:36394
+Nov 24 21:19 : client: [1] closed
+Nov 24 21:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 21:24 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 21:24 : client: [0] opened from 127.0.0.1:52862
+Nov 24 21:24 : client: [1] opened from 127.0.0.1:52866
+Nov 24 21:24 : client: [1] closed
+Nov 24 23:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 23:22 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 23:22 : client: [0] opened from 127.0.0.1:40300
+Nov 24 23:22 : client: [1] opened from 127.0.0.1:40304
+Nov 24 23:22 : client: [1] closed
+Nov 24 23:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 23:32 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 24 23:32 : client: [0] opened from 127.0.0.1:45336
+Nov 25 00:14 : client: [1] opened from 127.0.0.1:46078
+Nov 25 00:14 : client: [1] closed
+Nov 25 00:23 : client: [2] opened from 127.0.0.1:46204
+Nov 25 00:23 : exception: Not playing
+Nov 25 00:23 : client: [2] closed
+Nov 25 00:23 : client: [3] opened from 127.0.0.1:46208
+Nov 25 00:23 : exception: Not playing
+Nov 25 00:23 : client: [3] closed
+Nov 25 00:23 : client: [4] opened from 127.0.0.1:46212
+Nov 25 00:23 : client: [4] closed
+Nov 25 00:38 : client: [5] opened from 127.0.0.1:46446
+Nov 25 00:38 : exception: Not playing
+Nov 25 00:38 : client: [5] closed
+Nov 25 00:38 : client: [6] opened from 127.0.0.1:46450
+Nov 25 00:38 : exception: Not playing
+Nov 25 00:38 : client: [6] closed
+Nov 25 00:38 : client: [7] opened from 127.0.0.1:46454
+Nov 25 00:38 : exception: Not playing
+Nov 25 00:38 : client: [7] closed
+Nov 25 00:38 : client: [8] opened from 127.0.0.1:46458
+Nov 25 00:38 : exception: Not playing
+Nov 25 00:38 : client: [8] closed
+Nov 25 00:40 : client: [9] opened from 127.0.0.1:46486
+Nov 25 00:40 : client: [9] closed
+Nov 25 00:41 : client: [10] opened from 127.0.0.1:46506
+Nov 25 00:41 : exception: Not playing
+Nov 25 00:41 : client: [10] closed
+Nov 25 00:41 : client: [11] opened from 127.0.0.1:46510
+Nov 25 00:41 : exception: Not playing
+Nov 25 00:41 : client: [11] closed
+Nov 25 09:22 : client: [12] opened from 127.0.0.1:55314
+Nov 25 09:22 : client: [12] closed
+Nov 25 09:25 : client: [13] opened from 127.0.0.1:55386
+Nov 25 09:25 : client: [13] closed
+Nov 25 09:54 : client: [14] opened from 127.0.0.1:55984
+Nov 25 09:55 : client: [15] opened from 127.0.0.1:55990
+Nov 25 09:55 : client: [16] opened from 127.0.0.1:55998
+Nov 25 09:55 : client: [16] closed
+Nov 25 09:55 : client: [15] closed
+Nov 25 09:55 : client: [14] closed
+Nov 25 09:55 : client: [17] opened from 127.0.0.1:56006
+Nov 25 09:57 : client: [18] opened from 127.0.0.1:56028
+Nov 25 09:57 : client: [18] closed
+Nov 25 09:57 : client: [19] opened from 127.0.0.1:56038
+Nov 25 09:57 : client: [0] closed
+Nov 25 09:57 : client: [20] opened from 127.0.0.1:56042
+Nov 25 09:57 : client: [20] closed
+Nov 25 09:57 : client: [21] opened from 127.0.0.1:56046
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [21] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [22] opened from 127.0.0.1:56054
+Nov 25 09:57 : client: [22] closed
+Nov 25 09:57 : client: [23] opened from 127.0.0.1:56058
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [23] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [24] opened from 127.0.0.1:56062
+Nov 25 09:57 : client: [24] closed
+Nov 25 09:57 : client: [25] opened from 127.0.0.1:56066
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [25] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [26] opened from 127.0.0.1:56070
+Nov 25 09:57 : client: [26] closed
+Nov 25 09:57 : client: [27] opened from 127.0.0.1:56074
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [27] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [28] opened from 127.0.0.1:56078
+Nov 25 09:57 : client: [29] opened from 127.0.0.1:56082
+Nov 25 09:57 : client: [29] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [28] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [30] opened from 127.0.0.1:56086
+Nov 25 09:57 : client: [31] opened from 127.0.0.1:56090
+Nov 25 09:57 : client: [30] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [31] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [32] opened from 127.0.0.1:56094
+Nov 25 09:57 : client: [33] opened from 127.0.0.1:56098
+Nov 25 09:57 : client: [33] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [32] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [34] opened from 127.0.0.1:56102
+Nov 25 09:57 : client: [35] opened from 127.0.0.1:56106
+Nov 25 09:57 : client: [35] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [34] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [36] opened from 127.0.0.1:56110
+Nov 25 09:57 : client: [36] closed
+Nov 25 09:57 : client: [37] opened from 127.0.0.1:56114
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [37] closed
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [38] opened from 127.0.0.1:56118
+Nov 25 09:57 : client: [38] closed
+Nov 25 09:57 : client: [39] opened from 127.0.0.1:56122
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:57 : client: [19] closed
+Nov 25 09:58 : client: [40] opened from 127.0.0.1:56130
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : client: [39] closed
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : client: [41] opened from 127.0.0.1:56146
+Nov 25 09:58 : client: [41] closed
+Nov 25 09:58 : client: [42] opened from 127.0.0.1:56150
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : client: [42] closed
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : client: [43] opened from 127.0.0.1:56154
+Nov 25 09:58 : client: [44] opened from 127.0.0.1:56158
+Nov 25 09:58 : client: [43] closed
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:58 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [44] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [45] opened from 127.0.0.1:56162
+Nov 25 09:59 : client: [46] opened from 127.0.0.1:56166
+Nov 25 09:59 : client: [46] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [45] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [47] opened from 127.0.0.1:56170
+Nov 25 09:59 : client: [48] opened from 127.0.0.1:56174
+Nov 25 09:59 : client: [48] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [47] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [49] opened from 127.0.0.1:56178
+Nov 25 09:59 : client: [50] opened from 127.0.0.1:56182
+Nov 25 09:59 : client: [49] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [50] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [51] opened from 127.0.0.1:56188
+Nov 25 09:59 : client: [52] opened from 127.0.0.1:56190
+Nov 25 09:59 : client: [51] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [52] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [53] opened from 127.0.0.1:56194
+Nov 25 09:59 : client: [54] opened from 127.0.0.1:56198
+Nov 25 09:59 : client: [53] closed
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 09:59 : client: [54] closed
+Nov 25 09:59 : update: added /Logic - Flexicution [HD] - YouTube.mp3
+Nov 25 09:59 : client: [55] opened from 127.0.0.1:56210
+Nov 25 09:59 : client: [56] opened from 127.0.0.1:56214
+Nov 25 09:59 : client: [55] closed
+Nov 25 09:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 09:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 09:59 : client: [56] closed
+Nov 25 09:59 : client: [57] opened from 127.0.0.1:56218
+Nov 25 09:59 : client: [57] closed
+Nov 25 09:59 : client: [58] opened from 127.0.0.1:56222
+Nov 25 09:59 : client: [59] opened from 127.0.0.1:56226
+Nov 25 10:00 : client: [58] closed
+Nov 25 10:00 : client: [60] opened from 127.0.0.1:56244
+Nov 25 10:00 : client: [61] opened from 127.0.0.1:56248
+Nov 25 10:00 : client: [61] closed
+Nov 25 10:00 : client: [60] closed
+Nov 25 10:00 : client: [62] opened from 127.0.0.1:56260
+Nov 25 10:00 : client: [63] opened from 127.0.0.1:56264
+Nov 25 10:00 : client: [63] closed
+Nov 25 10:00 : client: [62] closed
+Nov 25 10:00 : client: [64] opened from 127.0.0.1:56270
+Nov 25 10:00 : client: [65] opened from 127.0.0.1:56274
+Nov 25 10:00 : client: [64] closed
+Nov 25 10:00 : client: [66] opened from 127.0.0.1:56282
+Nov 25 10:00 : client: [65] closed
+Nov 25 10:00 : client: [66] closed
+Nov 25 10:00 : client: [67] opened from 127.0.0.1:56292
+Nov 25 10:00 : client: [68] opened from 127.0.0.1:56290
+Nov 25 10:00 : client: [68] closed
+Nov 25 10:00 : client: [69] opened from 127.0.0.1:56298
+Nov 25 10:00 : client: [67] closed
+Nov 25 10:00 : client: [69] closed
+Nov 25 10:00 : client: [70] opened from 127.0.0.1:56302
+Nov 25 10:00 : client: [70] closed
+Nov 25 10:00 : client: [71] opened from 127.0.0.1:56306
+Nov 25 10:00 : client: [72] opened from 127.0.0.1:56310
+Nov 25 10:00 : client: [71] closed
+Nov 25 10:00 : client: [72] closed
+Nov 25 10:00 : client: [73] opened from 127.0.0.1:56314
+Nov 25 10:00 : client: [74] opened from 127.0.0.1:56318
+Nov 25 10:00 : client: [74] closed
+Nov 25 10:02 : client: [73] closed
+Nov 25 10:02 : client: [75] opened from 127.0.0.1:56342
+Nov 25 10:02 : client: [76] opened from 127.0.0.1:56346
+Nov 25 10:02 : client: [75] closed
+Nov 25 10:02 : client: [76] closed
+Nov 25 10:02 : client: [77] opened from 127.0.0.1:56350
+Nov 25 10:02 : client: [78] opened from 127.0.0.1:56354
+Nov 25 10:02 : client: [77] closed
+Nov 25 10:02 : client: [78] closed
+Nov 25 10:02 : client: [79] opened from 127.0.0.1:56358
+Nov 25 10:02 : client: [80] opened from 127.0.0.1:56362
+Nov 25 10:02 : client: [79] closed
+Nov 25 10:02 : client: [80] closed
+Nov 25 10:02 : client: [81] opened from 127.0.0.1:56366
+Nov 25 10:02 : client: [82] opened from 127.0.0.1:56370
+Nov 25 10:02 : client: [82] closed
+Nov 25 10:02 : client: [81] closed
+Nov 25 10:02 : client: [83] opened from 127.0.0.1:56378
+Nov 25 10:02 : client: [84] opened from 127.0.0.1:56382
+Nov 25 10:02 : client: [83] closed
+Nov 25 10:02 : client: [84] closed
+Nov 25 10:02 : client: [85] opened from 127.0.0.1:56386
+Nov 25 10:02 : client: [86] opened from 127.0.0.1:56390
+Nov 25 10:02 : client: [85] closed
+Nov 25 10:03 : client: [86] closed
+Nov 25 10:03 : client: [87] opened from 127.0.0.1:56394
+Nov 25 10:03 : client: [88] opened from 127.0.0.1:56398
+Nov 25 10:03 : client: [87] closed
+Nov 25 10:03 : client: [88] closed
+Nov 25 10:03 : client: [89] opened from 127.0.0.1:56402
+Nov 25 10:03 : client: [89] closed
+Nov 25 10:03 : client: [90] opened from 127.0.0.1:56406
+Nov 25 10:03 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 10:03 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Nov 25 10:03 : client: [90] closed
+Nov 25 10:03 : client: [91] opened from 127.0.0.1:56410
+Nov 25 10:03 : client: [92] opened from 127.0.0.1:56414
+Nov 25 10:03 : client: [92] closed
+Nov 25 10:03 : client: [59] closed
+Nov 25 10:04 : client: [91] closed
+Nov 25 10:04 : client: [93] opened from 127.0.0.1:56430
+Nov 25 10:04 : client: [94] opened from 127.0.0.1:56434
+Nov 25 10:04 : client: [93] closed
+Nov 25 10:04 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 10:04 : client: [94] closed
+Nov 25 10:04 : client: [95] opened from 127.0.0.1:56446
+Nov 25 10:04 : client: [96] opened from 127.0.0.1:56450
+Nov 25 10:04 : client: [96] closed
+Nov 25 10:05 : client: [40] closed
+Nov 25 10:05 : client: [97] opened from 127.0.0.1:56468
+Nov 25 10:05 : client: [97] closed
+Nov 25 10:05 : client: [98] opened from 127.0.0.1:56472
+Nov 25 10:05 : client: [95] closed
+Nov 25 10:05 : client: [99] opened from 127.0.0.1:56476
+Nov 25 10:05 : client: [100] opened from 127.0.0.1:56480
+Nov 25 10:05 : client: [99] closed
+Nov 25 10:05 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 10:05 : client: [100] closed
+Nov 25 10:05 : client: [101] opened from 127.0.0.1:56484
+Nov 25 10:05 : client: [101] closed
+Nov 25 10:05 : client: [102] opened from 127.0.0.1:56488
+Nov 25 10:05 : client: [102] closed
+Nov 25 10:05 : client: [103] opened from 127.0.0.1:56492
+Nov 25 10:05 : client: [104] opened from 127.0.0.1:56496
+Nov 25 10:05 : client: [104] closed
+Nov 25 10:05 : client: [103] closed
+Nov 25 10:05 : client: [105] opened from 127.0.0.1:56504
+Nov 25 10:05 : client: [106] opened from 127.0.0.1:56508
+Nov 25 10:05 : client: [105] closed
+Nov 25 10:05 : client: [98] closed
+Nov 25 10:05 : client: [107] opened from 127.0.0.1:56518
+Nov 25 10:05 : client: [107] closed
+Nov 25 10:05 : client: [108] opened from 127.0.0.1:56522
+Nov 25 10:06 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 10:06 : client: [106] closed
+Nov 25 10:06 : client: [109] opened from 127.0.0.1:56526
+Nov 25 10:06 : client: [109] closed
+Nov 25 10:06 : client: [110] opened from 127.0.0.1:56530
+Nov 25 10:06 : client: [108] closed
+Nov 25 10:08 : client: [17] closed
+Nov 25 10:20 : client: [111] opened from 127.0.0.1:56784
+Nov 25 10:20 : client: [111] closed
+Nov 25 10:20 : client: [112] opened from 127.0.0.1:56794
+Nov 25 10:20 : client: [112] closed
+Nov 25 10:23 : client: [113] opened from 127.0.0.1:56830
+Nov 25 10:23 : client: [113] closed
+Nov 25 10:24 : client: [114] opened from 127.0.0.1:56848
+Nov 25 10:24 : client: [114] closed
+Nov 25 10:25 : client: [115] opened from 127.0.0.1:56866
+Nov 25 10:25 : client: [115] closed
+Nov 25 11:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 11:15 : client: [0] opened from 127.0.0.1:50006
+Nov 25 11:15 : client: [1] opened from 127.0.0.1:50012
+Nov 25 11:15 : client: [0] closed
+Nov 25 11:25 : client: [2] opened from 127.0.0.1:50192
+Nov 25 11:25 : exception: Not playing
+Nov 25 11:25 : client: [2] closed
+Nov 25 11:25 : client: [3] opened from 127.0.0.1:50196
+Nov 25 11:25 : exception: Not playing
+Nov 25 11:25 : client: [3] closed
+Nov 25 11:25 : client: [4] opened from 127.0.0.1:50200
+Nov 25 11:25 : client: [4] closed
+Nov 25 11:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 11:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 11:25 : client: [1] closed
+Nov 25 11:25 : client: [5] opened from 127.0.0.1:50204
+Nov 25 11:25 : client: [6] opened from 127.0.0.1:50208
+Nov 25 11:25 : client: [6] closed
+Nov 25 11:25 : client: [7] opened from 127.0.0.1:50212
+Nov 25 11:25 : client: [5] closed
+Nov 25 11:25 : client: [7] closed
+Nov 25 11:25 : client: [8] opened from 127.0.0.1:50216
+Nov 25 11:25 : client: [9] opened from 127.0.0.1:50220
+Nov 25 11:25 : client: [9] closed
+Nov 25 11:25 : client: [10] opened from 127.0.0.1:50224
+Nov 25 11:25 : client: [8] closed
+Nov 25 11:25 : client: [10] closed
+Nov 25 11:25 : client: [11] opened from 127.0.0.1:50228
+Nov 25 11:25 : client: [12] opened from 127.0.0.1:50232
+Nov 25 11:25 : client: [12] closed
+Nov 25 11:25 : client: [13] opened from 127.0.0.1:50236
+Nov 25 11:25 : client: [11] closed
+Nov 25 11:25 : client: [13] closed
+Nov 25 11:25 : client: [14] opened from 127.0.0.1:50240
+Nov 25 11:25 : client: [15] opened from 127.0.0.1:50244
+Nov 25 11:25 : client: [14] closed
+Nov 25 11:25 : client: [16] opened from 127.0.0.1:50252
+Nov 25 11:25 : client: [15] closed
+Nov 25 11:25 : client: [16] closed
+Nov 25 11:25 : client: [17] opened from 127.0.0.1:50256
+Nov 25 11:25 : client: [18] opened from 127.0.0.1:50260
+Nov 25 11:25 : client: [17] closed
+Nov 25 11:25 : client: [19] opened from 127.0.0.1:50264
+Nov 25 11:25 : client: [18] closed
+Nov 25 11:25 : client: [19] closed
+Nov 25 11:25 : client: [20] opened from 127.0.0.1:50268
+Nov 25 11:25 : client: [21] opened from 127.0.0.1:50272
+Nov 25 11:25 : client: [21] closed
+Nov 25 11:35 : client: [22] opened from 127.0.0.1:50516
+Nov 25 11:35 : client: [22] closed
+Nov 25 11:35 : client: [23] opened from 127.0.0.1:50520
+Nov 25 11:35 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 11:35 : client: [20] closed
+Nov 25 11:35 : client: [24] opened from 127.0.0.1:50524
+Nov 25 11:35 : client: [25] opened from 127.0.0.1:50528
+Nov 25 11:35 : client: [24] closed
+Nov 25 11:35 : client: [23] closed
+Nov 25 11:36 : client: [26] opened from 127.0.0.1:50540
+Nov 25 11:36 : client: [26] closed
+Nov 25 12:38 : client: [27] opened from 127.0.0.1:51582
+Nov 25 12:38 : client: [27] closed
+Nov 25 12:51 : client: [28] opened from 127.0.0.1:51838
+Nov 25 12:51 : client: [28] closed
+Nov 25 13:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 13:38 : client: [0] opened from 127.0.0.1:56376
+Nov 25 15:15 : client: [1] opened from 127.0.0.1:58276
+Nov 25 15:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 15:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 15:15 : client: [1] closed
+Nov 25 15:15 : client: [0] closed
+Nov 25 15:15 : client: [2] opened from 127.0.0.1:58280
+Nov 25 15:15 : client: [3] opened from 127.0.0.1:58284
+Nov 25 15:15 : client: [2] closed
+Nov 25 15:15 : client: [4] opened from 127.0.0.1:58288
+Nov 25 15:15 : client: [3] closed
+Nov 25 15:15 : client: [4] closed
+Nov 25 15:15 : client: [5] opened from 127.0.0.1:58292
+Nov 25 15:15 : client: [6] opened from 127.0.0.1:58296
+Nov 25 15:15 : client: [5] closed
+Nov 25 15:15 : client: [7] opened from 127.0.0.1:58300
+Nov 25 15:15 : client: [6] closed
+Nov 25 15:15 : client: [7] closed
+Nov 25 15:15 : client: [8] opened from 127.0.0.1:58310
+Nov 25 15:15 : client: [9] opened from 127.0.0.1:58308
+Nov 25 15:15 : client: [8] closed
+Nov 25 15:18 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 15:18 : client: [9] closed
+Nov 25 15:18 : client: [10] opened from 127.0.0.1:58370
+Nov 25 15:18 : client: [11] opened from 127.0.0.1:58372
+Nov 25 15:18 : client: [11] closed
+Nov 25 15:22 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 15:22 : client: [10] closed
+Nov 25 15:22 : client: [12] opened from 127.0.0.1:58424
+Nov 25 15:22 : client: [13] opened from 127.0.0.1:58428
+Nov 25 15:22 : client: [12] closed
+Nov 25 15:26 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 15:26 : client: [13] closed
+Nov 25 15:26 : client: [14] opened from 127.0.0.1:58478
+Nov 25 15:26 : client: [15] opened from 127.0.0.1:58482
+Nov 25 15:26 : client: [14] closed
+Nov 25 15:29 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 15:29 : client: [15] closed
+Nov 25 15:29 : client: [16] opened from 127.0.0.1:58532
+Nov 25 15:29 : client: [17] opened from 127.0.0.1:58536
+Nov 25 15:29 : client: [17] closed
+Nov 25 15:32 : client: [18] opened from 127.0.0.1:58576
+Nov 25 15:32 : client: [16] closed
+Nov 25 15:32 : client: [18] closed
+Nov 25 15:32 : client: [19] opened from 127.0.0.1:58580
+Nov 25 15:32 : client: [20] opened from 127.0.0.1:58584
+Nov 25 15:32 : client: [19] closed
+Nov 25 16:54 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 16:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 16:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 16:55 : client: [0] opened from 127.0.0.1:56624
+Nov 25 16:55 : client: [1] opened from 127.0.0.1:56628
+Nov 25 16:55 : client: [1] closed
+Nov 25 19:51 : client: [2] opened from 127.0.0.1:60516
+Nov 25 19:51 : client: [2] closed
+Nov 25 20:28 : client: [3] opened from 127.0.0.1:32940
+Nov 25 20:28 : client: [3] closed
