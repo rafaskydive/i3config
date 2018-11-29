@@ -25,8 +25,8 @@ gaps outer 15
 set $term --no-startup-id $TERMINAL
 set $mod Mod4
 set $stoprec --no-startup-id dmenurecord kill
-set $shutdown sudo -A shutdown -h now
-set $reboot sudo -A reboot
+set $shutdown systemctl poweroff
+set $reboot systemctl reboot
 set $netrefresh --no-startup-id sudo -A systemctl restart NetworkManager
 set $hibernate systemctl suspend
 
@@ -57,8 +57,10 @@ exec --no-startup-id wal -i ~/.config/wall.png >/dev/null
 exec --no-startup-id dunst
 # Adjust gamma and brightness:
 exec --no-startup-id xrandr --output eDP --gamma 0.8:0.8:0.8 --brightness 1
+# Adjust contrast & color:
+exec --no-startup-id xcalib -d :0 -s 0 -co 100 -gc 1.2 -a
 # Composite manager:
-exec --no-startup-id xcompmgr -c -f -C -t-5 -l-5 -r4.2 -o.55 -I-.015 -O.03 -D6 &
+exec --no-startup-id xcompmgr -c -f -C -t-7 -l-7 -r6.2 -o.67 -I-.015 -O.03 -D4 &
 # Runs the key remapping scripts
 exec --no-startup-id remaps
 # Unclutter makes the mouse invisible after a brief period
@@ -294,14 +296,15 @@ no_focus [title="mpvfloat"]
 # #---Function Buttons---# #
 bindsym $mod+F1		exec --no-startup-id zathura ~/.config/i3/i3_guide.pdf
 bindsym $mod+F2		restart
-bindsym $mod+F3		exec --no-startup-id displayselect
-bindsym $mod+F4		exec --no-startup-id prompt "Suspend current session?" "$hibernate"
-bindsym $mod+F5		exec --no-startup-id $netrefresh
-bindsym $mod+F6		exec --no-startup-id $term -e transmission-remote-cli
-bindsym $mod+F7		exec --no-startup-id td-toggle
+bindsym $mod+F3		exec --no-startup-id $netrefresh
+bindsym $mod+F4		exec --no-startup-id displayselect
+bindsym $mod+F5		exec --no-startup-id prompt "Suspend current session?" "$hibernate"
+bindsym $mod+F6		exec --no-startup-id transmission-gtk
+#bindsym $mod+F6		exec --no-startup-id $term -e transmission-remote-cli
+#bindsym $mod+F7		exec --no-startup-id td-toggle
 bindsym $mod+F8		exec --no-startup-id ~/.config/mutt/etc/mailsync.sh
 bindsym $mod+F9		exec --no-startup-id dmenumount
-bindsym $mod+F10	exec --no-startup-id dmenuumount
+#bindsym $mod+F10		exec --no-startup-id dmenuumount
 bindsym $mod+F11	exec --no-startup-id ducksearch
 bindsym $mod+F12	exec $term -e sudo -A wifi-menu
 
@@ -319,9 +322,9 @@ bindsym $mod+Shift+Right 	move right
 
 # Volume keys
 bindsym $mod+plus		exec --no-startup-id lmc up 5
-bindsym $mod+Shift+plus		exec --no-startup-id lmc up 15
+bindsym $mod+Shift+plus		exec --no-startup-id lmc up 10
 bindsym $mod+minus 		exec --no-startup-id lmc down 5
-bindsym $mod+Shift+minus	exec --no-startup-id lmc down 15
+bindsym $mod+Shift+minus	exec --no-startup-id lmc down 10
 bindsym $mod+less 		exec --no-startup-id lmc prev
 bindsym $mod+Shift+less		exec --no-startup-id lmc replay
 bindsym $mod+greater		exec --no-startup-id lmc next

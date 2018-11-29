@@ -1077,3 +1077,254 @@ Nov 25 19:51 : client: [2] opened from 127.0.0.1:60516
 Nov 25 19:51 : client: [2] closed
 Nov 25 20:28 : client: [3] opened from 127.0.0.1:32940
 Nov 25 20:28 : client: [3] closed
+Nov 25 20:59 : client: [4] opened from 127.0.0.1:33532
+Nov 25 20:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 20:59 : client: [0] closed
+Nov 25 20:59 : client: [4] closed
+Nov 25 20:59 : client: [5] opened from 127.0.0.1:33536
+Nov 25 20:59 : client: [6] opened from 127.0.0.1:33540
+Nov 25 20:59 : client: [5] closed
+Nov 25 20:59 : client: [6] closed
+Nov 25 20:59 : client: [7] opened from 127.0.0.1:33544
+Nov 25 20:59 : client: [8] opened from 127.0.0.1:33548
+Nov 25 20:59 : client: [7] closed
+Nov 25 20:59 : client: [8] closed
+Nov 25 20:59 : client: [9] opened from 127.0.0.1:33552
+Nov 25 21:00 : client: [10] opened from 127.0.0.1:33556
+Nov 25 21:00 : client: [10] closed
+Nov 25 21:01 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 21:01 : client: [9] closed
+Nov 25 21:01 : client: [11] opened from 127.0.0.1:33614
+Nov 25 21:01 : client: [12] opened from 127.0.0.1:33618
+Nov 25 21:01 : client: [11] closed
+Nov 25 21:04 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 21:04 : client: [12] closed
+Nov 25 21:04 : client: [13] opened from 127.0.0.1:33668
+Nov 25 21:04 : client: [14] opened from 127.0.0.1:33672
+Nov 25 21:04 : client: [13] closed
+Nov 25 21:08 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 21:08 : client: [14] closed
+Nov 25 21:08 : client: [15] opened from 127.0.0.1:33766
+Nov 25 21:08 : client: [15] closed
+Nov 25 21:08 : client: [16] opened from 127.0.0.1:33770
+Nov 25 21:12 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 25 21:12 : client: [16] closed
+Nov 25 21:12 : client: [17] opened from 127.0.0.1:33848
+Nov 25 21:12 : client: [18] opened from 127.0.0.1:33852
+Nov 25 21:12 : client: [18] closed
+Nov 25 21:12 : client: [19] opened from 127.0.0.1:33892
+Nov 25 21:12 : client: [17] closed
+Nov 25 21:12 : client: [19] closed
+Nov 25 21:12 : client: [20] opened from 127.0.0.1:33896
+Nov 25 21:12 : client: [21] opened from 127.0.0.1:33900
+Nov 25 21:12 : client: [20] closed
+Nov 25 22:13 : client: [22] opened from 127.0.0.1:35214
+Nov 25 22:13 : client: [21] closed
+Nov 25 22:13 : client: [22] closed
+Nov 25 22:13 : client: [23] opened from 127.0.0.1:35218
+Nov 25 22:13 : client: [24] opened from 127.0.0.1:35222
+Nov 25 22:13 : client: [23] closed
+Nov 25 22:13 : client: [25] opened from 127.0.0.1:35226
+Nov 25 22:13 : client: [24] closed
+Nov 25 22:13 : client: [25] closed
+Nov 25 22:13 : client: [26] opened from 127.0.0.1:35230
+Nov 25 22:13 : client: [27] opened from 127.0.0.1:35234
+Nov 25 22:13 : client: [26] closed
+Nov 25 22:13 : client: [28] opened from 127.0.0.1:35238
+Nov 25 22:13 : client: [27] closed
+Nov 25 22:13 : client: [28] closed
+Nov 25 22:13 : client: [29] opened from 127.0.0.1:35246
+Nov 25 22:13 : client: [30] opened from 127.0.0.1:35248
+Nov 25 22:13 : client: [30] closed
+Nov 26 20:04 : client: [31] opened from 127.0.0.1:45160
+Nov 26 20:04 : client: [31] closed
+Nov 26 20:04 : client: [32] opened from 127.0.0.1:45164
+Nov 26 20:04 : client: [32] closed
+Nov 26 20:04 : client: [33] opened from 127.0.0.1:45168
+Nov 26 20:04 : client: [33] closed
+Nov 26 20:04 : client: [34] opened from 127.0.0.1:45176
+Nov 26 20:04 : client: [34] closed
+Nov 26 20:04 : client: [35] opened from 127.0.0.1:45180
+Nov 26 20:04 : client: [35] closed
+Nov 26 20:34 : client: [36] opened from 127.0.0.1:45802
+Nov 26 20:34 : client: [36] closed
+Nov 26 20:58 : client: [37] opened from 127.0.0.1:46246
+Nov 26 20:58 : client: [37] closed
+Nov 27 00:18 : client: [38] opened from 127.0.0.1:47524
+Nov 27 00:18 : client: [38] closed
+Nov 27 00:19 : client: [39] opened from 127.0.0.1:47538
+Nov 27 00:19 : client: [39] closed
+Nov 27 00:19 : client: [40] opened from 127.0.0.1:47542
+Nov 27 00:19 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 27 00:19 : client: [29] closed
+Nov 27 00:19 : client: [41] opened from 127.0.0.1:47550
+Nov 27 00:19 : client: [42] opened from 127.0.0.1:47554
+Nov 27 00:19 : client: [42] closed
+Nov 27 00:19 : client: [40] closed
+Nov 27 00:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 00:26 : client: [0] opened from 127.0.0.1:41800
+Nov 27 00:26 : client: [1] opened from 127.0.0.1:41804
+Nov 27 00:26 : client: [1] closed
+Nov 27 01:57 : client: [2] opened from 127.0.0.1:43292
+Nov 27 01:57 : client: [2] closed
+Nov 27 02:12 : client: [3] opened from 127.0.0.1:43548
+Nov 27 02:12 : client: [3] closed
+Nov 27 02:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 02:14 : client: [0] opened from 127.0.0.1:55798
+Nov 27 02:14 : client: [1] opened from 127.0.0.1:55802
+Nov 27 02:14 : client: [1] closed
+Nov 27 02:16 : client: [2] opened from 127.0.0.1:55848
+Nov 27 02:16 : client: [2] closed
+Nov 27 02:18 : client: [3] opened from 127.0.0.1:55974
+Nov 27 02:18 : client: [3] closed
+Nov 27 02:37 : client: [4] opened from 127.0.0.1:57230
+Nov 27 02:37 : client: [4] closed
+Nov 27 11:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 12:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 12:16 : client: [0] opened from 127.0.0.1:56300
+Nov 27 12:16 : client: [1] opened from 127.0.0.1:56304
+Nov 27 12:16 : client: [1] closed
+Nov 27 12:16 : client: [2] opened from 127.0.0.1:56308
+Nov 27 12:16 : client: [2] closed
+Nov 27 15:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 15:44 : client: [0] opened from 127.0.0.1:56418
+Nov 27 15:44 : client: [1] opened from 127.0.0.1:56422
+Nov 27 15:44 : client: [1] closed
+Nov 27 15:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 15:55 : client: [0] opened from 127.0.0.1:54352
+Nov 27 15:55 : client: [1] opened from 127.0.0.1:54356
+Nov 27 15:55 : client: [1] closed
+Nov 27 15:55 : client: [2] opened from 127.0.0.1:54364
+Nov 27 15:55 : client: [2] closed
+Nov 27 16:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 16:48 : client: [0] opened from 127.0.0.1:50440
+Nov 27 16:48 : client: [1] opened from 127.0.0.1:50450
+Nov 27 16:48 : client: [1] closed
+Nov 27 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 18:52 : client: [0] opened from 127.0.0.1:52242
+Nov 27 22:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 22:15 : client: [0] opened from 127.0.0.1:43504
+Nov 27 22:15 : client: [1] opened from 127.0.0.1:43508
+Nov 27 22:15 : client: [1] closed
+Nov 28 03:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 03:34 : client: [0] opened from 127.0.0.1:45912
+Nov 28 03:34 : client: [1] opened from 127.0.0.1:45916
+Nov 28 03:34 : client: [1] closed
+Nov 28 03:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 03:47 : client: [0] opened from 127.0.0.1:44422
+Nov 28 03:47 : client: [1] opened from 127.0.0.1:44426
+Nov 28 03:47 : client: [1] closed
+Nov 28 03:47 : client: [2] opened from 127.0.0.1:44432
+Nov 28 03:47 : client: [2] closed
+Nov 28 04:22 : client: [3] opened from 127.0.0.1:45524
+Nov 28 04:22 : client: [3] closed
+Nov 28 04:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 04:23 : client: [0] opened from 127.0.0.1:40846
+Nov 28 04:23 : client: [1] opened from 127.0.0.1:40850
+Nov 28 04:23 : client: [1] closed
+Nov 28 04:57 : client: [2] opened from 127.0.0.1:41600
+Nov 28 04:57 : client: [2] closed
+Nov 28 04:57 : client: [3] opened from 127.0.0.1:41604
+Nov 28 04:57 : client: [3] closed
+Nov 28 04:58 : client: [4] opened from 127.0.0.1:41648
+Nov 28 04:58 : client: [4] closed
+Nov 28 19:52 : client: [5] opened from 127.0.0.1:45476
+Nov 28 19:52 : client: [5] closed
+Nov 29 00:16 : client: [6] opened from 127.0.0.1:49580
+Nov 29 00:16 : client: [6] closed
+Nov 29 04:16 : client: [7] opened from 127.0.0.1:53498
+Nov 29 04:16 : client: [7] closed
+Nov 29 04:16 : client: [8] opened from 127.0.0.1:53508
+Nov 29 04:16 : client: [8] closed
+Nov 29 04:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 04:31 : client: [0] opened from 127.0.0.1:57728
+Nov 29 05:12 : client: [1] opened from 127.0.0.1:58252
+Nov 29 05:12 : client: [1] closed
+Nov 29 05:18 : client: [2] opened from 127.0.0.1:58354
+Nov 29 05:18 : client: [2] closed
+Nov 29 14:22 : client: [3] opened from 127.0.0.1:38294
+Nov 29 14:22 : client: [3] closed
+Nov 29 14:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 14:34 : client: [0] opened from 127.0.0.1:60720
+Nov 29 16:00 : client: [1] opened from 127.0.0.1:33816
+Nov 29 16:00 : client: [1] closed
+Nov 29 16:11 : client: [2] opened from 127.0.0.1:34000
+Nov 29 16:11 : client: [2] closed
+Nov 29 16:23 : client: [3] opened from 127.0.0.1:34176
+Nov 29 16:23 : client: [3] closed
+Nov 29 16:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 16:33 : client: [0] opened from 127.0.0.1:44304
+Nov 29 16:33 : client: [1] opened from 127.0.0.1:44308
+Nov 29 16:33 : client: [1] closed
+Nov 29 16:33 : client: [2] opened from 127.0.0.1:44312
+Nov 29 16:33 : client: [2] closed
+Nov 29 16:46 : client: [3] opened from 127.0.0.1:44504
+Nov 29 16:46 : client: [3] closed
+Nov 29 16:47 : client: [4] opened from 127.0.0.1:44542
+Nov 29 16:47 : client: [4] closed
+Nov 29 16:48 : client: [5] opened from 127.0.0.1:44572
+Nov 29 16:48 : exception: Not playing
+Nov 29 16:48 : client: [5] closed
+Nov 29 16:48 : client: [6] opened from 127.0.0.1:44576
+Nov 29 16:48 : client: [6] closed
+Nov 29 16:51 : client: [7] opened from 127.0.0.1:44626
+Nov 29 16:51 : client: [7] closed
+Nov 29 16:54 : client: [8] opened from 127.0.0.1:44674
+Nov 29 16:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 16:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 16:54 : client: [8] closed
+Nov 29 16:54 : client: [0] closed
+Nov 29 16:54 : client: [9] opened from 127.0.0.1:44678
+Nov 29 16:54 : client: [10] opened from 127.0.0.1:44682
+Nov 29 16:54 : client: [9] closed
+Nov 29 16:54 : client: [11] opened from 127.0.0.1:44686
+Nov 29 16:54 : client: [10] closed
+Nov 29 16:54 : client: [11] closed
+Nov 29 16:54 : client: [12] opened from 127.0.0.1:44690
+Nov 29 16:54 : client: [13] opened from 127.0.0.1:44694
+Nov 29 16:54 : client: [12] closed
+Nov 29 16:54 : client: [14] opened from 127.0.0.1:44698
+Nov 29 16:54 : client: [13] closed
+Nov 29 16:54 : client: [14] closed
+Nov 29 16:54 : client: [15] opened from 127.0.0.1:44702
+Nov 29 16:54 : client: [16] opened from 127.0.0.1:44706
+Nov 29 16:54 : client: [16] closed
+Nov 29 16:55 : client: [17] opened from 127.0.0.1:44724
+Nov 29 16:55 : client: [17] closed
+Nov 29 16:58 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 29 16:58 : client: [15] closed
+Nov 29 16:58 : client: [18] opened from 127.0.0.1:44764
+Nov 29 16:58 : client: [19] opened from 127.0.0.1:44768
+Nov 29 16:58 : client: [19] closed
+Nov 29 16:58 : client: [20] opened from 127.0.0.1:44780
+Nov 29 16:58 : client: [20] closed
+Nov 29 16:59 : client: [21] opened from 127.0.0.1:44794
+Nov 29 16:59 : client: [21] closed
+Nov 29 16:59 : client: [22] opened from 127.0.0.1:44812
+Nov 29 16:59 : client: [22] closed
+Nov 29 17:00 : client: [23] opened from 127.0.0.1:44828
+Nov 29 17:00 : client: [23] closed
+Nov 29 17:01 : client: [24] opened from 127.0.0.1:44846
+Nov 29 17:01 : client: [24] closed
+Nov 29 17:01 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 29 17:01 : client: [18] closed
+Nov 29 17:01 : client: [25] opened from 127.0.0.1:44864
+Nov 29 17:01 : client: [26] opened from 127.0.0.1:44868
+Nov 29 17:01 : client: [26] closed
+Nov 29 17:04 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 29 17:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:04 : client: [0] opened from 127.0.0.1:35222
+Nov 29 17:04 : client: [1] opened from 127.0.0.1:35230
+Nov 29 17:04 : client: [1] closed
+Nov 29 17:04 : client: [2] opened from 127.0.0.1:35240
+Nov 29 17:04 : client: [2] closed
+Nov 29 17:04 : client: [3] opened from 127.0.0.1:35244
+Nov 29 17:04 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Nov 29 17:04 : client: [0] closed
+Nov 29 17:04 : client: [4] opened from 127.0.0.1:35248
+Nov 29 17:04 : client: [5] opened from 127.0.0.1:35252
+Nov 29 17:04 : client: [5] closed
+Nov 29 17:05 : client: [3] closed
+Nov 29 17:06 : client: [6] opened from 127.0.0.1:35272
+Nov 29 17:06 : client: [6] closed
