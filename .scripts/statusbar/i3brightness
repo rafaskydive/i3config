@@ -1,0 +1,13 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+	1) pgrep -x dunst >/dev/null && notify-send "<b>Brightness:</b>
+- ✨ Shows current brightness status
+" ;;
+esac
+
+brightness=$(brightnessctl -m | cut -d "," -f4 | awk '{ print $1}')
+
+printf "%s %s\\n" "$brightness"
+
+##&& pgrep -x dunst && notify-send "$brightness"

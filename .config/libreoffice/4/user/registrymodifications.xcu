@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <oor:items xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<item oor:path="/org.openoffice.Office.Calc/Compatibility/KeyBindings"><prop oor:name="BaseGroup" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Content/Update"><prop oor:name="Link" oor:op="fuse"><value>2</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/CSVImport"><prop oor:name="FixedWidthList" oor:op="fuse"><value></value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="CharSet" oor:op="fuse"><value>61</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="DetectSpecialNumbers" oor:op="fuse"><value>true</value></prop></item>
@@ -8,13 +10,16 @@
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="Language" oor:op="fuse"><value>0</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="MergeDelimiters" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="QuotedFieldAsText" oor:op="fuse"><value>false</value></prop></item>
-<item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="RemoveSpace" oor:op="fuse"><value>false</value></prop></item>
-<item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="Separators" oor:op="fuse"><value>	=</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="RemoveSpace" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="Separators" oor:op="fuse"><value>	:</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="SkipEmptyCells" oor:op="fuse"><value>true</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Dialogs/ClipboardTextImport"><prop oor:name="TextSeparators" oor:op="fuse"><value>"</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="AutoInput" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="DetectiveAuto" oor:op="fuse"><value>true</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="ExpandFormatting" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="ExpandReference" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="HighlightSelection" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="LastFunctions" oor:op="fuse"><value>226 224 222 223 6</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="LegacyCellSelection" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="MoveSelection" oor:op="fuse"><value>true</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="MoveSelectionDirection" oor:op="fuse"><value>0</value></prop></item>
@@ -24,6 +29,20 @@
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="UpdateReferenceOnSort" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="UsePrinterMetrics" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Calc/Input"><prop oor:name="UseTabCol" oor:op="fuse"><value>false</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Layout/Other/MeasureUnit"><prop oor:name="NonMetric" oor:op="fuse"><value>8</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Layout/Other"><prop oor:name="StatusbarFunction" oor:op="fuse"><value>1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Layout/Other"><prop oor:name="StatusbarMultiFunction" oor:op="fuse"><value>514</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Layout/Zoom"><prop oor:name="Synchronize" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Layout/Zoom"><prop oor:name="Type" oor:op="fuse"><value>0</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Layout/Zoom"><prop oor:name="Value" oor:op="fuse"><value>100</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Misc/DefaultObjectSize"><prop oor:name="Height" oor:op="fuse"><value>5000</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Misc/DefaultObjectSize"><prop oor:name="Width" oor:op="fuse"><value>8000</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Misc/SharedDocument"><prop oor:name="ShowWarning" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Revision/Color"><prop oor:name="Change" oor:op="fuse"><value>-1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Revision/Color"><prop oor:name="Deletion" oor:op="fuse"><value>-1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Revision/Color"><prop oor:name="Insertion" oor:op="fuse"><value>-1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/Revision/Color"><prop oor:name="MovedEntry" oor:op="fuse"><value>-1</value></prop></item>
+<item oor:path="/org.openoffice.Office.Calc/SortList"><prop oor:name="List" oor:op="fuse"><value><it>Sun,Mon,Tue,Wed,Thu,Fri,Sat</it><it>Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday</it><it>Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec</it><it>January,February,March,April,May,June,July,August,September,October,November,December</it><it>Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Shabbat</it><it>Nissan,Iyar,Sivan,Tammuz,Av,Elul,Tishri,Heshvan,Kislev,Tevet,Shevat,Adar,Adar B</it></value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="FilePickerLastService" oor:op="fuse"><value></value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="FirstRun" oor:op="fuse"><value>false</value></prop></item>
 <item oor:path="/org.openoffice.Office.Common/Misc"><prop oor:name="Persona" oor:op="fuse"><value>no</value></prop></item>

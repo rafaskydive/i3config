@@ -60,7 +60,7 @@ exec --no-startup-id xrandr --output eDP --gamma 0.8:0.8:0.8 --brightness 1
 # Adjust contrast & color:
 exec --no-startup-id xcalib -d :0 -s 0 -co 100 -gc 1.2 -a
 # Composite manager:
-exec --no-startup-id xcompmgr -c -f -C -t-7 -l-7 -r6.2 -o.67 -I-.015 -O.03 -D4 &
+exec --no-startup-id xcompmgr -c -f -t-8 -l-8 -r6 -o.80 -I-0.015 -O0.05 -D4 &
 # Runs the key remapping scripts
 exec --no-startup-id remaps
 # Unclutter makes the mouse invisible after a brief period
@@ -140,8 +140,8 @@ bindsym $mod+Pause		exec --no-startup-id xcqr
 bindsym $mod+q			[con_id="__focused__" instance="^(?!dropdowncalc|tmuxdd).*$"] kill
 bindsym $mod+Shift+q		[con_id="__focused__" instance="^(?!dropdowncalc|tmuxdd).*$"] kill
 
-bindsym $mod+w			exec $term -e nmtui
-bindsym $mod+Shift+w		exec --no-startup-id $BROWSER
+bindsym $mod+Shift+w		exec $term -e nmtui
+bindsym $mod+w			exec --no-startup-id $BROWSER
 
 bindsym $mod+e			exec $term -e neomutt
 bindsym $mod+Shift+e		exec --no-startup-id tutorialvids
@@ -413,8 +413,8 @@ bindsym XF86Search		exec $BROWSER https://duckduckgo.com
 ##bindsym XF86Finance		exec
 ##bindsym XF86Game		exec
 bindsym XF86Shop		exec $BROWSER https://ebay.com
-bindsym XF86MonBrightnessDown	exec --no-startup-id brightnessctl s 5-
-bindsym XF86MonBrightnessUp	exec --no-startup-id brightnessctl s 5+
+bindsym XF86MonBrightnessDown	exec --no-startup-id brightnessctl s 5%- -n 1 -s pkill -SIGRTMIN+10 i3blocks
+bindsym XF86MonBrightnessUp	exec --no-startup-id brightnessctl s 5%+ -s
 bindsym XF86AudioMedia		exec --no-startup-id $term -e ncmpcpp
 bindsym XF86Display		exec --no-startup-id arandr
 #bindsym XF86KbdLightOnOff	exec

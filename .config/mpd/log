@@ -1330,3 +1330,2839 @@ Nov 29 17:06 : client: [6] opened from 127.0.0.1:35272
 Nov 29 17:06 : client: [6] closed
 Nov 29 17:19 : client: [7] opened from 127.0.0.1:35530
 Nov 29 17:19 : client: [7] closed
+Nov 29 17:42 : client: [8] opened from 127.0.0.1:36076
+Nov 29 17:42 : client: [8] closed
+Nov 29 17:44 : client: [9] opened from 127.0.0.1:36114
+Nov 29 17:44 : client: [9] closed
+Nov 29 17:44 : client: [10] opened from 127.0.0.1:36126
+Nov 29 17:44 : client: [10] closed
+Nov 29 17:47 : client: [11] opened from 127.0.0.1:36176
+Nov 29 17:47 : client: [11] closed
+Nov 29 17:47 : client: [12] opened from 127.0.0.1:36188
+Nov 29 17:47 : client: [12] closed
+Nov 29 17:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:52 : client: [0] opened from 127.0.0.1:33848
+Nov 30 00:11 : client: [1] opened from 127.0.0.1:41144
+Nov 30 00:11 : client: [1] closed
+Nov 30 00:37 : client: [2] opened from 127.0.0.1:41584
+Nov 30 00:37 : client: [2] closed
+Nov 30 00:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 00:38 : client: [0] opened from 127.0.0.1:52586
+Nov 30 00:38 : client: [1] opened from 127.0.0.1:52590
+Nov 30 00:38 : client: [0] closed
+Nov 30 01:08 : client: [2] opened from 127.0.0.1:53330
+Nov 30 01:08 : client: [2] closed
+Nov 30 01:08 : client: [3] opened from 127.0.0.1:53340
+Nov 30 01:08 : client: [3] closed
+Nov 30 01:08 : client: [4] opened from 127.0.0.1:53350
+Nov 30 01:08 : client: [4] closed
+Nov 30 01:08 : client: [5] opened from 127.0.0.1:53360
+Nov 30 01:08 : client: [5] closed
+Nov 30 01:08 : client: [6] opened from 127.0.0.1:53378
+Nov 30 01:08 : client: [6] closed
+Nov 30 01:09 : client: [7] opened from 127.0.0.1:53384
+Nov 30 01:09 : client: [7] closed
+Nov 30 01:09 : client: [8] opened from 127.0.0.1:53394
+Nov 30 01:09 : client: [8] closed
+Nov 30 01:10 : client: [9] opened from 127.0.0.1:53414
+Nov 30 01:10 : client: [9] closed
+Nov 30 01:27 : client: [10] opened from 127.0.0.1:53650
+Nov 30 01:27 : client: [10] closed
+Nov 30 01:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 01:44 : client: [0] opened from 127.0.0.1:36428
+Nov 30 01:44 : client: [1] opened from 127.0.0.1:36432
+Nov 30 01:44 : client: [1] closed
+Nov 30 01:46 : client: [2] opened from 127.0.0.1:36484
+Nov 30 01:46 : client: [2] closed
+Nov 30 01:46 : client: [3] opened from 127.0.0.1:36494
+Nov 30 01:46 : client: [3] closed
+Nov 30 01:47 : client: [4] opened from 127.0.0.1:36508
+Nov 30 01:47 : client: [4] closed
+Nov 30 01:47 : client: [5] opened from 127.0.0.1:36518
+Nov 30 01:47 : client: [5] closed
+Nov 30 01:47 : client: [6] opened from 127.0.0.1:36532
+Nov 30 01:47 : client: [6] closed
+Nov 30 01:47 : client: [7] opened from 127.0.0.1:36542
+Nov 30 01:47 : client: [7] closed
+Nov 30 01:48 : client: [8] opened from 127.0.0.1:36560
+Nov 30 01:48 : client: [8] closed
+Nov 30 01:48 : client: [9] opened from 127.0.0.1:36566
+Nov 30 01:48 : client: [9] closed
+Nov 30 03:02 : client: [10] opened from 127.0.0.1:37704
+Nov 30 03:02 : client: [10] closed
+Nov 30 03:10 : client: [11] opened from 127.0.0.1:37868
+Nov 30 03:10 : client: [11] closed
+Nov 30 03:13 : client: [12] opened from 127.0.0.1:37966
+Nov 30 03:13 : client: [12] closed
+Nov 30 04:21 : client: [13] opened from 127.0.0.1:40294
+Nov 30 04:21 : exception: Not playing
+Nov 30 04:21 : client: [13] closed
+Nov 30 06:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 06:08 : client: [0] opened from 127.0.0.1:53036
+Nov 30 06:08 : client: [1] opened from 127.0.0.1:53040
+Nov 30 06:08 : client: [1] closed
+Dec 01 02:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 02:06 : client: [0] opened from 127.0.0.1:53574
+Dec 01 02:32 : client: [1] opened from 127.0.0.1:54234
+Dec 01 02:32 : client: [1] closed
+Dec 01 12:15 : client: [2] opened from 127.0.0.1:35106
+Dec 01 12:15 : exception: Not playing
+Dec 01 12:15 : client: [2] closed
+Dec 01 12:15 : client: [3] opened from 127.0.0.1:35110
+Dec 01 12:15 : exception: Not playing
+Dec 01 12:15 : client: [3] closed
+Dec 01 12:15 : client: [4] opened from 127.0.0.1:35114
+Dec 01 12:15 : exception: Not playing
+Dec 01 12:15 : client: [4] closed
+Dec 01 12:15 : client: [5] opened from 127.0.0.1:35118
+Dec 01 12:15 : exception: Not playing
+Dec 01 12:15 : client: [5] closed
+Dec 01 12:15 : client: [6] opened from 127.0.0.1:35122
+Dec 01 12:15 : exception: Not playing
+Dec 01 12:15 : client: [6] closed
+Dec 01 17:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 17:32 : client: [0] opened from 127.0.0.1:35722
+Dec 01 17:32 : client: [1] opened from 127.0.0.1:35726
+Dec 01 17:32 : client: [1] closed
+Dec 02 05:05 : client: [2] opened from 127.0.0.1:42586
+Dec 02 05:05 : client: [2] closed
+Dec 02 05:08 : client: [3] opened from 127.0.0.1:42626
+Dec 02 05:08 : client: [3] closed
+Dec 02 05:11 : client: [4] opened from 127.0.0.1:42690
+Dec 02 05:11 : exception: Not playing
+Dec 02 05:11 : client: [4] closed
+Dec 02 05:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 05:19 : client: [0] opened from 127.0.0.1:56472
+Dec 02 05:19 : client: [1] opened from 127.0.0.1:56476
+Dec 02 05:19 : client: [1] closed
+Dec 02 13:09 : client: [2] opened from 127.0.0.1:33870
+Dec 02 13:09 : client: [2] closed
+Dec 02 14:02 : client: [3] opened from 127.0.0.1:34736
+Dec 02 14:02 : client: [3] closed
+Dec 02 14:03 : client: [4] opened from 127.0.0.1:34750
+Dec 02 14:03 : client: [4] closed
+Dec 02 14:08 : client: [5] opened from 127.0.0.1:34846
+Dec 02 14:08 : client: [5] closed
+Dec 02 14:11 : client: [6] opened from 127.0.0.1:34892
+Dec 02 14:11 : client: [6] closed
+Dec 02 14:11 : client: [7] opened from 127.0.0.1:34902
+Dec 02 14:11 : client: [7] closed
+Dec 02 14:14 : client: [8] opened from 127.0.0.1:34974
+Dec 02 14:14 : client: [8] closed
+Dec 02 14:15 : client: [9] opened from 127.0.0.1:34992
+Dec 02 14:15 : client: [9] closed
+Dec 02 14:16 : client: [10] opened from 127.0.0.1:35014
+Dec 02 14:16 : client: [10] closed
+Dec 02 14:18 : client: [11] opened from 127.0.0.1:35052
+Dec 02 14:18 : client: [11] closed
+Dec 02 14:20 : client: [12] opened from 127.0.0.1:35090
+Dec 02 14:20 : client: [12] closed
+Dec 02 14:32 : client: [13] opened from 127.0.0.1:35252
+Dec 02 14:32 : client: [13] closed
+Dec 02 15:23 : client: [14] opened from 127.0.0.1:36004
+Dec 02 15:23 : client: [14] closed
+Dec 02 15:35 : client: [15] opened from 127.0.0.1:36200
+Dec 02 15:35 : client: [15] closed
+Dec 02 15:35 : client: [16] opened from 127.0.0.1:36214
+Dec 02 15:35 : client: [16] closed
+Dec 02 15:35 : client: [17] opened from 127.0.0.1:36228
+Dec 02 15:35 : client: [17] closed
+Dec 02 15:37 : client: [18] opened from 127.0.0.1:36258
+Dec 02 15:37 : client: [18] closed
+Dec 02 15:38 : client: [19] opened from 127.0.0.1:36272
+Dec 02 15:38 : client: [19] closed
+Dec 02 15:40 : client: [20] opened from 127.0.0.1:36310
+Dec 02 15:40 : client: [20] closed
+Dec 02 16:20 : client: [21] opened from 127.0.0.1:37004
+Dec 02 16:20 : client: [21] closed
+Dec 02 16:28 : client: [22] opened from 127.0.0.1:37150
+Dec 02 16:28 : client: [22] closed
+Dec 02 16:29 : client: [23] opened from 127.0.0.1:37174
+Dec 02 16:29 : client: [23] closed
+Dec 02 16:29 : client: [24] opened from 127.0.0.1:37190
+Dec 02 16:29 : client: [24] closed
+Dec 02 16:30 : client: [25] opened from 127.0.0.1:37204
+Dec 02 16:30 : client: [25] closed
+Dec 02 16:30 : client: [26] opened from 127.0.0.1:37218
+Dec 02 16:30 : client: [26] closed
+Dec 02 16:31 : client: [27] opened from 127.0.0.1:37232
+Dec 02 16:31 : client: [27] closed
+Dec 02 16:33 : client: [28] opened from 127.0.0.1:37282
+Dec 02 16:33 : client: [28] closed
+Dec 02 16:37 : client: [29] opened from 127.0.0.1:37350
+Dec 02 16:37 : client: [29] closed
+Dec 02 16:38 : client: [30] opened from 127.0.0.1:37368
+Dec 02 16:38 : client: [30] closed
+Dec 02 16:38 : client: [31] opened from 127.0.0.1:37382
+Dec 02 16:38 : client: [31] closed
+Dec 02 16:38 : client: [32] opened from 127.0.0.1:37396
+Dec 02 16:38 : client: [32] closed
+Dec 02 16:39 : client: [33] opened from 127.0.0.1:37410
+Dec 02 16:39 : client: [33] closed
+Dec 02 16:41 : client: [34] opened from 127.0.0.1:37438
+Dec 02 16:41 : client: [34] closed
+Dec 02 16:41 : client: [35] opened from 127.0.0.1:37460
+Dec 02 16:41 : client: [35] closed
+Dec 02 16:42 : client: [36] opened from 127.0.0.1:37480
+Dec 02 16:42 : client: [36] closed
+Dec 02 16:42 : client: [37] opened from 127.0.0.1:37502
+Dec 02 16:42 : client: [37] closed
+Dec 02 16:56 : client: [38] opened from 127.0.0.1:37714
+Dec 02 16:56 : client: [38] closed
+Dec 02 16:57 : client: [39] opened from 127.0.0.1:37730
+Dec 02 16:57 : client: [39] closed
+Dec 02 16:58 : client: [40] opened from 127.0.0.1:37744
+Dec 02 16:58 : client: [40] closed
+Dec 02 16:58 : client: [41] opened from 127.0.0.1:37758
+Dec 02 16:58 : client: [41] closed
+Dec 02 17:13 : client: [42] opened from 127.0.0.1:37986
+Dec 02 17:13 : client: [42] closed
+Dec 02 17:17 : client: [43] opened from 127.0.0.1:38054
+Dec 02 17:17 : client: [43] closed
+Dec 02 17:19 : client: [44] opened from 127.0.0.1:38076
+Dec 02 17:19 : client: [44] closed
+Dec 02 17:20 : client: [45] opened from 127.0.0.1:38094
+Dec 02 17:20 : client: [45] closed
+Dec 02 17:20 : client: [46] opened from 127.0.0.1:38112
+Dec 02 17:20 : client: [46] closed
+Dec 02 17:21 : client: [47] opened from 127.0.0.1:38136
+Dec 02 17:21 : client: [47] closed
+Dec 02 17:22 : client: [48] opened from 127.0.0.1:38146
+Dec 02 17:22 : client: [48] closed
+Dec 02 17:22 : client: [49] opened from 127.0.0.1:38156
+Dec 02 17:22 : client: [49] closed
+Dec 02 17:22 : client: [50] opened from 127.0.0.1:38170
+Dec 02 17:22 : client: [50] closed
+Dec 02 17:25 : client: [51] opened from 127.0.0.1:38220
+Dec 02 17:25 : client: [51] closed
+Dec 02 17:37 : client: [52] opened from 127.0.0.1:38426
+Dec 02 17:37 : client: [52] closed
+Dec 02 17:40 : client: [53] opened from 127.0.0.1:38476
+Dec 02 17:40 : client: [53] closed
+Dec 02 17:41 : client: [54] opened from 127.0.0.1:38502
+Dec 02 17:41 : client: [54] closed
+Dec 02 17:42 : client: [55] opened from 127.0.0.1:38520
+Dec 02 17:42 : client: [55] closed
+Dec 02 17:44 : client: [56] opened from 127.0.0.1:38554
+Dec 02 17:44 : client: [56] closed
+Dec 02 17:46 : client: [57] opened from 127.0.0.1:38576
+Dec 02 17:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 17:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 17:46 : client: [57] closed
+Dec 02 17:46 : client: [0] closed
+Dec 02 17:46 : client: [58] opened from 127.0.0.1:38584
+Dec 02 17:46 : client: [59] opened from 127.0.0.1:38586
+Dec 02 17:46 : client: [59] closed
+Dec 02 17:46 : client: [60] opened from 127.0.0.1:38592
+Dec 02 17:46 : client: [60] closed
+Dec 02 17:48 : client: [61] opened from 127.0.0.1:38630
+Dec 02 17:48 : client: [61] closed
+Dec 02 17:49 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 02 17:49 : client: [58] closed
+Dec 02 17:49 : client: [62] opened from 127.0.0.1:38660
+Dec 02 17:49 : client: [63] opened from 127.0.0.1:38664
+Dec 02 17:49 : client: [63] closed
+Dec 02 17:50 : client: [64] opened from 127.0.0.1:38682
+Dec 02 17:50 : client: [64] closed
+Dec 02 17:50 : client: [65] opened from 127.0.0.1:38700
+Dec 02 17:50 : client: [65] closed
+Dec 02 17:52 : client: [66] opened from 127.0.0.1:38730
+Dec 02 17:52 : client: [66] closed
+Dec 02 17:52 : client: [67] opened from 127.0.0.1:38740
+Dec 02 17:52 : client: [67] closed
+Dec 02 17:52 : client: [68] opened from 127.0.0.1:38754
+Dec 02 17:52 : client: [68] closed
+Dec 02 17:53 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 02 17:53 : client: [62] closed
+Dec 02 17:53 : client: [69] opened from 127.0.0.1:38770
+Dec 02 17:53 : client: [70] opened from 127.0.0.1:38774
+Dec 02 17:53 : client: [70] closed
+Dec 02 17:53 : client: [71] opened from 127.0.0.1:38786
+Dec 02 17:53 : client: [69] closed
+Dec 02 17:53 : client: [71] closed
+Dec 02 17:53 : client: [72] opened from 127.0.0.1:38792
+Dec 02 17:53 : client: [73] opened from 127.0.0.1:38794
+Dec 02 17:53 : client: [72] closed
+Dec 02 17:54 : client: [74] opened from 127.0.0.1:38798
+Dec 02 17:54 : client: [73] closed
+Dec 02 17:54 : client: [74] closed
+Dec 02 17:54 : client: [75] opened from 127.0.0.1:38802
+Dec 02 17:54 : client: [76] opened from 127.0.0.1:38806
+Dec 02 17:54 : client: [75] closed
+Dec 02 17:54 : client: [77] opened from 127.0.0.1:38810
+Dec 02 17:54 : client: [76] closed
+Dec 02 17:54 : client: [77] closed
+Dec 02 17:54 : client: [78] opened from 127.0.0.1:38814
+Dec 02 17:54 : client: [79] opened from 127.0.0.1:38818
+Dec 02 17:54 : client: [79] closed
+Dec 02 17:54 : client: [80] opened from 127.0.0.1:38822
+Dec 02 17:54 : client: [78] closed
+Dec 02 17:54 : client: [80] closed
+Dec 02 17:54 : client: [81] opened from 127.0.0.1:38826
+Dec 02 17:54 : client: [82] opened from 127.0.0.1:38830
+Dec 02 17:54 : client: [81] closed
+Dec 02 17:54 : client: [83] opened from 127.0.0.1:38846
+Dec 02 17:54 : client: [83] closed
+Dec 02 17:55 : client: [84] opened from 127.0.0.1:38856
+Dec 02 17:55 : client: [82] closed
+Dec 02 17:55 : client: [84] closed
+Dec 02 17:55 : client: [85] opened from 127.0.0.1:38860
+Dec 02 17:55 : client: [86] opened from 127.0.0.1:38864
+Dec 02 17:55 : client: [85] closed
+Dec 02 17:55 : client: [87] opened from 127.0.0.1:38868
+Dec 02 17:55 : client: [86] closed
+Dec 02 17:55 : client: [87] closed
+Dec 02 17:55 : client: [88] opened from 127.0.0.1:38872
+Dec 02 17:55 : client: [89] opened from 127.0.0.1:38876
+Dec 02 17:55 : client: [88] closed
+Dec 02 17:55 : client: [90] opened from 127.0.0.1:38880
+Dec 02 17:55 : client: [89] closed
+Dec 02 17:55 : client: [90] closed
+Dec 02 17:55 : client: [91] opened from 127.0.0.1:38884
+Dec 02 17:55 : client: [92] opened from 127.0.0.1:38888
+Dec 02 17:55 : client: [91] closed
+Dec 02 17:55 : client: [93] opened from 127.0.0.1:38892
+Dec 02 17:55 : client: [92] closed
+Dec 02 17:55 : client: [93] closed
+Dec 02 17:55 : client: [94] opened from 127.0.0.1:38896
+Dec 02 17:55 : client: [95] opened from 127.0.0.1:38900
+Dec 02 17:55 : client: [94] closed
+Dec 02 17:55 : client: [96] opened from 127.0.0.1:38908
+Dec 02 17:55 : client: [95] closed
+Dec 02 17:55 : client: [96] closed
+Dec 02 17:55 : client: [97] opened from 127.0.0.1:38912
+Dec 02 17:55 : client: [98] opened from 127.0.0.1:38916
+Dec 02 17:55 : client: [98] closed
+Dec 02 17:55 : client: [99] opened from 127.0.0.1:38920
+Dec 02 17:55 : client: [97] closed
+Dec 02 17:55 : client: [99] closed
+Dec 02 17:55 : client: [100] opened from 127.0.0.1:38924
+Dec 02 17:55 : client: [101] opened from 127.0.0.1:38928
+Dec 02 17:55 : client: [100] closed
+Dec 02 17:55 : client: [102] opened from 127.0.0.1:38932
+Dec 02 17:55 : client: [101] closed
+Dec 02 17:55 : client: [102] closed
+Dec 02 17:55 : client: [103] opened from 127.0.0.1:38938
+Dec 02 17:55 : client: [104] opened from 127.0.0.1:38940
+Dec 02 17:55 : client: [103] closed
+Dec 02 17:55 : client: [105] opened from 127.0.0.1:38944
+Dec 02 17:55 : client: [104] closed
+Dec 02 17:55 : client: [105] closed
+Dec 02 17:55 : client: [106] opened from 127.0.0.1:38948
+Dec 02 17:55 : client: [107] opened from 127.0.0.1:38952
+Dec 02 17:55 : client: [107] closed
+Dec 02 17:56 : client: [108] opened from 127.0.0.1:38976
+Dec 02 17:56 : client: [108] closed
+Dec 02 17:57 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 02 17:57 : client: [106] closed
+Dec 02 17:57 : client: [109] opened from 127.0.0.1:38990
+Dec 02 17:57 : client: [110] opened from 127.0.0.1:38994
+Dec 02 17:57 : client: [110] closed
+Dec 02 17:57 : client: [111] opened from 127.0.0.1:38998
+Dec 02 17:57 : client: [111] closed
+Dec 02 17:58 : client: [112] opened from 127.0.0.1:39028
+Dec 02 17:58 : client: [109] closed
+Dec 02 17:58 : client: [112] closed
+Dec 02 17:58 : client: [113] opened from 127.0.0.1:39032
+Dec 02 17:58 : client: [114] opened from 127.0.0.1:39036
+Dec 02 17:58 : client: [113] closed
+Dec 02 18:00 : client: [114] closed
+Dec 02 18:00 : update: added /Japanese Type Beat - ''Senso''-vTmMtNoeN9U.mkv
+Dec 02 18:00 : client: [115] opened from 127.0.0.1:39086
+Dec 02 18:00 : client: [116] opened from 127.0.0.1:39090
+Dec 02 18:00 : client: [116] closed
+Dec 02 18:00 : update: removing Japanese Type Beat - ''Senso''-vTmMtNoeN9U.mkv
+Dec 02 18:00 : client: [115] closed
+Dec 02 18:00 : client: [117] opened from 127.0.0.1:39108
+Dec 02 18:00 : client: [118] opened from 127.0.0.1:39106
+Dec 02 18:00 : client: [118] closed
+Dec 02 18:01 : client: [117] closed
+Dec 02 18:01 : update: added /Japanese Type Beat - ''Senso''-vTmMtNoeN9U.opus
+Dec 02 18:01 : client: [119] opened from 127.0.0.1:39126
+Dec 02 18:01 : client: [120] opened from 127.0.0.1:39130
+Dec 02 18:01 : client: [119] closed
+Dec 02 18:02 : update: removing Japanese Type Beat - ''Senso''-vTmMtNoeN9U.opus
+Dec 02 18:02 : client: [120] closed
+Dec 02 18:02 : client: [121] opened from 127.0.0.1:39162
+Dec 02 18:02 : client: [122] opened from 127.0.0.1:39166
+Dec 02 18:02 : client: [121] closed
+Dec 02 18:03 : client: [122] closed
+Dec 02 18:03 : update: added /Travis Scott x Young Thug Type Beat - ''Odachi''-OfTO_WeApgM.opus
+Dec 02 18:03 : client: [123] opened from 127.0.0.1:39222
+Dec 02 18:03 : client: [124] opened from 127.0.0.1:39226
+Dec 02 18:03 : client: [123] closed
+Dec 02 18:04 : update: removing Travis Scott x Young Thug Type Beat - ''Odachi''-OfTO_WeApgM.opus
+Dec 02 18:04 : client: [124] closed
+Dec 02 18:04 : client: [125] opened from 127.0.0.1:39240
+Dec 02 18:04 : client: [126] opened from 127.0.0.1:39244
+Dec 02 18:04 : client: [125] closed
+Dec 02 18:05 : client: [127] opened from 127.0.0.1:39386
+Dec 02 18:05 : client: [126] closed
+Dec 02 18:05 : client: [128] opened from 127.0.0.1:39420
+Dec 02 18:05 : client: [129] opened from 127.0.0.1:39424
+Dec 02 18:05 : client: [128] closed
+Dec 02 18:05 : client: [129] closed
+Dec 02 18:05 : client: [130] opened from 127.0.0.1:39428
+Dec 02 18:05 : client: [131] opened from 127.0.0.1:39432
+Dec 02 18:05 : client: [130] closed
+Dec 02 18:05 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:05 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:05 : client: [131] closed
+Dec 02 18:05 : client: [132] opened from 127.0.0.1:39470
+Dec 02 18:05 : client: [133] opened from 127.0.0.1:39474
+Dec 02 18:05 : client: [132] closed
+Dec 02 18:05 : client: [133] closed
+Dec 02 18:05 : client: [134] opened from 127.0.0.1:39486
+Dec 02 18:05 : client: [135] opened from 127.0.0.1:39490
+Dec 02 18:05 : client: [134] closed
+Dec 02 18:06 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:06 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 02 18:06 : client: [135] closed
+Dec 02 18:06 : client: [136] opened from 127.0.0.1:39570
+Dec 02 18:06 : client: [136] closed
+Dec 02 18:06 : client: [137] opened from 127.0.0.1:39574
+Dec 02 18:06 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:06 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:06 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:06 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:06 : client: [137] closed
+Dec 02 18:06 : client: [138] opened from 127.0.0.1:39604
+Dec 02 18:06 : client: [138] closed
+Dec 02 18:06 : client: [139] opened from 127.0.0.1:39608
+Dec 02 18:06 : client: [139] closed
+Dec 02 18:06 : client: [140] opened from 127.0.0.1:39614
+Dec 02 18:06 : client: [140] closed
+Dec 02 18:06 : client: [141] opened from 127.0.0.1:39618
+Dec 02 18:06 : client: [141] closed
+Dec 02 18:06 : client: [142] opened from 127.0.0.1:39624
+Dec 02 18:06 : client: [142] closed
+Dec 02 18:06 : client: [143] opened from 127.0.0.1:39628
+Dec 02 18:06 : client: [143] closed
+Dec 02 18:06 : client: [144] opened from 127.0.0.1:39638
+Dec 02 18:06 : client: [145] opened from 127.0.0.1:39642
+Dec 02 18:06 : client: [145] closed
+Dec 02 18:06 : client: [144] closed
+Dec 02 18:06 : client: [146] opened from 127.0.0.1:39646
+Dec 02 18:06 : client: [146] closed
+Dec 02 18:06 : client: [147] opened from 127.0.0.1:39650
+Dec 02 18:06 : client: [147] closed
+Dec 02 18:06 : client: [148] opened from 127.0.0.1:39726
+Dec 02 18:06 : client: [149] opened from 127.0.0.1:39730
+Dec 02 18:06 : client: [149] closed
+Dec 02 18:06 : client: [148] closed
+Dec 02 18:06 : client: [150] opened from 127.0.0.1:39744
+Dec 02 18:06 : client: [150] closed
+Dec 02 18:06 : client: [151] opened from 127.0.0.1:39748
+Dec 02 18:06 : client: [151] closed
+Dec 02 18:06 : client: [152] opened from 127.0.0.1:39756
+Dec 02 18:06 : client: [153] opened from 127.0.0.1:39760
+Dec 02 18:06 : client: [153] closed
+Dec 02 18:06 : client: [152] closed
+Dec 02 18:06 : client: [154] opened from 127.0.0.1:39774
+Dec 02 18:06 : client: [155] opened from 127.0.0.1:39772
+Dec 02 18:06 : client: [154] closed
+Dec 02 18:06 : client: [155] closed
+Dec 02 18:06 : update: added /Dizzy Wright x Phora Type Beat - ''Daydream''-RXyisO4WqUI.m4a
+Dec 02 18:06 : update: added /Phora x Frank Ocean Type Beat - ''Faith''-n9MoyaUPy3U.opus
+Dec 02 18:06 : update: added /Jay Z x Kanye West Type Beat - ''Ma Throne''-LMmKgKx7csk.opus
+Dec 02 18:06 : update: added /Egyptian Type Beat - ''Pharaoh''-VPk1kGs4LBE.opus
+Dec 02 18:06 : update: added /Chance The Rapper x Donnie Trumpet Type Beat - ''Good Enough''-RGxiegU_Fe8.opus
+Dec 02 18:06 : update: added /Japanese Type Beat - ''Senso''-vTmMtNoeN9U.opus
+Dec 02 18:06 : update: added /[FREE] Russ x Jaden Smith Type Beat - ''Dream''-Tn_U6xiSdz4.opus
+Dec 02 18:06 : update: added /Travis Scott x Young Thug Type Beat - ''It's Lit''-OAgNNE0aYQI.opus
+Dec 02 18:06 : update: added /The Weeknd x Future Type Beat - ''I'm A Star''-08NSWTMsdc0.opus
+Dec 02 18:06 : update: added /Donnie Trumpet x Wale x J. Cole Type Beat - ''Daydreaming''-RHxmofE3d3I.opus
+Dec 02 18:06 : update: added /Bryson Tiller x Ye Ali Type Beat - ''Lose The Feeling''-0gcjrXLGlYI.opus
+Dec 02 18:06 : update: added /Keith Ape x Kohh Type Beat - ''Hyung''-lYr2r8Nal60.opus
+Dec 02 18:06 : update: added /Jay Park x Okasian Type Beat - ''Fleek''-193Krp3i6qg.opus
+Dec 02 18:06 : update: added /Naruto Type Beat - ''Chakra''-HH0GfR3tl_Q.opus
+Dec 02 18:06 : update: added /Drake Type Beat - ''Aw Man''-9i_yT68ylI8.opus
+Dec 02 18:06 : update: added /Suicideboys x Bones Type Beat - ''Gaudy''-yRNF8kbYjoY.opus
+Dec 02 18:06 : update: added /The Weeknd x Kanye West Type Beat - ''Karma''-kLEwSKhSXQ4.opus
+Dec 02 18:06 : update: added /[FREE] Migos Type Beat - ''Air Jordan''-e2p3NttgdVg.opus
+Dec 02 18:06 : client: [156] opened from 127.0.0.1:39788
+Dec 02 18:06 : client: [157] opened from 127.0.0.1:39792
+Dec 02 18:06 : client: [156] closed
+Dec 02 18:06 : update: added /Wale x Rick Ross x Drake Type Beat - ''Sweet Juice''-ES-oRQ4ASwI.m4a
+Dec 02 18:06 : update: added /SZA x Kendrick Lamar Type Beat - ''CTRL''-eUmMIZh5OGs.opus
+Dec 02 18:06 : update: added /J. Cole x Logic Type Beat - ''Roses''-MMH_4zpHLV0.opus
+Dec 02 18:06 : update: added /Final Fantasy Type Beat - ''Cloud''-P8tPY4wfBH8.opus
+Dec 02 18:06 : update: added /Brazilian Type Beat - ''Visao''-O0zj0BzFPn8.opus
+Dec 02 18:06 : update: added /Quavo x Swae Lee Type Beat - ''Sachi''-VSZ4HwlUSXU.opus
+Dec 02 18:06 : update: added /Vince Staples Type Beat - ''El Chapo''-IdW22upNUSc.opus
+Dec 02 18:06 : update: added /Kohh x Keith Ape Type Beat - ''Tokyo''-Nt11x4o7hfw.opus
+Dec 02 18:06 : update: added /Rich Chigga x Keith Ape Type Beat - ''Ninja''-Mvt6glOAfG4.opus
+Dec 02 18:06 : update: added /Kohh x Keith Ape Type Beat - ''Play''-yvjnmLdED4Q.opus
+Dec 02 18:06 : update: added /Travis Scott x Young Thug Type Beat - ''Odachi''-OfTO_WeApgM.opus
+Dec 02 18:06 : update: added /Kingdom Hearts Type Beat - ''Sora''-lpWruHm3VBQ.opus
+Dec 02 18:06 : update: added /Sampha x Drake x Kanye West Type Beat - ''Freedom''-B3l57eXwsBY.m4a
+Dec 02 18:06 : client: [157] closed
+Dec 02 18:06 : client: [158] opened from 127.0.0.1:39796
+Dec 02 18:06 : client: [159] opened from 127.0.0.1:39800
+Dec 02 18:06 : client: [159] closed
+Dec 02 18:06 : client: [158] closed
+Dec 02 18:06 : client: [160] opened from 127.0.0.1:39818
+Dec 02 18:06 : client: [160] closed
+Dec 02 18:06 : client: [161] opened from 127.0.0.1:39822
+Dec 02 18:06 : client: [161] closed
+Dec 02 18:06 : client: [162] opened from 127.0.0.1:39834
+Dec 02 18:06 : client: [162] closed
+Dec 02 18:06 : client: [163] opened from 127.0.0.1:39838
+Dec 02 18:07 : client: [163] closed
+Dec 02 18:07 : client: [164] opened from 127.0.0.1:39882
+Dec 02 18:07 : client: [164] closed
+Dec 02 18:07 : client: [165] opened from 127.0.0.1:39886
+Dec 02 18:07 : client: [165] closed
+Dec 02 18:07 : client: [166] opened from 127.0.0.1:39894
+Dec 02 18:07 : client: [167] opened from 127.0.0.1:39898
+Dec 02 18:07 : client: [166] closed
+Dec 02 18:07 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:07 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:07 : client: [127] closed
+Dec 02 18:09 : client: [167] closed
+Dec 02 18:09 : update: added /Isaiah Rashad Type Beat - ''San Vicente''-_KU64R0O0ks.m4a
+Dec 02 18:09 : update: added /Dej Loaf Type Beat - ''Butterflies''-3khQN_30KVI.opus
+Dec 02 18:09 : update: added /Meek Mill x Tory Lanez Type Beat - ''Praise''-YW9G-EURBAk.opus
+Dec 02 18:09 : update: added /Korean Type Beat - ''Muji''-G6Odb88VCy4.opus
+Dec 02 18:09 : update: added /MHD x PNL Afro Trap Type Beat - ''Encore''-a89FF_8CfTw.opus
+Dec 02 18:09 : update: added /Nav x The Weeknd Type Beat - ''We XO''-EXGpzvvtNBk.opus
+Dec 02 18:09 : update: added /Japanese Type Beat - ''Kumo''-p8uQh9Kx13Y.opus
+Dec 02 18:09 : update: added /Keith Ape x Ski Mask The Slump God Type Beat - ''WHOO''-eUNs0b6ltmw.opus
+Dec 02 18:09 : update: added /Keith Ape x Pink Guy Type Beat - ''88Rising''-3ILhGZAbSF0.opus
+Dec 02 18:09 : update: added /Chinese Type Beat - ''Xiangxin''-UHxriDV-Hi4.opus
+Dec 02 18:09 : update: added /Chinese Type Beat - ''Shangxin''-29nrdX__igI.opus
+Dec 02 18:09 : update: added /Phora Type Beat - ''North End''-9zFikb--ZAY.opus
+Dec 02 18:09 : update: added /Joji x Mac Miller Type Beat - ''Filthy''-ydS8WF7EEa8.opus
+Dec 02 18:09 : update: added /Kanye West x Travis Scott Type Beat - ''Slave''-KkRZqtxBOsg.opus
+Dec 02 18:09 : update: added /Bryson Tiller x The Weeknd Type Beat - ''6 AM''-Feg9P2VtY74.opus
+Dec 02 18:09 : update: added /Tory Lanez x Drake Type Beat - ''Toronto''-Yb-lDp8qKPo.opus
+Dec 02 18:09 : update: added /Chinese Type Beat - ''Ni Hao''-a52Ed0v_Xnc.opus
+Dec 02 18:09 : update: added /Rich Chigga x XXXTENTACION Type Beat - ''Java''-eruUsMaFJro.opus
+Dec 02 18:09 : update: added /Asap Ferg Type Beat - ''Sick Mind''-TFSDYz_dWm8.opus
+Dec 02 18:09 : client: [168] opened from 127.0.0.1:40292
+Dec 02 18:09 : client: [169] opened from 127.0.0.1:40296
+Dec 02 18:09 : client: [168] closed
+Dec 02 18:09 : update: added /[FREE] J. Cole Type Beat - ''In Too Deep''-m3kOhllKxPg.m4a
+Dec 02 18:09 : update: added /Asap Rocky Type Beat - ''Rememory''-Pu7v6AhGsbE.opus
+Dec 02 18:09 : update: added /PartyNextDoor x Drake Type Beat - ''Excite''-vmM24uEVf3w.opus
+Dec 02 18:09 : update: added /Travi$ Scott Type Beat - ''Reverse''-mbJLfg1g2qI.opus
+Dec 02 18:09 : update: added /Lil Uzi Vert Type Beat - ''Care Less''-QjdOXVUIYbQ.m4a
+Dec 02 18:09 : update: added /Schoolboy Q x Asap Rocky Type Beat - ''Whip''-k-ArNgWFgLs.opus
+Dec 02 18:09 : update: added /Kanye West Type Beat - ''Bawlin''-nFT2sGtcHN8.m4a
+Dec 02 18:09 : update: added /Joey Badass Type Beat - ''She Wants it''-Bih9bUS_hDY.m4a
+Dec 02 18:09 : update: added /Joey Badass x J.Cole Type Beat - ''Be Free''-78rIKsc18NA.opus
+Dec 02 18:09 : update: added /Dizzy Wright Type Beat - ''Pledge''-bG2Ml5izaEs.m4a
+Dec 02 18:09 : update: added /Indian Type Beat - ''Mumbai''-Qph2lViJLVQ.ogg
+Dec 02 18:09 : update: added /Japanese Type Beat - ''Hosu''-XfjWqRDFH2s.opus
+Dec 02 18:09 : update: added /[FREE] Asap Rocky x Asap Ferg Type Beat - ''Trilla''-KVo19N9btqw.opus
+Dec 02 18:09 : client: [169] closed
+Dec 02 18:09 : client: [170] opened from 127.0.0.1:40304
+Dec 02 18:09 : client: [171] opened from 127.0.0.1:40306
+Dec 02 18:09 : client: [171] closed
+Dec 02 18:10 : player: played "Drake Type Beat - ''Aw Man''-9i_yT68ylI8.opus"
+Dec 02 18:10 : client: [170] closed
+Dec 02 18:10 : client: [172] opened from 127.0.0.1:40582
+Dec 02 18:10 : client: [172] closed
+Dec 02 18:10 : client: [173] opened from 127.0.0.1:40586
+Dec 02 18:13 : player: played "Drake Type Beat - ''Aw Man''-9i_yT68ylI8.opus"
+Dec 02 18:13 : client: [173] closed
+Dec 02 18:13 : client: [174] opened from 127.0.0.1:41166
+Dec 02 18:13 : client: [175] opened from 127.0.0.1:41170
+Dec 02 18:13 : client: [175] closed
+Dec 02 18:14 : client: [174] closed
+Dec 02 18:14 : update: added /Nintendo Type Beat - ''Gameboy''-SFqBAKpRWi0.opus
+Dec 02 18:14 : update: added /Rich Chigga x Keith Ape Type Beat - ''Glow''-5wcupkq-q8I.opus
+Dec 02 18:14 : update: added /Rich Chigga x Keith Ape Type Beat - ''Mantap''-YwjLX8Vlx2U.opus
+Dec 02 18:14 : update: added /Drake Type Beat - ''Let God Handle It''-B8_-xaJ_t2Y.opus
+Dec 02 18:14 : update: added /Earl Sweatshirt Type Beat - ''Buried Alive''-72GPVRdkTiQ.opus
+Dec 02 18:14 : update: added /Ty Dolla Sign Type Beat - ''Missionary''-r_G2fL0qILM.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Yoru''-WFiL9TIYNv4.opus
+Dec 02 18:14 : update: added /Ty Dolla Sign x Rae Sremmurd Type Beat - ''SWANG''-eVtfmCT4Pic.opus
+Dec 02 18:14 : update: added /Frank Ocean Type Beat - ''Ocean''-6llj81XJIkM.m4a
+Dec 02 18:14 : update: added /XXXTENTACION x Frank Ocean Type Beat - ''Alone''-0qqvKbIwQ8M.opus
+Dec 02 18:14 : update: added /Vic Mensa x Rich Chigga Type Beat - ''Decided''-P2q7fs8JiXo.opus
+Dec 02 18:14 : update: added /Keith Ape x Dumbfoundead Type Beat - ''Yakuza''-ii5k_zO4aHc.opus
+Dec 02 18:14 : update: added /[FREE] Playboi Carti x Lil Yachty Type Beat - ''Tour''-1sz6kqWX45c.opus
+Dec 02 18:14 : client: [176] opened from 127.0.0.1:41530
+Dec 02 18:14 : client: [176] closed
+Dec 02 18:14 : client: [177] opened from 127.0.0.1:41534
+Dec 02 18:14 : update: added /Khalid Type Beat - ''Take It Slow''-vj3e52GZBOw.m4a
+Dec 02 18:14 : update: added /Jay Park x Gray Type Beat - ''Yuh''-6m0buYYJwgI.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Shakuhachi''-S5cHBB9tVos.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Trapanese''-_M9_xd7YhLI.opus
+Dec 02 18:14 : update: added /Okasian x Jay Park Type Beat - ''Drunk''-ysyh6_PUt0Q.opus
+Dec 02 18:14 : update: added /Kid Cudi Type Beat - ''Up To You''-bcEgptgdkhY.opus
+Dec 02 18:14 : update: added /Travis Scott Type Beat - ''Treachery''-AuuzsQoB3YY.opus
+Dec 02 18:14 : update: added /Pusha T Type Beat - ''Snitch''-mSI3v3iTpDE.opus
+Dec 02 18:14 : update: added /Post Malone x Kehlani Type Beat - ''Wavey''-w6Zk9V5jJBQ.opus
+Dec 02 18:14 : update: added /XXXTENTACION x Keith Ape Type Beat - ''Akuma''-msEJQP81-Fc.opus
+Dec 02 18:14 : update: added /Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus
+Dec 02 18:14 : update: added /Future Type Beat - ''Crown''-SPzEbkDMUaE.opus
+Dec 02 18:14 : update: added /Keith Ape x Asap Ferg Type Beat - ''SAFE''-4nhb0XGhAfo.opus
+Dec 02 18:14 : update: added /Drake x Future Type Beat - ''100-Carat''-EzPTen4mMgM.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Hito''-eXUwHfuFXHo.opus
+Dec 02 18:14 : update: added /Yung Lean x Keith Ape Type Beat - ''Saiko''-LVhEvOZrdQo.opus
+Dec 02 18:14 : update: added /Kendrick Lamar Type Beat - ''Kung Fu''-Kb-j02RWF6A.opus
+Dec 02 18:14 : update: added /Tory Lanez Type Beat - ''Perspective''-CkInOwdIti8.m4a
+Dec 02 18:14 : update: added /[FREE] Asap Rocky x Asap Ferg Type Beat - ''SWAVEY''-XKheSQ7N8VA.m4a
+Dec 02 18:14 : update: added /Kanye West x Travis Scott Type Beat - ''Kamikaze''-XFvv8TR3W9g.opus
+Dec 02 18:14 : update: added /[FREE] Japanese Type Beat - ''Arigato''-BP-ql2P1uR8.opus
+Dec 02 18:14 : update: added /Halloween Type Beat - ''Saints''-gRKagfJZbXw.opus
+Dec 02 18:14 : update: added /Nipsey Hussle Type Beat - ''Ground Control''-owPocPwoKe4.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Yokoso''-w8YZpGsOSIk.opus
+Dec 02 18:14 : update: added /Drake Type Beat - ''Times Change''-hQ2dckDNawA.opus
+Dec 02 18:14 : update: added /Jay Park x Okasian Type Beat - ''Wimme''-xxOLKLzxHFo.opus
+Dec 02 18:14 : update: added /Indonesian Type Beat - ''Gamelan''-8a_43A7-zHQ.opus
+Dec 02 18:14 : update: added /Big Sean Type Beat - ''Dealers''-4Sf6TAv8XlY.opus
+Dec 02 18:14 : update: added /Machine Gun Kelly Type Beat - ''No Sleep''-u36oxDPeXJA.m4a
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Kanji''-4itRDAjN1q0.opus
+Dec 02 18:14 : update: added /XXXTENTACION x Night Lovell Type Beat - ''Yen''-ioVTDFG-85c.opus
+Dec 02 18:14 : update: added /Dragon Ball Z Type Beat - ''Saiyan''-dJH0j1MDJ0E.m4a
+Dec 02 18:14 : update: added /DJ Khaled x Jay -Z Type Beat - ''V.4.D.7.''-Xzala3zA2ds.m4a
+Dec 02 18:14 : update: added /J. Cole Type Beat - ''Exotic''-8dQwTac2seA.opus
+Dec 02 18:14 : update: added /Post Malone x Russ Type Beat - ''High''-KSSTytF4FO8.opus
+Dec 02 18:14 : update: added /Dragon Ball Z Type Beat - ''9000''-a5bQAMGxK1Q.opus
+Dec 02 18:14 : update: added /Asap Rocky Type Beat - ''Trill''-ALveAaHT_xo.opus
+Dec 02 18:14 : update: added /[FREE] XXXTENTACION x Ski Mask Type Beat - ''Sake''-4IlwTWw7P7U.ogg
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Tsukimi''-iAu7wa1_PNQ.opus
+Dec 02 18:14 : update: added /Roy Woods x MadeinTYO Type Beat - ''Thirsty''-X_akg8a3NaA.opus
+Dec 02 18:14 : update: added /Skepta Type Beat - ''ISH''-n19ITlzCRUc.m4a
+Dec 02 18:14 : update: added /Desiigner Type Beat - ''Exhale''-EgqXYtwP5Kg.m4a
+Dec 02 18:14 : update: added /6LACK x PartyNextDoor Type Beat - ''Instinct''-2BVzlGSXGD4.opus
+Dec 02 18:14 : update: added /Higher Brothers x Bohan Phoenix Type Beat - ''Made in China''-1pZhLnFRq2w.opus
+Dec 02 18:14 : update: added /Jahlil Beats Type Beat - ''16 Bars''-Fa6YqvM0OcI.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Kotonaru''-YYpZGiKySMw.opus
+Dec 02 18:14 : update: added /Phora Type Beat - ''On Point''-NZPjAHEG1L0.m4a
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Sakura''-DE4vKTzTrRE.opus
+Dec 02 18:14 : update: added /Jhene Aiko x TWENTY88 x Chill Type Beat - ''When Ya Know''-PNeYAzr3Ydk.m4a
+Dec 02 18:14 : update: added /Lil Peep x Bryson Tiller Type Beat - ''Angels''-KEPQCJXHm24.opus
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Samurai''-nzj0fKD6SjE.opus
+Dec 02 18:14 : update: added /Pusha T x Kanye West Type Beat - ''The Prelude''-uRe8hcXXhnQ.opus
+Dec 02 18:14 : update: added /Mac Miller Type Beat - ''Stargazing''-_g7QRsA20d0.opus
+Dec 02 18:14 : update: added /Lil Pump x Smokepurpp Type Beat - ''Jetski''-AyMEdxwuXlw.ogg
+Dec 02 18:14 : update: added /The Game x Drake Type Beat - ''8 More Than 92''-F98_3pICaME.opus
+Dec 02 18:14 : update: added /Dizzy Wright x Phora Type Beat - ''So Close''-llIH_0z6PN8.opus
+Dec 02 18:14 : update: added /Rich Chigga x Keith Ape Type Beat - ''GTA''-OVVGn3UdTZM.opus
+Dec 02 18:14 : update: added /Drake x Rihanna Type Beat - ''Badgal''-nvSTvGl18mA.opus
+Dec 02 18:14 : update: added /Kendrick Lamar Type Beat - ''Sense''-ZERPxvGQ2Ds.opus
+Dec 02 18:14 : update: added /The Weeknd Type Beat - ''Go Home''-ZBFsfQBdFYc.opus
+Dec 02 18:14 : update: added /[FREE] Drake x Giggs Type Beat - ''Diamonds''-k_ATYi3ZOig.opus
+Dec 02 18:14 : update: added /KOHH x Dumbfoundead Type Beat - ''Dirt''-areK6gdjhJA.opus
+Dec 02 18:14 : update: added /Ty Dolla Sign x Big Sean x YG Type Beat - ''On & On''-SZSP9_AA2-w.m4a
+Dec 02 18:14 : update: added /808 Mafia Type Beat - ''Tha Jxker''-jAFXuBliP-Y.opus
+Dec 02 18:14 : update: added /Isaiah Rashad x SZA Type Beat - ''Tha Situation''-dqTbj8jWfsc.opus
+Dec 02 18:14 : update: added /The Weeknd Type Beat - ''XoX''-3CDrJcGXE-E.opus
+Dec 02 18:14 : update: added /Indonesian Type Beat - ''Suci''-oMa336dOQS8.opus
+Dec 02 18:14 : update: added /Earl Sweatshirt Type Beat - ''Soft''-Ul47IvUwtMM.m4a
+Dec 02 18:14 : update: added /The Weeknd x Future Type Beat - ''Rockin''-oX1i33Gu1xs.opus
+Dec 02 18:14 : update: added /Russian Type Beat - ''Vodka''-e3ieCjY_ImM.opus
+Dec 02 18:14 : update: added /Tyga Type Beat - ''Spitfire''-aIGid_NtZoQ.opus
+Dec 02 18:14 : update: added /Arabic Type Beat - ''Maeak''-AsBqyvZoMnw.opus
+Dec 02 18:14 : update: added /Sonny Digital Type Beat - ''Roll Up''-zLjf20gQKxM.opus
+Dec 02 18:14 : update: added /Partynextdoor x Bryson Tiller Type Beat - ''Story''-rmO6a9Yq7-A.m4a
+Dec 02 18:14 : update: added /Japanese Type Beat - ''Jiyu''-KLDFzee11CQ.opus
+Dec 02 18:14 : update: added /Wiz Khalifa Type Beat - 'Countin' Paper'-jHL_GDneyY0.opus
+Dec 02 18:14 : client: [177] closed
+Dec 02 18:14 : client: [178] opened from 127.0.0.1:41538
+Dec 02 18:14 : client: [179] opened from 127.0.0.1:41542
+Dec 02 18:14 : client: [179] closed
+Dec 02 18:16 : client: [180] opened from 127.0.0.1:41906
+Dec 02 18:16 : client: [180] closed
+Dec 02 18:16 : player: played "Drake Type Beat - ''Aw Man''-9i_yT68ylI8.opus"
+Dec 02 18:16 : client: [178] closed
+Dec 02 18:16 : client: [181] opened from 127.0.0.1:41940
+Dec 02 18:16 : client: [182] opened from 127.0.0.1:41944
+Dec 02 18:16 : client: [181] closed
+Dec 02 18:18 : client: [183] opened from 127.0.0.1:42318
+Dec 02 18:18 : client: [182] closed
+Dec 02 18:18 : client: [183] closed
+Dec 02 18:18 : client: [184] opened from 127.0.0.1:42322
+Dec 02 18:18 : client: [185] opened from 127.0.0.1:42326
+Dec 02 18:18 : client: [184] closed
+Dec 02 18:18 : client: [186] opened from 127.0.0.1:42350
+Dec 02 18:18 : client: [185] closed
+Dec 02 18:18 : client: [186] closed
+Dec 02 18:18 : client: [187] opened from 127.0.0.1:42354
+Dec 02 18:18 : client: [188] opened from 127.0.0.1:42358
+Dec 02 18:18 : client: [187] closed
+Dec 02 18:18 : client: [189] opened from 127.0.0.1:42366
+Dec 02 18:18 : client: [188] closed
+Dec 02 18:18 : client: [189] closed
+Dec 02 18:18 : client: [190] opened from 127.0.0.1:42370
+Dec 02 18:18 : client: [191] opened from 127.0.0.1:42374
+Dec 02 18:18 : client: [190] closed
+Dec 02 18:19 : client: [192] opened from 127.0.0.1:42378
+Dec 02 18:19 : client: [191] closed
+Dec 02 18:19 : client: [192] closed
+Dec 02 18:19 : client: [193] opened from 127.0.0.1:42382
+Dec 02 18:19 : client: [194] opened from 127.0.0.1:42386
+Dec 02 18:19 : client: [193] closed
+Dec 02 18:19 : client: [195] opened from 127.0.0.1:42390
+Dec 02 18:19 : client: [194] closed
+Dec 02 18:19 : client: [195] closed
+Dec 02 18:19 : client: [196] opened from 127.0.0.1:42394
+Dec 02 18:19 : client: [197] opened from 127.0.0.1:42398
+Dec 02 18:19 : client: [197] closed
+Dec 02 18:19 : client: [198] opened from 127.0.0.1:42402
+Dec 02 18:19 : client: [196] closed
+Dec 02 18:19 : client: [198] closed
+Dec 02 18:19 : client: [199] opened from 127.0.0.1:42406
+Dec 02 18:19 : client: [200] opened from 127.0.0.1:42410
+Dec 02 18:19 : client: [200] closed
+Dec 02 18:19 : client: [201] opened from 127.0.0.1:42430
+Dec 02 18:19 : client: [199] closed
+Dec 02 18:19 : client: [202] opened from 127.0.0.1:42444
+Dec 02 18:19 : client: [203] opened from 127.0.0.1:42448
+Dec 02 18:19 : client: [202] closed
+Dec 02 18:19 : client: [203] closed
+Dec 02 18:19 : client: [204] opened from 127.0.0.1:42462
+Dec 02 18:19 : client: [205] opened from 127.0.0.1:42460
+Dec 02 18:19 : client: [205] closed
+Dec 02 18:19 : client: [204] closed
+Dec 02 18:19 : client: [206] opened from 127.0.0.1:42468
+Dec 02 18:19 : client: [207] opened from 127.0.0.1:42472
+Dec 02 18:19 : client: [206] closed
+Dec 02 18:19 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:19 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:19 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 18:19 : client: [201] closed
+Dec 02 18:19 : client: [208] opened from 127.0.0.1:42566
+Dec 02 18:19 : update: updating /Logic - Flexicution [HD] - YouTube.mp3
+Dec 02 18:19 : client: [207] closed
+Dec 02 18:19 : client: [209] opened from 127.0.0.1:42588
+Dec 02 18:19 : client: [209] closed
+Dec 02 18:19 : client: [210] opened from 127.0.0.1:42592
+Dec 02 18:19 : client: [208] closed
+Dec 02 18:19 : client: [211] opened from 127.0.0.1:42634
+Dec 02 18:20 : client: [210] closed
+Dec 02 18:20 : client: [212] opened from 127.0.0.1:42664
+Dec 02 18:20 : client: [213] opened from 127.0.0.1:42668
+Dec 02 18:20 : client: [213] closed
+Dec 02 18:20 : client: [212] closed
+Dec 02 18:20 : client: [214] opened from 127.0.0.1:42674
+Dec 02 18:20 : client: [215] opened from 127.0.0.1:42678
+Dec 02 18:20 : client: [215] closed
+Dec 02 18:20 : client: [214] closed
+Dec 02 18:20 : client: [216] opened from 127.0.0.1:42688
+Dec 02 18:20 : client: [217] opened from 127.0.0.1:42692
+Dec 02 18:20 : client: [216] closed
+Dec 02 18:20 : client: [217] closed
+Dec 02 18:20 : client: [218] opened from 127.0.0.1:42696
+Dec 02 18:20 : client: [218] closed
+Dec 02 18:20 : client: [219] opened from 127.0.0.1:42700
+Dec 02 18:20 : client: [219] closed
+Dec 02 18:20 : client: [220] opened from 127.0.0.1:42712
+Dec 02 18:20 : client: [221] opened from 127.0.0.1:42716
+Dec 02 18:20 : client: [220] closed
+Dec 02 18:20 : client: [221] closed
+Dec 02 18:20 : client: [222] opened from 127.0.0.1:42720
+Dec 02 18:20 : client: [223] opened from 127.0.0.1:42724
+Dec 02 18:20 : client: [223] closed
+Dec 02 18:20 : client: [224] opened from 127.0.0.1:42736
+Dec 02 18:20 : client: [222] closed
+Dec 02 18:20 : client: [224] closed
+Dec 02 18:20 : client: [225] opened from 127.0.0.1:42740
+Dec 02 18:20 : client: [226] opened from 127.0.0.1:42744
+Dec 02 18:20 : client: [226] closed
+Dec 02 18:20 : client: [227] opened from 127.0.0.1:42750
+Dec 02 18:20 : client: [225] closed
+Dec 02 18:20 : client: [227] closed
+Dec 02 18:20 : client: [228] opened from 127.0.0.1:42754
+Dec 02 18:20 : client: [229] opened from 127.0.0.1:42758
+Dec 02 18:20 : client: [228] closed
+Dec 02 18:20 : client: [229] closed
+Dec 02 18:20 : client: [230] opened from 127.0.0.1:42770
+Dec 02 18:20 : client: [231] opened from 127.0.0.1:42774
+Dec 02 18:20 : client: [230] closed
+Dec 02 18:20 : client: [231] closed
+Dec 02 18:20 : client: [232] opened from 127.0.0.1:42778
+Dec 02 18:20 : client: [233] opened from 127.0.0.1:42782
+Dec 02 18:20 : client: [232] closed
+Dec 02 18:20 : client: [233] closed
+Dec 02 18:20 : update: added /Dizzy Wright Type Beat - ''Make It Better''-9QhYgfrJNKg.opus
+Dec 02 18:20 : update: added /XXXTENTACION x Lil Peep Type Beat - ''The End''-5zGTU7Pz2D0.opus
+Dec 02 18:20 : update: added /Kendrick Lamar x The Weeknd Type Beat - ''Power''-D7CbQ8XqR9U.opus
+Dec 02 18:20 : update: added /Halloween Type Beat - ''Trick Or Treat''-tvcssS_xTJA.opus
+Dec 02 18:20 : update: added /Arabic Type Beat - ''Khiana''-5-8QWld7Bxg.opus
+Dec 02 18:20 : update: added /6LACK x XXXTENTACION Type Beat - ''Exit''-6MO252BLPrE.opus
+Dec 02 18:20 : update: added /[FREE] Higher Brothers x Ski Mask The Slump God Type Beat - ''Beijing''--7UiGc-7qe0.opus
+Dec 02 18:20 : update: added /Indonesian Type Beat - ''Ombak''-fV7PwQejHyY.opus
+Dec 02 18:20 : update: added /Chinese Type Beat - ''Yinyang''-y_5vrpz3XfU.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Oni''-9K0ppV5DwsI.opus
+Dec 02 18:20 : update: added /Desiigner x Future Type Beat - ''Streets''-Q-EqUvuiUDE.opus
+Dec 02 18:20 : update: added /Indian Type Beat - ''Taj Mahal''-urxO9HXOjL0.opus
+Dec 02 18:20 : update: added /Jhene Aiko x Casey Veggies Type Beat - ''Floating''-jTyKmPBWw64.opus
+Dec 02 18:20 : update: added /Childish Gambino Type Beat - ''I Ain't Like Them''-TwFaXjGG2Sk.opus
+Dec 02 18:20 : update: added /Vince Staples Type Beat - ''Unconcious''-ROmc1SqjH38.opus
+Dec 02 18:20 : update: added /Dumbfoundead x Keith Ape Type Beat - ''Clear''-Nm3czEZ22lE.opus
+Dec 02 18:20 : update: added /Kingdom Hearts Type Beat - ''Key''-dUFSsV5in6U.opus
+Dec 02 18:20 : update: added /[FREE] YE Ali x K.Forest Type Beat - ''Yuga''-4eegv96ORNU.opus
+Dec 02 18:20 : update: added /Gladiator Type Beat - ''Maximus''-mDLJXMJB6_Q.opus
+Dec 02 18:20 : update: added /Rich Brian x Joji Type Beat - ''Trippy''-cS9u07SRo9s.opus
+Dec 02 18:20 : update: added /Rae Sremmurd x The Weeknd Type Beat - ''Cut It''-IaAdlpb4d0U.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Kimasu''-GlBP8nY3pos.opus
+Dec 02 18:20 : update: added /Wiz Khalifa x Kanye West Type Beat - ''Amber Rose''-pWEvu43EzMY.opus
+Dec 02 18:20 : update: added /Rich Brian x XXXTENTACION Type Beat - ''6th Sense''-VXUBPD0jXzU.opus
+Dec 02 18:20 : update: added /Earl Sweatshirt Type Beat - ''Exhausted''-8sP4Su9MOB8.opus
+Dec 02 18:20 : client: [234] opened from 127.0.0.1:42792
+Dec 02 18:20 : client: [235] opened from 127.0.0.1:42796
+Dec 02 18:20 : client: [234] closed
+Dec 02 18:20 : update: added /Phora x Dizzy Wright Type Beat - ''I Feel Like''-VO24gz7k7b4.m4a
+Dec 02 18:20 : update: added /Keith Ape x Kohh Type Beat - 'Pull Up'-aVcJN3I-8wM.opus
+Dec 02 18:20 : update: added /Trippie Redd x Lil Xan Type Beat - ''Lucid''-F6ILEMldkSc.opus
+Dec 02 18:20 : update: added /[FREE] Chance The Rapper x Kanye West Type Beat - ''SWISH''-pNPvSwA7zEk.m4a
+Dec 02 18:20 : update: added /XXXTENTACION x Frank Ocean Type Beat - ''Why''-bdKtOU6yvhg.opus
+Dec 02 18:20 : update: added /Juice WRLD x XXXTENTACION Type Beat - ''Solow''-GeW4566OVmY.opus
+Dec 02 18:20 : update: added /Joey Badass x Mick Jenkins Type Beat - ''Money Ain't A Thing''-rx-dAIJcrK4.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Sumo''-X61HEC4zFk4.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Ukiyo''-9ww2wE3e4LY.opus
+Dec 02 18:20 : update: added /Scarlxrd x Rich Brian Type Beat - ''BXRN''-Y0sLkk8vS9U.opus
+Dec 02 18:20 : update: added /J Stash x Kohh Type Beat - ''Guap''-iAVESqqfLtA.opus
+Dec 02 18:20 : update: added /Kanye West x Kid Cudi Type Beat - ''People''--rAtxiDwMVs.ogg
+Dec 02 18:20 : update: added /Dizzy Wright Type Beat - ''Assumptions''-xoy7QeLixK0.opus
+Dec 02 18:20 : update: added /XXXTENTACION x Juice WRLD Type Beat - ''180''-hpHrEE52DwY.opus
+Dec 02 18:20 : update: added /Dizzy Wright Type Beat - ''Time Travel''-sHSAX-zyXVI.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Suraisu''-l19zRKOYl0w.opus
+Dec 02 18:20 : update: added /Phora Type Beat - ''Die Tryin'''-fU-KPwtzJkA.opus
+Dec 02 18:20 : update: added /Jessi x 하선호 Type Beat - ''Bad''-cokGiWGTPgI.opus
+Dec 02 18:20 : update: added /Travis Scott x Asap Ferg Type Beat - ''Reloaded''-R4hBtRzOwdM.opus
+Dec 02 18:20 : update: added /The Underachievers Type Beat - ''Searching''-1f3Ov4s7Pxs.opus
+Dec 02 18:20 : update: added /Travis Scott x Allan Kingdom Type Beat - ''Karma''-GDfpHZOJhYA.opus
+Dec 02 18:20 : update: added /A$ap Rocky x Travis Scott Type Beat - ''Flex''-rUTO6LWHVbo.opus
+Dec 02 18:20 : update: added /Vietnamese Type Beat - ''Hanoi''-UqJmxSzUQmI.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Kaji''-ZlLP7e3EtLQ.opus
+Dec 02 18:20 : update: added /[FREE] Joey Badass Type Beat - ''Next Gen''-SFDRrY3yMlU.opus
+Dec 02 18:20 : update: added /Stormzy x Skepta Type Beat - ''Furious''-Z9m8V52fzFM.opus
+Dec 02 18:20 : update: added /Egyptian Type Beat - ''Sphinx''-EkVGyvcosI0.opus
+Dec 02 18:20 : update: added /Dizzy Wright x Phora Type Beat - ''Vibe''-SvWLu9QR5FA.opus
+Dec 02 18:20 : update: added /Tekken Type Beat - ''Combo''-rr55peKKlQg.opus
+Dec 02 18:20 : update: added /Lil Wayne x Kanye West Type Beat - ''Aight''-aaE5zVcdkDw.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Trapanese II''-PVv8vtSxhJ4.opus
+Dec 02 18:20 : update: added /Kanye West x Pusha T Type Beat - ''God Level''-udSZxTYx9Cc.opus
+Dec 02 18:20 : update: added /Post Malone x Juice WRLD Type Beat - ''Options''-KE2QiDCY19A.opus
+Dec 02 18:20 : update: added /Mac Miller x Earl Sweatshirt Type Beat - ''Hallucination''--aO1oxW5w6c.opus
+Dec 02 18:20 : update: added /Drake Type Beat - ''Champagne Papi''-cv_G2XVZT5s.m4a
+Dec 02 18:20 : update: added /Keith Ape x Rich Brian Type Beat - ''Omona''-A5Fb_6MeQoQ.opus
+Dec 02 18:20 : update: added /Pusha T x Rick Ross Type Beat - ''Guns & Roses''-FRnXD7xUDP8.opus
+Dec 02 18:20 : update: added /Isaiah Rashad x YGTUT x Michael Da Vinci Type Beat - ''Vibin'''-4VuEsrDCzug.opus
+Dec 02 18:20 : update: added /Scarlxrd x Rich Chigga Type Beat - ''Ghxst''-u_3XQiN8RWA.opus
+Dec 02 18:20 : update: added /Post Malone x Juice WRLD Type Beat - ''Lost Me''-VbOd4s_a0h0.opus
+Dec 02 18:20 : update: added /Schoolboy Q x BJ Chicago The Kid Type Beat - ''Take Over''-ujH6srcqIf4.opus
+Dec 02 18:20 : update: added /Drake x Jay-Z Type Beat - ''The Real Her''-rOK2V8FuJT4.opus
+Dec 02 18:20 : update: added /Mexican Type Beat - ''Sombrero''-5bB0tatAOXM.opus
+Dec 02 18:20 : update: added /XXXTENTACION x Scarlxrd Type Beat - ''Infinity''-BAVn_YEQtUA.opus
+Dec 02 18:20 : update: added /The Weeknd x Ludwig Göransson Type Beat - ''Fake Love''-nURazME0uns.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Ronin''-lV0izjnAwUs.opus
+Dec 02 18:20 : update: added /[FREE] Flatbush Zombies x Isaiah Rashad Type Beat - ''Poetic Justice''-_JNAxP_UgrU.opus
+Dec 02 18:20 : update: added /Chinese Type Beat - ''Shi''-ZmYB2YWiU8o.opus
+Dec 02 18:20 : update: added /Rich Brian x XXXTENTACION Type Beat - ''Amen''-r0CmSuledGo.opus
+Dec 02 18:20 : update: added /Keith Ape x Kohh Type Beat - ''Seoul''-AR1dW_epij8.opus
+Dec 02 18:20 : update: added /Travis Scott x Kanye West Type Beat - ''Effect''-VXbLCjIh9z0.opus
+Dec 02 18:20 : update: added /Rich Brian x Keith Ape Type Beat - ''Gila''-FIPotX5GuMc.opus
+Dec 02 18:20 : update: added /Keith Ape x Wifisfuneral Type Beat - ''Xen''-d9xlpALCNqc.opus
+Dec 02 18:20 : update: added /Kohh x Keith Ape Type Beat - ''Sensei''-zo2UcNSlZpo.opus
+Dec 02 18:20 : update: added /Black Panther Type Beat - ''Myth''-Spl_rapbWWY.opus
+Dec 02 18:20 : update: added /Raz Simone x Joey Badass x Fatal Lucciauno Type Beat - ''I Ain't Here''-vqlJvpXprJ0.opus
+Dec 02 18:20 : update: added /Fortnite Type Beat - ''SCAR''-bTKfIxI5lRY.opus
+Dec 02 18:20 : update: added /Chinese Type Beat - ''Panda''-6JDkuB9LCfM.opus
+Dec 02 18:20 : update: added /[FREE] Mac Miller Type Beat - ''Would You Still Love Me''-f8Fe0XhdWcQ.opus
+Dec 02 18:20 : update: added /[FREE] Vince Staples Type Beat - ''Back When''-I7A-RGoEWmw.opus
+Dec 02 18:20 : update: added /Mick Jenkins Type Beat - ''Dehydration''-Un6yGDXRBrY.opus
+Dec 02 18:20 : update: added /Turkish Type Beat - ''Sultan''-Hgrw34W0REk.opus
+Dec 02 18:20 : update: added /Asap Rocky x Bones Type Beat - ''Drxwning''-KCtx_XYe6bM.opus
+Dec 02 18:20 : update: added /Rae Sremmurd x Ty Dolla Sign Type Beat - ''Gimme Sum''-G4Lbd-BvVZs.opus
+Dec 02 18:20 : update: added /[FREE] Japanese Type Beat - ''Kyoto''-gjLXmww1okE.opus
+Dec 02 18:20 : update: added /Rich Brian x Keith Ape Type Beat - ''Keren'-cEu6c-Opisg.ogg
+Dec 02 18:20 : update: added /Kohh x Keith Ape Type Beat - ''Chika''-tRUzLsnvLH8.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Geisha''-5MKPbQ0zsWE.opus
+Dec 02 18:20 : update: added /Juice WRLD x XXXTENTACION Type Beat - ''Replace''-EQgg4rauxqQ.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Goru''-t3ba4RG2HYM.opus
+Dec 02 18:20 : update: added /Assassins Creed Type Beat - ''Odyssey''-UZs24K6u2zo.opus
+Dec 02 18:20 : update: added /Phora Type Beat - ''Starting Over''-FpE6-N3ewk8.opus
+Dec 02 18:20 : update: added /Travis Scott x Migos Type Beat - ''Games''-dc-kVMaU6XY.opus
+Dec 02 18:20 : update: added /Vince Staples x Earl Sweatshirt Type Beat - ''Casual''-4vKjnHLKb9I.m4a
+Dec 02 18:20 : update: added /6ix9ine x Rich Brian Type Beat - ''Tekashi''-WzSU0_TqY50.opus
+Dec 02 18:20 : update: added /Travis Scott x Schoolboy Q Type Beat - ''Texas''-04VSzPluXLY.opus
+Dec 02 18:20 : update: added /[FREE] J. Cole x KiLL Edward Type Beat - ''Demon''-j3wws4P_DCk.opus
+Dec 02 18:20 : update: added /Jhene Aiko x Swae Lee Type Beat - ''Ways''-3a97csTtmmQ.opus
+Dec 02 18:20 : update: added /J. Cole 4 Your Eyes Only Type Beat - ''New Soul''-A8FQqsi523Q.opus
+Dec 02 18:20 : update: added /Lil Peep x XXXTENTACION Type Beat - ''Shxne''-aF_3JHFAB0A.opus
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Mirai''-5ymYdak0ZpM.opus
+Dec 02 18:20 : update: added /Big Sean x Travis Scott Type Beat - ''Halftime''-NRt7yYQH6Bs.opus
+Dec 02 18:20 : update: added /Ronnie Flex x N' YAEL Type Beat - ''Moods''-mN4yEJj9GqU.opus
+Dec 02 18:20 : client: [235] closed
+Dec 02 18:20 : client: [236] opened from 127.0.0.1:42800
+Dec 02 18:20 : client: [237] opened from 127.0.0.1:42804
+Dec 02 18:20 : client: [236] closed
+Dec 02 18:20 : client: [237] closed
+Dec 02 18:20 : client: [238] opened from 127.0.0.1:42824
+Dec 02 18:20 : client: [239] opened from 127.0.0.1:42828
+Dec 02 18:20 : client: [238] closed
+Dec 02 18:20 : client: [240] opened from 127.0.0.1:42838
+Dec 02 18:20 : client: [239] closed
+Dec 02 18:20 : client: [240] closed
+Dec 02 18:20 : client: [241] opened from 127.0.0.1:42842
+Dec 02 18:20 : client: [242] opened from 127.0.0.1:42846
+Dec 02 18:20 : client: [241] closed
+Dec 02 18:20 : client: [242] closed
+Dec 02 18:20 : update: added /Japanese Type Beat - ''Otaku''-DJKaTn0JuVQ.opus
+Dec 02 18:20 : update: added /Lil Skies x XXXTENTACION Type Beat 2018 - 'Kill4U' _ Rap_Trap Instrumental 2018-xUWbEHRhgf8.opus
+Dec 02 18:20 : client: [243] opened from 127.0.0.1:42850
+Dec 02 18:20 : client: [244] opened from 127.0.0.1:42854
+Dec 02 18:20 : client: [243] closed
+Dec 02 18:20 : client: [211] closed
+Dec 02 18:20 : client: [245] opened from 127.0.0.1:42902
+Dec 02 18:20 : client: [244] closed
+Dec 02 18:20 : client: [245] closed
+Dec 02 18:20 : client: [246] opened from 127.0.0.1:42906
+Dec 02 18:20 : client: [247] opened from 127.0.0.1:42910
+Dec 02 18:20 : client: [246] closed
+Dec 02 18:20 : client: [248] opened from 127.0.0.1:42914
+Dec 02 18:20 : client: [247] closed
+Dec 02 18:20 : client: [248] closed
+Dec 02 18:20 : client: [249] opened from 127.0.0.1:42922
+Dec 02 18:20 : client: [250] opened from 127.0.0.1:42924
+Dec 02 18:20 : client: [250] closed
+Dec 02 18:20 : client: [251] opened from 127.0.0.1:42932
+Dec 02 18:20 : client: [249] closed
+Dec 02 18:20 : client: [251] closed
+Dec 02 18:20 : client: [252] opened from 127.0.0.1:42936
+Dec 02 18:20 : client: [253] opened from 127.0.0.1:42940
+Dec 02 18:20 : client: [252] closed
+Dec 02 18:20 : client: [254] opened from 127.0.0.1:42952
+Dec 02 18:20 : client: [254] closed
+Dec 02 18:20 : client: [255] opened from 127.0.0.1:42972
+Dec 02 18:20 : client: [253] closed
+Dec 02 18:20 : client: [255] closed
+Dec 02 18:20 : client: [256] opened from 127.0.0.1:42976
+Dec 02 18:20 : client: [256] closed
+Dec 02 18:20 : client: [257] opened from 127.0.0.1:42980
+Dec 02 18:20 : client: [258] opened from 127.0.0.1:42986
+Dec 02 18:20 : client: [257] closed
+Dec 02 18:20 : client: [258] closed
+Dec 02 18:20 : client: [259] opened from 127.0.0.1:42990
+Dec 02 18:20 : client: [260] opened from 127.0.0.1:42994
+Dec 02 18:20 : client: [260] closed
+Dec 02 18:20 : client: [261] opened from 127.0.0.1:42998
+Dec 02 18:20 : client: [259] closed
+Dec 02 18:20 : client: [261] closed
+Dec 02 18:20 : client: [262] opened from 127.0.0.1:43002
+Dec 02 18:20 : client: [263] opened from 127.0.0.1:43006
+Dec 02 18:20 : client: [263] closed
+Dec 02 18:20 : client: [264] opened from 127.0.0.1:43010
+Dec 02 18:20 : client: [262] closed
+Dec 02 18:20 : client: [264] closed
+Dec 02 18:20 : client: [265] opened from 127.0.0.1:43014
+Dec 02 18:20 : client: [266] opened from 127.0.0.1:43018
+Dec 02 18:20 : client: [265] closed
+Dec 02 18:20 : client: [267] opened from 127.0.0.1:43022
+Dec 02 18:20 : client: [266] closed
+Dec 02 18:20 : client: [267] closed
+Dec 02 18:20 : client: [268] opened from 127.0.0.1:43026
+Dec 02 18:20 : client: [269] opened from 127.0.0.1:43030
+Dec 02 18:20 : client: [269] closed
+Dec 02 18:21 : client: [270] opened from 127.0.0.1:43034
+Dec 02 18:21 : client: [268] closed
+Dec 02 18:21 : client: [270] closed
+Dec 02 18:21 : client: [271] opened from 127.0.0.1:43038
+Dec 02 18:21 : client: [272] opened from 127.0.0.1:43042
+Dec 02 18:21 : client: [272] closed
+Dec 02 18:21 : client: [273] opened from 127.0.0.1:43048
+Dec 02 18:21 : client: [271] closed
+Dec 02 18:21 : client: [273] closed
+Dec 02 18:21 : client: [274] opened from 127.0.0.1:43052
+Dec 02 18:21 : client: [275] opened from 127.0.0.1:43056
+Dec 02 18:21 : client: [274] closed
+Dec 02 18:21 : client: [276] opened from 127.0.0.1:43060
+Dec 02 18:21 : client: [275] closed
+Dec 02 18:21 : client: [276] closed
+Dec 02 18:21 : client: [277] opened from 127.0.0.1:43066
+Dec 02 18:21 : client: [278] opened from 127.0.0.1:43068
+Dec 02 18:21 : client: [277] closed
+Dec 02 18:21 : client: [279] opened from 127.0.0.1:43076
+Dec 02 18:21 : client: [278] closed
+Dec 02 18:21 : client: [279] closed
+Dec 02 18:21 : client: [280] opened from 127.0.0.1:43080
+Dec 02 18:21 : client: [281] opened from 127.0.0.1:43084
+Dec 02 18:21 : client: [281] closed
+Dec 02 18:21 : client: [282] opened from 127.0.0.1:43090
+Dec 02 18:21 : client: [280] closed
+Dec 02 18:21 : client: [282] closed
+Dec 02 18:21 : client: [283] opened from 127.0.0.1:43094
+Dec 02 18:21 : client: [284] opened from 127.0.0.1:43098
+Dec 02 18:21 : client: [284] closed
+Dec 02 18:21 : client: [285] opened from 127.0.0.1:43104
+Dec 02 18:21 : client: [283] closed
+Dec 02 18:21 : client: [285] closed
+Dec 02 18:21 : client: [286] opened from 127.0.0.1:43108
+Dec 02 18:21 : client: [287] opened from 127.0.0.1:43112
+Dec 02 18:21 : client: [286] closed
+Dec 02 18:21 : client: [288] opened from 127.0.0.1:43116
+Dec 02 18:21 : client: [287] closed
+Dec 02 18:21 : client: [288] closed
+Dec 02 18:21 : client: [289] opened from 127.0.0.1:43120
+Dec 02 18:21 : client: [290] opened from 127.0.0.1:43124
+Dec 02 18:21 : client: [289] closed
+Dec 02 18:21 : client: [291] opened from 127.0.0.1:43128
+Dec 02 18:21 : client: [290] closed
+Dec 02 18:21 : client: [291] closed
+Dec 02 18:21 : client: [292] opened from 127.0.0.1:43132
+Dec 02 18:21 : client: [293] opened from 127.0.0.1:43136
+Dec 02 18:21 : client: [292] closed
+Dec 02 18:21 : client: [294] opened from 127.0.0.1:43140
+Dec 02 18:21 : client: [293] closed
+Dec 02 18:21 : client: [294] closed
+Dec 02 18:21 : client: [295] opened from 127.0.0.1:43148
+Dec 02 18:21 : client: [296] opened from 127.0.0.1:43150
+Dec 02 18:21 : client: [296] closed
+Dec 02 18:21 : client: [297] opened from 127.0.0.1:43156
+Dec 02 18:21 : client: [295] closed
+Dec 02 18:21 : client: [297] closed
+Dec 02 18:21 : client: [298] opened from 127.0.0.1:43160
+Dec 02 18:21 : client: [299] opened from 127.0.0.1:43164
+Dec 02 18:21 : client: [299] closed
+Dec 02 18:21 : client: [298] closed
+Dec 02 18:21 : update: added /Japanese Type Beat - ''Sohei''-65TtlH7B2jA.opus
+Dec 02 18:21 : update: added /[FREE] Dark Asian Trap Type Beat 2018 ''Mercy'' _ Hard Trap Instrumental-hkYY9q5dTn4.opus
+Dec 02 18:21 : update: added /Chinese Type Beat - ''Xiuxi''-e9ZmEeo9ej4.opus
+Dec 02 18:21 : update: added /Batman Type Beat - ''Gotham''-g37WIwpil_c.m4a
+Dec 02 18:21 : update: added /XXXTENTACION x Lil Peep Type Beat - ''Numb''-RQ_y2eFQ6r4.opus
+Dec 02 18:21 : update: added /Jeremih x Ty Dolla Sign Type Beat - ''Karaoke''-NR2bMLNv5SM.opus
+Dec 02 18:21 : update: added /Offset x Keith Ape Type Beat - ''Sushi''-ioXDa5qWCH8.opus
+Dec 02 18:21 : update: added /Game Of Thrones Type Beat - ''Throne''-mASw4ZkaCKk.opus
+Dec 02 18:21 : update: added /SAINt JHN x Post Malone Type Beat - ''Squaw''-ltYjhGc7xJg.opus
+Dec 02 18:21 : update: added /Rich Brian x Keith Ape Type Beat - ''Mabuk''-A9bu-7tb6Q8.opus
+Dec 02 18:21 : client: [300] opened from 127.0.0.1:43168
+Dec 02 18:21 : client: [301] opened from 127.0.0.1:43172
+Dec 02 18:21 : client: [301] closed
+Dec 02 18:21 : client: [300] closed
+Dec 02 18:21 : client: [302] opened from 127.0.0.1:43176
+Dec 02 18:21 : client: [303] opened from 127.0.0.1:43180
+Dec 02 18:21 : client: [303] closed
+Dec 02 18:21 : client: [304] opened from 127.0.0.1:43188
+Dec 02 18:21 : client: [302] closed
+Dec 02 18:21 : client: [304] closed
+Dec 02 18:21 : client: [305] opened from 127.0.0.1:43194
+Dec 02 18:21 : client: [306] opened from 127.0.0.1:43196
+Dec 02 18:21 : client: [306] closed
+Dec 02 18:21 : client: [307] opened from 127.0.0.1:43200
+Dec 02 18:21 : client: [305] closed
+Dec 02 18:21 : client: [307] closed
+Dec 02 18:21 : client: [308] opened from 127.0.0.1:43204
+Dec 02 18:21 : client: [309] opened from 127.0.0.1:43208
+Dec 02 18:21 : client: [308] closed
+Dec 02 18:21 : client: [310] opened from 127.0.0.1:43212
+Dec 02 18:21 : client: [309] closed
+Dec 02 18:21 : client: [310] closed
+Dec 02 18:21 : client: [311] opened from 127.0.0.1:43216
+Dec 02 18:21 : client: [312] opened from 127.0.0.1:43220
+Dec 02 18:21 : client: [311] closed
+Dec 02 18:21 : client: [313] opened from 127.0.0.1:43224
+Dec 02 18:21 : client: [312] closed
+Dec 02 18:21 : client: [313] closed
+Dec 02 18:21 : client: [314] opened from 127.0.0.1:43228
+Dec 02 18:21 : client: [315] opened from 127.0.0.1:43232
+Dec 02 18:21 : client: [315] closed
+Dec 02 18:21 : client: [316] opened from 127.0.0.1:43244
+Dec 02 18:21 : client: [314] closed
+Dec 02 18:21 : client: [316] closed
+Dec 02 18:21 : client: [317] opened from 127.0.0.1:43248
+Dec 02 18:21 : client: [318] opened from 127.0.0.1:43252
+Dec 02 18:21 : client: [317] closed
+Dec 02 18:21 : client: [319] opened from 127.0.0.1:43256
+Dec 02 18:21 : client: [318] closed
+Dec 02 18:21 : client: [319] closed
+Dec 02 18:21 : client: [320] opened from 127.0.0.1:43260
+Dec 02 18:21 : client: [321] opened from 127.0.0.1:43264
+Dec 02 18:21 : client: [320] closed
+Dec 02 18:21 : client: [322] opened from 127.0.0.1:43268
+Dec 02 18:21 : client: [322] closed
+Dec 02 18:21 : client: [321] closed
+Dec 02 18:21 : client: [323] opened from 127.0.0.1:43272
+Dec 02 18:21 : client: [324] opened from 127.0.0.1:43276
+Dec 02 18:21 : client: [323] closed
+Dec 02 18:22 : client: [325] opened from 127.0.0.1:43284
+Dec 02 18:22 : client: [324] closed
+Dec 02 18:22 : client: [325] closed
+Dec 02 18:22 : client: [326] opened from 127.0.0.1:43288
+Dec 02 18:22 : client: [327] opened from 127.0.0.1:43292
+Dec 02 18:22 : client: [327] closed
+Dec 02 18:22 : client: [328] opened from 127.0.0.1:43296
+Dec 02 18:22 : client: [326] closed
+Dec 02 18:22 : client: [328] closed
+Dec 02 18:22 : client: [329] opened from 127.0.0.1:43300
+Dec 02 18:22 : client: [330] opened from 127.0.0.1:43304
+Dec 02 18:22 : client: [329] closed
+Dec 02 18:22 : client: [331] opened from 127.0.0.1:43308
+Dec 02 18:22 : client: [330] closed
+Dec 02 18:22 : client: [331] closed
+Dec 02 18:22 : client: [332] opened from 127.0.0.1:43312
+Dec 02 18:22 : client: [333] opened from 127.0.0.1:43316
+Dec 02 18:22 : client: [333] closed
+Dec 02 18:22 : client: [334] opened from 127.0.0.1:43320
+Dec 02 18:22 : client: [332] closed
+Dec 02 18:22 : client: [334] closed
+Dec 02 18:22 : client: [335] opened from 127.0.0.1:43324
+Dec 02 18:22 : client: [336] opened from 127.0.0.1:43328
+Dec 02 18:22 : client: [335] closed
+Dec 02 18:22 : client: [337] opened from 127.0.0.1:43332
+Dec 02 18:22 : client: [336] closed
+Dec 02 18:22 : client: [337] closed
+Dec 02 18:22 : client: [338] opened from 127.0.0.1:43338
+Dec 02 18:22 : client: [339] opened from 127.0.0.1:43340
+Dec 02 18:22 : client: [339] closed
+Dec 02 18:22 : client: [340] opened from 127.0.0.1:43344
+Dec 02 18:22 : client: [338] closed
+Dec 02 18:22 : client: [340] closed
+Dec 02 18:22 : client: [341] opened from 127.0.0.1:43348
+Dec 02 18:22 : client: [342] opened from 127.0.0.1:43352
+Dec 02 18:22 : client: [341] closed
+Dec 02 18:22 : client: [343] opened from 127.0.0.1:43356
+Dec 02 18:22 : client: [342] closed
+Dec 02 18:22 : client: [343] closed
+Dec 02 18:22 : client: [344] opened from 127.0.0.1:43360
+Dec 02 18:22 : client: [345] opened from 127.0.0.1:43364
+Dec 02 18:22 : client: [344] closed
+Dec 02 18:23 : client: [346] opened from 127.0.0.1:43386
+Dec 02 18:23 : client: [346] closed
+Dec 02 18:24 : player: played "Vince Staples x Earl Sweatshirt Type Beat - ''Casual''-4vKjnHLKb9I.m4a"
+Dec 02 18:24 : client: [345] closed
+Dec 02 18:24 : client: [347] opened from 127.0.0.1:43414
+Dec 02 18:24 : client: [348] opened from 127.0.0.1:43416
+Dec 02 18:24 : client: [348] closed
+Dec 02 18:26 : player: played "Vince Staples x Earl Sweatshirt Type Beat - ''Casual''-4vKjnHLKb9I.m4a"
+Dec 02 18:26 : client: [347] closed
+Dec 02 18:26 : client: [349] opened from 127.0.0.1:43448
+Dec 02 18:26 : client: [350] opened from 127.0.0.1:43452
+Dec 02 18:26 : client: [349] closed
+Dec 02 18:26 : client: [351] opened from 127.0.0.1:43456
+Dec 02 18:26 : client: [351] closed
+Dec 02 18:26 : client: [352] opened from 127.0.0.1:43470
+Dec 02 18:26 : client: [352] closed
+Dec 02 18:27 : client: [353] opened from 127.0.0.1:43480
+Dec 02 18:27 : client: [350] closed
+Dec 02 18:27 : client: [354] opened from 127.0.0.1:43488
+Dec 02 18:27 : client: [355] opened from 127.0.0.1:43492
+Dec 02 18:27 : client: [354] closed
+Dec 02 18:27 : client: [355] closed
+Dec 02 18:27 : client: [356] opened from 127.0.0.1:43496
+Dec 02 18:27 : client: [356] closed
+Dec 02 18:27 : client: [357] opened from 127.0.0.1:43500
+Dec 02 18:27 : client: [353] closed
+Dec 02 18:27 : client: [358] opened from 127.0.0.1:43510
+Dec 02 18:27 : client: [357] closed
+Dec 02 18:27 : client: [359] opened from 127.0.0.1:43514
+Dec 02 18:27 : client: [360] opened from 127.0.0.1:43518
+Dec 02 18:27 : client: [359] closed
+Dec 02 18:27 : player: played "Vince Staples x Earl Sweatshirt Type Beat - ''Casual''-4vKjnHLKb9I.m4a"
+Dec 02 18:27 : client: [360] closed
+Dec 02 18:27 : client: [361] opened from 127.0.0.1:43522
+Dec 02 18:27 : client: [361] closed
+Dec 02 18:27 : client: [362] opened from 127.0.0.1:43526
+Dec 02 18:27 : client: [362] closed
+Dec 02 18:27 : client: [363] opened from 127.0.0.1:43530
+Dec 02 18:27 : client: [364] opened from 127.0.0.1:43534
+Dec 02 18:27 : client: [363] closed
+Dec 02 18:27 : client: [364] closed
+Dec 02 18:27 : client: [365] opened from 127.0.0.1:43538
+Dec 02 18:27 : client: [365] closed
+Dec 02 18:27 : client: [366] opened from 127.0.0.1:43542
+Dec 02 18:27 : client: [366] closed
+Dec 02 18:27 : client: [367] opened from 127.0.0.1:43546
+Dec 02 18:27 : client: [368] opened from 127.0.0.1:43550
+Dec 02 18:27 : client: [367] closed
+Dec 02 18:27 : client: [368] closed
+Dec 02 18:27 : client: [369] opened from 127.0.0.1:43554
+Dec 02 18:27 : client: [369] closed
+Dec 02 18:27 : client: [370] opened from 127.0.0.1:43558
+Dec 02 18:27 : client: [370] closed
+Dec 02 18:27 : client: [371] opened from 127.0.0.1:43562
+Dec 02 18:27 : client: [371] closed
+Dec 02 18:27 : client: [372] opened from 127.0.0.1:43566
+Dec 02 18:27 : client: [372] closed
+Dec 02 18:27 : client: [373] opened from 127.0.0.1:43574
+Dec 02 18:27 : client: [373] closed
+Dec 02 18:27 : client: [374] opened from 127.0.0.1:43578
+Dec 02 18:27 : client: [374] closed
+Dec 02 18:27 : client: [375] opened from 127.0.0.1:43582
+Dec 02 18:27 : client: [376] opened from 127.0.0.1:43586
+Dec 02 18:27 : client: [376] closed
+Dec 02 18:27 : client: [375] closed
+Dec 02 18:27 : client: [377] opened from 127.0.0.1:43590
+Dec 02 18:27 : client: [378] opened from 127.0.0.1:43594
+Dec 02 18:27 : client: [377] closed
+Dec 02 18:27 : client: [378] closed
+Dec 02 18:27 : client: [379] opened from 127.0.0.1:43604
+Dec 02 18:27 : client: [380] opened from 127.0.0.1:43602
+Dec 02 18:27 : client: [379] closed
+Dec 02 18:27 : client: [380] closed
+Dec 02 18:27 : client: [381] opened from 127.0.0.1:43610
+Dec 02 18:27 : client: [382] opened from 127.0.0.1:43614
+Dec 02 18:27 : client: [382] closed
+Dec 02 18:27 : client: [381] closed
+Dec 02 18:27 : client: [383] opened from 127.0.0.1:43618
+Dec 02 18:27 : client: [383] closed
+Dec 02 18:27 : client: [384] opened from 127.0.0.1:43622
+Dec 02 18:27 : client: [384] closed
+Dec 02 18:27 : client: [385] opened from 127.0.0.1:43626
+Dec 02 18:27 : client: [386] opened from 127.0.0.1:43630
+Dec 02 18:27 : client: [386] closed
+Dec 02 18:27 : client: [385] closed
+Dec 02 18:27 : client: [387] opened from 127.0.0.1:43634
+Dec 02 18:27 : client: [387] closed
+Dec 02 18:27 : client: [388] opened from 127.0.0.1:43638
+Dec 02 18:27 : client: [388] closed
+Dec 02 18:27 : client: [389] opened from 127.0.0.1:43642
+Dec 02 18:27 : client: [389] closed
+Dec 02 18:27 : client: [390] opened from 127.0.0.1:43646
+Dec 02 18:27 : client: [390] closed
+Dec 02 18:27 : client: [391] opened from 127.0.0.1:43650
+Dec 02 18:27 : client: [391] closed
+Dec 02 18:27 : client: [392] opened from 127.0.0.1:43654
+Dec 02 18:27 : client: [392] closed
+Dec 02 18:27 : client: [393] opened from 127.0.0.1:43658
+Dec 02 18:27 : client: [394] opened from 127.0.0.1:43662
+Dec 02 18:27 : client: [393] closed
+Dec 02 18:27 : client: [394] closed
+Dec 02 18:27 : client: [395] opened from 127.0.0.1:43666
+Dec 02 18:27 : client: [395] closed
+Dec 02 18:27 : client: [396] opened from 127.0.0.1:43670
+Dec 02 18:27 : client: [396] closed
+Dec 02 18:27 : client: [397] opened from 127.0.0.1:43678
+Dec 02 18:27 : client: [398] opened from 127.0.0.1:43680
+Dec 02 18:27 : client: [397] closed
+Dec 02 18:27 : client: [398] closed
+Dec 02 18:27 : client: [399] opened from 127.0.0.1:43686
+Dec 02 18:27 : client: [400] opened from 127.0.0.1:43690
+Dec 02 18:27 : client: [400] closed
+Dec 02 18:27 : client: [399] closed
+Dec 02 18:27 : client: [401] opened from 127.0.0.1:43694
+Dec 02 18:27 : client: [401] closed
+Dec 02 18:27 : client: [402] opened from 127.0.0.1:43698
+Dec 02 18:27 : client: [402] closed
+Dec 02 18:27 : client: [403] opened from 127.0.0.1:43702
+Dec 02 18:27 : client: [403] closed
+Dec 02 18:27 : client: [404] opened from 127.0.0.1:43706
+Dec 02 18:27 : client: [404] closed
+Dec 02 18:27 : client: [405] opened from 127.0.0.1:43714
+Dec 02 18:27 : client: [406] opened from 127.0.0.1:43716
+Dec 02 18:27 : client: [405] closed
+Dec 02 18:27 : client: [406] closed
+Dec 02 18:27 : client: [407] opened from 127.0.0.1:43722
+Dec 02 18:27 : client: [408] opened from 127.0.0.1:43726
+Dec 02 18:27 : client: [407] closed
+Dec 02 18:27 : client: [408] closed
+Dec 02 18:27 : client: [409] opened from 127.0.0.1:43730
+Dec 02 18:27 : client: [409] closed
+Dec 02 18:27 : client: [410] opened from 127.0.0.1:43734
+Dec 02 18:27 : client: [410] closed
+Dec 02 18:27 : client: [411] opened from 127.0.0.1:43738
+Dec 02 18:27 : client: [412] opened from 127.0.0.1:43742
+Dec 02 18:27 : client: [412] closed
+Dec 02 18:27 : client: [411] closed
+Dec 02 18:27 : client: [413] opened from 127.0.0.1:43746
+Dec 02 18:27 : client: [413] closed
+Dec 02 18:27 : client: [414] opened from 127.0.0.1:43750
+Dec 02 18:27 : client: [414] closed
+Dec 02 18:27 : client: [415] opened from 127.0.0.1:43754
+Dec 02 18:27 : client: [415] closed
+Dec 02 18:27 : client: [416] opened from 127.0.0.1:43758
+Dec 02 18:27 : client: [417] opened from 127.0.0.1:43762
+Dec 02 18:27 : client: [416] closed
+Dec 02 18:27 : client: [417] closed
+Dec 02 18:27 : client: [418] opened from 127.0.0.1:43766
+Dec 02 18:27 : client: [418] closed
+Dec 02 18:27 : client: [419] opened from 127.0.0.1:43770
+Dec 02 18:27 : client: [419] closed
+Dec 02 18:27 : client: [420] opened from 127.0.0.1:43774
+Dec 02 18:27 : client: [421] opened from 127.0.0.1:43778
+Dec 02 18:27 : client: [420] closed
+Dec 02 18:27 : client: [421] closed
+Dec 02 18:27 : client: [422] opened from 127.0.0.1:43782
+Dec 02 18:27 : client: [423] opened from 127.0.0.1:43786
+Dec 02 18:27 : client: [423] closed
+Dec 02 18:27 : client: [422] closed
+Dec 02 18:27 : client: [424] opened from 127.0.0.1:43790
+Dec 02 18:27 : client: [424] closed
+Dec 02 18:27 : client: [425] opened from 127.0.0.1:43794
+Dec 02 18:27 : client: [425] closed
+Dec 02 18:27 : client: [426] opened from 127.0.0.1:43798
+Dec 02 18:27 : client: [426] closed
+Dec 02 18:27 : client: [427] opened from 127.0.0.1:43802
+Dec 02 18:27 : client: [427] closed
+Dec 02 18:27 : client: [428] opened from 127.0.0.1:43806
+Dec 02 18:27 : client: [429] opened from 127.0.0.1:43810
+Dec 02 18:27 : client: [429] closed
+Dec 02 18:27 : client: [428] closed
+Dec 02 18:27 : client: [430] opened from 127.0.0.1:43814
+Dec 02 18:27 : client: [430] closed
+Dec 02 18:27 : client: [431] opened from 127.0.0.1:43818
+Dec 02 18:27 : client: [431] closed
+Dec 02 18:27 : client: [432] opened from 127.0.0.1:43822
+Dec 02 18:27 : client: [433] opened from 127.0.0.1:43826
+Dec 02 18:27 : client: [433] closed
+Dec 02 18:27 : client: [432] closed
+Dec 02 18:27 : client: [434] opened from 127.0.0.1:43830
+Dec 02 18:27 : client: [434] closed
+Dec 02 18:27 : client: [435] opened from 127.0.0.1:43834
+Dec 02 18:27 : client: [435] closed
+Dec 02 18:27 : client: [436] opened from 127.0.0.1:43838
+Dec 02 18:27 : client: [437] opened from 127.0.0.1:43842
+Dec 02 18:27 : client: [437] closed
+Dec 02 18:27 : client: [436] closed
+Dec 02 18:27 : client: [438] opened from 127.0.0.1:43846
+Dec 02 18:27 : client: [438] closed
+Dec 02 18:27 : client: [439] opened from 127.0.0.1:43850
+Dec 02 18:27 : client: [439] closed
+Dec 02 18:27 : client: [440] opened from 127.0.0.1:43854
+Dec 02 18:27 : client: [440] closed
+Dec 02 18:27 : client: [441] opened from 127.0.0.1:43858
+Dec 02 18:27 : client: [441] closed
+Dec 02 18:27 : client: [442] opened from 127.0.0.1:43862
+Dec 02 18:27 : client: [442] closed
+Dec 02 18:27 : client: [443] opened from 127.0.0.1:43866
+Dec 02 18:27 : client: [444] opened from 127.0.0.1:43870
+Dec 02 18:27 : client: [444] closed
+Dec 02 18:27 : client: [443] closed
+Dec 02 18:27 : client: [445] opened from 127.0.0.1:43876
+Dec 02 18:27 : client: [446] opened from 127.0.0.1:43878
+Dec 02 18:27 : client: [446] closed
+Dec 02 18:27 : client: [445] closed
+Dec 02 18:27 : client: [447] opened from 127.0.0.1:43882
+Dec 02 18:27 : client: [447] closed
+Dec 02 18:27 : client: [448] opened from 127.0.0.1:43886
+Dec 02 18:27 : client: [448] closed
+Dec 02 18:27 : client: [449] opened from 127.0.0.1:43890
+Dec 02 18:27 : client: [450] opened from 127.0.0.1:43894
+Dec 02 18:27 : client: [450] closed
+Dec 02 18:27 : client: [449] closed
+Dec 02 18:27 : client: [451] opened from 127.0.0.1:43898
+Dec 02 18:27 : client: [452] opened from 127.0.0.1:43902
+Dec 02 18:27 : client: [452] closed
+Dec 02 18:27 : client: [451] closed
+Dec 02 18:27 : client: [453] opened from 127.0.0.1:43906
+Dec 02 18:27 : client: [453] closed
+Dec 02 18:27 : client: [454] opened from 127.0.0.1:43910
+Dec 02 18:27 : client: [454] closed
+Dec 02 18:27 : client: [455] opened from 127.0.0.1:43914
+Dec 02 18:27 : client: [456] opened from 127.0.0.1:43918
+Dec 02 18:27 : client: [456] closed
+Dec 02 18:27 : client: [455] closed
+Dec 02 18:27 : client: [457] opened from 127.0.0.1:43922
+Dec 02 18:27 : client: [458] opened from 127.0.0.1:43926
+Dec 02 18:27 : client: [458] closed
+Dec 02 18:27 : client: [457] closed
+Dec 02 18:27 : client: [459] opened from 127.0.0.1:43930
+Dec 02 18:27 : client: [459] closed
+Dec 02 18:27 : client: [460] opened from 127.0.0.1:43934
+Dec 02 18:27 : client: [460] closed
+Dec 02 18:27 : client: [461] opened from 127.0.0.1:43938
+Dec 02 18:27 : client: [462] opened from 127.0.0.1:43942
+Dec 02 18:27 : client: [462] closed
+Dec 02 18:27 : client: [461] closed
+Dec 02 18:27 : client: [463] opened from 127.0.0.1:43946
+Dec 02 18:27 : client: [464] opened from 127.0.0.1:43950
+Dec 02 18:27 : client: [464] closed
+Dec 02 18:27 : client: [463] closed
+Dec 02 18:27 : client: [465] opened from 127.0.0.1:43954
+Dec 02 18:27 : client: [466] opened from 127.0.0.1:43958
+Dec 02 18:27 : client: [466] closed
+Dec 02 18:27 : client: [465] closed
+Dec 02 18:27 : client: [467] opened from 127.0.0.1:43962
+Dec 02 18:27 : client: [467] closed
+Dec 02 18:27 : client: [468] opened from 127.0.0.1:43966
+Dec 02 18:27 : client: [468] closed
+Dec 02 18:27 : client: [469] opened from 127.0.0.1:43970
+Dec 02 18:27 : client: [470] opened from 127.0.0.1:43974
+Dec 02 18:27 : client: [470] closed
+Dec 02 18:27 : client: [469] closed
+Dec 02 18:27 : client: [471] opened from 127.0.0.1:43978
+Dec 02 18:27 : client: [472] opened from 127.0.0.1:43982
+Dec 02 18:27 : client: [471] closed
+Dec 02 18:27 : client: [472] closed
+Dec 02 18:27 : client: [473] opened from 127.0.0.1:43986
+Dec 02 18:27 : client: [473] closed
+Dec 02 18:27 : client: [474] opened from 127.0.0.1:43990
+Dec 02 18:27 : client: [474] closed
+Dec 02 18:27 : client: [475] opened from 127.0.0.1:43994
+Dec 02 18:27 : client: [476] opened from 127.0.0.1:43998
+Dec 02 18:27 : client: [476] closed
+Dec 02 18:27 : client: [475] closed
+Dec 02 18:27 : client: [477] opened from 127.0.0.1:44002
+Dec 02 18:27 : client: [478] opened from 127.0.0.1:44006
+Dec 02 18:27 : client: [478] closed
+Dec 02 18:27 : client: [477] closed
+Dec 02 18:27 : client: [479] opened from 127.0.0.1:44010
+Dec 02 18:27 : client: [479] closed
+Dec 02 18:27 : client: [480] opened from 127.0.0.1:44014
+Dec 02 18:27 : client: [480] closed
+Dec 02 18:27 : client: [481] opened from 127.0.0.1:44018
+Dec 02 18:27 : client: [482] opened from 127.0.0.1:44022
+Dec 02 18:27 : client: [481] closed
+Dec 02 18:27 : client: [482] closed
+Dec 02 18:27 : client: [483] opened from 127.0.0.1:44026
+Dec 02 18:27 : client: [483] closed
+Dec 02 18:27 : client: [484] opened from 127.0.0.1:44030
+Dec 02 18:27 : client: [484] closed
+Dec 02 18:27 : client: [485] opened from 127.0.0.1:44034
+Dec 02 18:27 : client: [486] opened from 127.0.0.1:44038
+Dec 02 18:27 : client: [485] closed
+Dec 02 18:27 : client: [486] closed
+Dec 02 18:27 : client: [487] opened from 127.0.0.1:44042
+Dec 02 18:27 : client: [488] opened from 127.0.0.1:44046
+Dec 02 18:27 : client: [488] closed
+Dec 02 18:27 : client: [487] closed
+Dec 02 18:27 : client: [489] opened from 127.0.0.1:44050
+Dec 02 18:27 : client: [489] closed
+Dec 02 18:27 : client: [490] opened from 127.0.0.1:44054
+Dec 02 18:27 : client: [490] closed
+Dec 02 18:27 : client: [491] opened from 127.0.0.1:44058
+Dec 02 18:27 : client: [492] opened from 127.0.0.1:44062
+Dec 02 18:27 : client: [492] closed
+Dec 02 18:27 : client: [491] closed
+Dec 02 18:27 : client: [493] opened from 127.0.0.1:44070
+Dec 02 18:27 : client: [494] opened from 127.0.0.1:44072
+Dec 02 18:27 : client: [494] closed
+Dec 02 18:27 : client: [493] closed
+Dec 02 18:27 : client: [495] opened from 127.0.0.1:44076
+Dec 02 18:27 : client: [496] opened from 127.0.0.1:44080
+Dec 02 18:27 : client: [495] closed
+Dec 02 18:27 : client: [496] closed
+Dec 02 18:27 : client: [497] opened from 127.0.0.1:44084
+Dec 02 18:27 : client: [497] closed
+Dec 02 18:27 : client: [498] opened from 127.0.0.1:44088
+Dec 02 18:27 : client: [498] closed
+Dec 02 18:27 : client: [499] opened from 127.0.0.1:44092
+Dec 02 18:27 : client: [500] opened from 127.0.0.1:44096
+Dec 02 18:27 : client: [499] closed
+Dec 02 18:27 : client: [500] closed
+Dec 02 18:27 : client: [501] opened from 127.0.0.1:44100
+Dec 02 18:27 : client: [501] closed
+Dec 02 18:27 : client: [502] opened from 127.0.0.1:44104
+Dec 02 18:27 : client: [502] closed
+Dec 02 18:27 : client: [503] opened from 127.0.0.1:44108
+Dec 02 18:27 : client: [503] closed
+Dec 02 18:27 : client: [504] opened from 127.0.0.1:44112
+Dec 02 18:27 : client: [504] closed
+Dec 02 18:27 : client: [505] opened from 127.0.0.1:44116
+Dec 02 18:27 : client: [506] opened from 127.0.0.1:44120
+Dec 02 18:27 : client: [505] closed
+Dec 02 18:27 : client: [506] closed
+Dec 02 18:27 : client: [507] opened from 127.0.0.1:44124
+Dec 02 18:27 : client: [507] closed
+Dec 02 18:27 : client: [508] opened from 127.0.0.1:44128
+Dec 02 18:27 : client: [508] closed
+Dec 02 18:27 : client: [509] opened from 127.0.0.1:44132
+Dec 02 18:27 : client: [510] opened from 127.0.0.1:44136
+Dec 02 18:27 : client: [510] closed
+Dec 02 18:27 : client: [509] closed
+Dec 02 18:27 : client: [511] opened from 127.0.0.1:44140
+Dec 02 18:27 : client: [512] opened from 127.0.0.1:44144
+Dec 02 18:27 : client: [511] closed
+Dec 02 18:27 : client: [512] closed
+Dec 02 18:27 : client: [513] opened from 127.0.0.1:44148
+Dec 02 18:27 : client: [514] opened from 127.0.0.1:44152
+Dec 02 18:27 : client: [513] closed
+Dec 02 18:27 : client: [514] closed
+Dec 02 18:27 : client: [515] opened from 127.0.0.1:44156
+Dec 02 18:27 : client: [515] closed
+Dec 02 18:27 : client: [516] opened from 127.0.0.1:44160
+Dec 02 18:27 : client: [516] closed
+Dec 02 18:27 : client: [517] opened from 127.0.0.1:44164
+Dec 02 18:27 : client: [518] opened from 127.0.0.1:44168
+Dec 02 18:27 : client: [518] closed
+Dec 02 18:27 : client: [517] closed
+Dec 02 18:27 : client: [519] opened from 127.0.0.1:44172
+Dec 02 18:27 : client: [520] opened from 127.0.0.1:44176
+Dec 02 18:27 : client: [520] closed
+Dec 02 18:27 : client: [519] closed
+Dec 02 18:27 : client: [521] opened from 127.0.0.1:44180
+Dec 02 18:27 : client: [521] closed
+Dec 02 18:27 : client: [522] opened from 127.0.0.1:44184
+Dec 02 18:27 : client: [522] closed
+Dec 02 18:27 : client: [523] opened from 127.0.0.1:44188
+Dec 02 18:27 : client: [523] closed
+Dec 02 18:27 : client: [524] opened from 127.0.0.1:44192
+Dec 02 18:27 : client: [524] closed
+Dec 02 18:27 : client: [525] opened from 127.0.0.1:44196
+Dec 02 18:27 : client: [526] opened from 127.0.0.1:44200
+Dec 02 18:27 : client: [526] closed
+Dec 02 18:27 : client: [525] closed
+Dec 02 18:27 : client: [527] opened from 127.0.0.1:44204
+Dec 02 18:27 : client: [528] opened from 127.0.0.1:44208
+Dec 02 18:27 : client: [528] closed
+Dec 02 18:27 : client: [527] closed
+Dec 02 18:27 : client: [529] opened from 127.0.0.1:44212
+Dec 02 18:27 : client: [530] opened from 127.0.0.1:44216
+Dec 02 18:27 : client: [530] closed
+Dec 02 18:27 : client: [529] closed
+Dec 02 18:27 : client: [531] opened from 127.0.0.1:44220
+Dec 02 18:27 : client: [532] opened from 127.0.0.1:44224
+Dec 02 18:27 : client: [532] closed
+Dec 02 18:28 : client: [531] closed
+Dec 02 18:28 : client: [533] opened from 127.0.0.1:44228
+Dec 02 18:28 : client: [534] opened from 127.0.0.1:44232
+Dec 02 18:28 : client: [533] closed
+Dec 02 18:28 : client: [535] opened from 127.0.0.1:44236
+Dec 02 18:28 : client: [534] closed
+Dec 02 18:28 : client: [535] closed
+Dec 02 18:28 : client: [536] opened from 127.0.0.1:44240
+Dec 02 18:28 : client: [537] opened from 127.0.0.1:44244
+Dec 02 18:28 : client: [537] closed
+Dec 02 18:28 : client: [538] opened from 127.0.0.1:44248
+Dec 02 18:28 : client: [536] closed
+Dec 02 18:28 : client: [538] closed
+Dec 02 18:28 : client: [539] opened from 127.0.0.1:44252
+Dec 02 18:28 : client: [540] opened from 127.0.0.1:44256
+Dec 02 18:28 : client: [540] closed
+Dec 02 18:28 : client: [541] opened from 127.0.0.1:44260
+Dec 02 18:28 : client: [539] closed
+Dec 02 18:28 : client: [541] closed
+Dec 02 18:28 : client: [542] opened from 127.0.0.1:44264
+Dec 02 18:28 : client: [543] opened from 127.0.0.1:44268
+Dec 02 18:28 : client: [543] closed
+Dec 02 18:28 : client: [544] opened from 127.0.0.1:44272
+Dec 02 18:28 : client: [542] closed
+Dec 02 18:28 : client: [544] closed
+Dec 02 18:28 : client: [545] opened from 127.0.0.1:44276
+Dec 02 18:28 : client: [545] closed
+Dec 02 18:28 : client: [546] opened from 127.0.0.1:44280
+Dec 02 18:28 : client: [547] opened from 127.0.0.1:44288
+Dec 02 18:28 : client: [546] closed
+Dec 02 18:28 : client: [547] closed
+Dec 02 18:28 : client: [548] opened from 127.0.0.1:44292
+Dec 02 18:28 : client: [549] opened from 127.0.0.1:44296
+Dec 02 18:28 : client: [549] closed
+Dec 02 18:28 : client: [550] opened from 127.0.0.1:44300
+Dec 02 18:28 : client: [548] closed
+Dec 02 18:28 : client: [550] closed
+Dec 02 18:28 : client: [551] opened from 127.0.0.1:44304
+Dec 02 18:28 : client: [552] opened from 127.0.0.1:44308
+Dec 02 18:28 : client: [552] closed
+Dec 02 18:28 : client: [553] opened from 127.0.0.1:44312
+Dec 02 18:28 : client: [551] closed
+Dec 02 18:28 : client: [553] closed
+Dec 02 18:28 : client: [554] opened from 127.0.0.1:44316
+Dec 02 18:28 : client: [555] opened from 127.0.0.1:44320
+Dec 02 18:28 : client: [554] closed
+Dec 02 18:29 : client: [358] closed
+Dec 02 18:29 : client: [556] opened from 127.0.0.1:44340
+Dec 02 18:32 : player: played "Indonesian Type Beat - ''Gamelan''-8a_43A7-zHQ.opus"
+Dec 02 18:32 : client: [555] closed
+Dec 02 18:32 : client: [557] opened from 127.0.0.1:44378
+Dec 02 18:32 : client: [558] opened from 127.0.0.1:44382
+Dec 02 18:32 : client: [557] closed
+Dec 02 18:35 : player: played "Indonesian Type Beat - ''Gamelan''-8a_43A7-zHQ.opus"
+Dec 02 18:35 : client: [558] closed
+Dec 02 18:35 : client: [559] opened from 127.0.0.1:44430
+Dec 02 18:35 : client: [560] opened from 127.0.0.1:44434
+Dec 02 18:35 : client: [560] closed
+Dec 02 18:37 : client: [561] opened from 127.0.0.1:44458
+Dec 02 18:37 : client: [561] closed
+Dec 02 18:37 : client: [562] opened from 127.0.0.1:44468
+Dec 02 18:37 : client: [559] closed
+Dec 02 18:37 : client: [562] closed
+Dec 02 18:37 : client: [563] opened from 127.0.0.1:44472
+Dec 02 18:37 : client: [564] opened from 127.0.0.1:44476
+Dec 02 18:37 : client: [563] closed
+Dec 02 18:39 : client: [565] opened from 127.0.0.1:44510
+Dec 02 18:39 : client: [565] closed
+Dec 02 18:40 : player: played "Japanese Type Beat - ''Jiyu''-KLDFzee11CQ.opus"
+Dec 02 18:40 : client: [564] closed
+Dec 02 18:40 : client: [566] opened from 127.0.0.1:44564
+Dec 02 18:40 : client: [567] opened from 127.0.0.1:44566
+Dec 02 18:40 : client: [566] closed
+Dec 02 18:40 : client: [568] opened from 127.0.0.1:44586
+Dec 02 18:40 : client: [567] closed
+Dec 02 18:40 : client: [568] closed
+Dec 02 18:40 : client: [569] opened from 127.0.0.1:44590
+Dec 02 18:40 : client: [570] opened from 127.0.0.1:44594
+Dec 02 18:40 : client: [570] closed
+Dec 02 18:44 : client: [556] closed
+Dec 02 18:44 : client: [571] opened from 127.0.0.1:44666
+Dec 02 18:45 : player: played "[FREE] YE Ali x K.Forest Type Beat - ''Yuga''-4eegv96ORNU.opus"
+Dec 02 18:45 : client: [569] closed
+Dec 02 18:45 : client: [572] opened from 127.0.0.1:44678
+Dec 02 18:45 : client: [573] opened from 127.0.0.1:44682
+Dec 02 18:45 : client: [572] closed
+Dec 02 18:45 : client: [574] opened from 127.0.0.1:44686
+Dec 02 18:45 : client: [573] closed
+Dec 02 18:45 : client: [574] closed
+Dec 02 18:45 : client: [575] opened from 127.0.0.1:44690
+Dec 02 18:45 : client: [576] opened from 127.0.0.1:44694
+Dec 02 18:45 : client: [575] closed
+Dec 02 18:45 : client: [577] opened from 127.0.0.1:44702
+Dec 02 18:45 : client: [576] closed
+Dec 02 18:45 : client: [578] opened from 127.0.0.1:44706
+Dec 02 18:45 : client: [579] opened from 127.0.0.1:44710
+Dec 02 18:45 : client: [579] closed
+Dec 02 18:45 : client: [577] closed
+Dec 02 18:47 : client: [580] opened from 127.0.0.1:44748
+Dec 02 18:47 : client: [578] closed
+Dec 02 18:47 : client: [580] closed
+Dec 02 18:47 : client: [581] opened from 127.0.0.1:44752
+Dec 02 18:47 : client: [582] opened from 127.0.0.1:44756
+Dec 02 18:47 : client: [582] closed
+Dec 02 18:52 : client: [583] opened from 127.0.0.1:44988
+Dec 02 18:52 : player: played "Dej Loaf Type Beat - ''Butterflies''-3khQN_30KVI.opus"
+Dec 02 18:52 : client: [581] closed
+Dec 02 18:52 : client: [584] opened from 127.0.0.1:45000
+Dec 02 18:52 : client: [585] opened from 127.0.0.1:44998
+Dec 02 18:52 : client: [585] closed
+Dec 02 18:52 : client: [584] closed
+Dec 02 18:52 : client: [586] opened from 127.0.0.1:45008
+Dec 02 18:52 : client: [587] opened from 127.0.0.1:45012
+Dec 02 18:52 : client: [586] closed
+Dec 02 18:52 : client: [587] closed
+Dec 02 18:52 : client: [588] opened from 127.0.0.1:45016
+Dec 02 18:52 : client: [589] opened from 127.0.0.1:45020
+Dec 02 18:52 : client: [589] closed
+Dec 02 18:53 : client: [588] closed
+Dec 02 18:53 : client: [590] opened from 127.0.0.1:45030
+Dec 02 18:53 : client: [591] opened from 127.0.0.1:45032
+Dec 02 18:53 : client: [591] closed
+Dec 02 18:53 : player: played "[FREE] Migos Type Beat - ''Air Jordan''-e2p3NttgdVg.opus"
+Dec 02 18:53 : client: [590] closed
+Dec 02 18:53 : client: [592] opened from 127.0.0.1:45038
+Dec 02 18:53 : client: [592] closed
+Dec 02 18:53 : client: [593] opened from 127.0.0.1:45042
+Dec 02 18:53 : client: [583] closed
+Dec 02 18:53 : client: [571] closed
+Dec 02 19:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 19:47 : client: [0] opened from 127.0.0.1:39622
+Dec 02 20:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 20:07 : client: [0] opened from 127.0.0.1:51360
+Dec 02 20:07 : client: [1] opened from 127.0.0.1:51364
+Dec 02 20:07 : client: [1] closed
+Dec 02 20:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 20:29 : client: [0] opened from 127.0.0.1:51828
+Dec 02 20:29 : client: [1] opened from 127.0.0.1:51832
+Dec 02 20:29 : client: [1] closed
+Dec 02 20:29 : client: [2] opened from 127.0.0.1:51844
+Dec 02 20:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 20:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 20:29 : client: [2] closed
+Dec 02 20:29 : client: [0] closed
+Dec 02 20:29 : client: [3] opened from 127.0.0.1:51848
+Dec 02 20:29 : client: [4] opened from 127.0.0.1:51852
+Dec 02 20:29 : client: [4] closed
+Dec 02 20:30 : client: [5] opened from 127.0.0.1:51874
+Dec 02 20:30 : client: [5] closed
+Dec 02 20:30 : client: [6] opened from 127.0.0.1:51878
+Dec 02 20:30 : client: [7] opened from 127.0.0.1:51882
+Dec 02 20:30 : client: [7] closed
+Dec 02 20:30 : client: [6] closed
+Dec 02 20:30 : client: [8] opened from 127.0.0.1:51886
+Dec 02 20:30 : client: [9] opened from 127.0.0.1:51890
+Dec 02 20:30 : client: [9] closed
+Dec 02 20:30 : client: [10] opened from 127.0.0.1:51898
+Dec 02 20:30 : client: [10] closed
+Dec 02 20:31 : client: [11] opened from 127.0.0.1:51912
+Dec 02 20:31 : client: [11] closed
+Dec 02 20:31 : client: [12] opened from 127.0.0.1:51920
+Dec 02 20:31 : client: [3] closed
+Dec 02 20:31 : client: [12] closed
+Dec 02 20:31 : client: [13] opened from 127.0.0.1:51924
+Dec 02 20:31 : client: [14] opened from 127.0.0.1:51928
+Dec 02 20:31 : client: [13] closed
+Dec 02 20:31 : client: [8] closed
+Dec 02 20:31 : client: [15] opened from 127.0.0.1:51936
+Dec 02 20:32 : client: [16] opened from 127.0.0.1:51940
+Dec 02 20:32 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:32 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:32 : client: [14] closed
+Dec 02 20:32 : client: [17] opened from 127.0.0.1:51948
+Dec 02 20:32 : client: [18] opened from 127.0.0.1:51952
+Dec 02 20:32 : client: [18] closed
+Dec 02 20:32 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:32 : client: [16] closed
+Dec 02 20:34 : player: played "Travis Scott x Allan Kingdom Type Beat - ''Karma''-GDfpHZOJhYA.opus"
+Dec 02 20:34 : client: [17] closed
+Dec 02 20:34 : client: [19] opened from 127.0.0.1:51992
+Dec 02 20:34 : client: [20] opened from 127.0.0.1:51996
+Dec 02 20:34 : client: [20] closed
+Dec 02 20:35 : client: [21] opened from 127.0.0.1:52004
+Dec 02 20:35 : client: [19] closed
+Dec 02 20:35 : client: [21] closed
+Dec 02 20:35 : client: [22] opened from 127.0.0.1:52008
+Dec 02 20:35 : client: [23] opened from 127.0.0.1:52012
+Dec 02 20:35 : client: [22] closed
+Dec 02 20:35 : client: [24] opened from 127.0.0.1:52020
+Dec 02 20:35 : client: [23] closed
+Dec 02 20:35 : client: [24] closed
+Dec 02 20:35 : client: [25] opened from 127.0.0.1:52024
+Dec 02 20:35 : client: [26] opened from 127.0.0.1:52028
+Dec 02 20:35 : client: [25] closed
+Dec 02 20:35 : client: [27] opened from 127.0.0.1:52032
+Dec 02 20:35 : client: [26] closed
+Dec 02 20:35 : client: [28] opened from 127.0.0.1:52040
+Dec 02 20:35 : client: [29] opened from 127.0.0.1:52044
+Dec 02 20:35 : client: [28] closed
+Dec 02 20:35 : client: [29] closed
+Dec 02 20:35 : client: [30] opened from 127.0.0.1:52048
+Dec 02 20:35 : client: [31] opened from 127.0.0.1:52052
+Dec 02 20:35 : client: [30] closed
+Dec 02 20:35 : client: [31] closed
+Dec 02 20:35 : client: [32] opened from 127.0.0.1:52056
+Dec 02 20:35 : client: [33] opened from 127.0.0.1:52060
+Dec 02 20:35 : client: [33] closed
+Dec 02 20:35 : client: [32] closed
+Dec 02 20:35 : client: [34] opened from 127.0.0.1:52064
+Dec 02 20:35 : client: [35] opened from 127.0.0.1:52068
+Dec 02 20:35 : client: [34] closed
+Dec 02 20:35 : client: [35] closed
+Dec 02 20:35 : client: [36] opened from 127.0.0.1:52072
+Dec 02 20:35 : client: [37] opened from 127.0.0.1:52076
+Dec 02 20:35 : client: [36] closed
+Dec 02 20:35 : client: [37] closed
+Dec 02 20:35 : client: [38] opened from 127.0.0.1:52080
+Dec 02 20:35 : client: [39] opened from 127.0.0.1:52084
+Dec 02 20:35 : client: [39] closed
+Dec 02 20:35 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:35 : player: played "Skepta Type Beat - ''ISH''-n19ITlzCRUc.m4a"
+Dec 02 20:35 : client: [38] closed
+Dec 02 20:35 : client: [40] opened from 127.0.0.1:52094
+Dec 02 20:35 : client: [41] opened from 127.0.0.1:52092
+Dec 02 20:35 : client: [41] closed
+Dec 02 20:36 : client: [40] closed
+Dec 02 20:36 : client: [42] opened from 127.0.0.1:52100
+Dec 02 20:36 : client: [42] closed
+Dec 02 20:36 : client: [43] opened from 127.0.0.1:52104
+Dec 02 20:36 : client: [44] opened from 127.0.0.1:52112
+Dec 02 20:36 : client: [44] closed
+Dec 02 20:36 : client: [43] closed
+Dec 02 20:36 : client: [45] opened from 127.0.0.1:52116
+Dec 02 20:36 : client: [46] opened from 127.0.0.1:52120
+Dec 02 20:36 : client: [46] closed
+Dec 02 20:37 : client: [27] closed
+Dec 02 20:39 : player: played "Skepta Type Beat - ''ISH''-n19ITlzCRUc.m4a"
+Dec 02 20:39 : client: [45] closed
+Dec 02 20:39 : client: [47] opened from 127.0.0.1:52164
+Dec 02 20:39 : client: [48] opened from 127.0.0.1:52168
+Dec 02 20:39 : client: [47] closed
+Dec 02 20:39 : client: [49] opened from 127.0.0.1:52176
+Dec 02 20:39 : client: [49] closed
+Dec 02 20:39 : client: [50] opened from 127.0.0.1:52188
+Dec 02 20:40 : client: [51] opened from 127.0.0.1:52192
+Dec 02 20:40 : client: [15] closed
+Dec 02 20:40 : client: [52] opened from 127.0.0.1:52196
+Dec 02 20:40 : client: [48] closed
+Dec 02 20:40 : client: [53] opened from 127.0.0.1:52200
+Dec 02 20:40 : client: [54] opened from 127.0.0.1:52208
+Dec 02 20:40 : client: [55] opened from 127.0.0.1:52212
+Dec 02 20:40 : client: [50] closed
+Dec 02 20:40 : client: [56] opened from 127.0.0.1:52216
+Dec 02 20:40 : client: [57] opened from 127.0.0.1:52244
+Dec 02 20:40 : client: [54] closed
+Dec 02 20:40 : client: [53] closed
+Dec 02 20:40 : client: [51] closed
+Dec 02 20:40 : client: [52] closed
+Dec 02 20:40 : client: [57] closed
+Dec 02 20:40 : client: [55] closed
+Dec 02 20:40 : client: [56] closed
+Dec 02 20:40 : client: [58] opened from 127.0.0.1:52248
+Dec 02 20:40 : client: [59] opened from 127.0.0.1:52240
+Dec 02 20:40 : client: [58] closed
+Dec 02 20:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:40 : player: played "The Weeknd Type Beat - ''Go Home''-ZBFsfQBdFYc.opus"
+Dec 02 20:40 : client: [60] opened from 127.0.0.1:52252
+Dec 02 20:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 02 20:40 : client: [59] closed
+Dec 02 20:40 : client: [61] opened from 127.0.0.1:52256
+Dec 02 20:40 : client: [62] opened from 127.0.0.1:52260
+Dec 02 20:40 : client: [60] closed
+Dec 02 20:40 : client: [62] closed
+Dec 02 20:40 : client: [63] opened from 127.0.0.1:52264
+Dec 02 20:40 : client: [63] closed
+Dec 02 20:40 : client: [64] opened from 127.0.0.1:52268
+Dec 02 20:40 : client: [65] opened from 127.0.0.1:52272
+Dec 02 20:40 : client: [65] closed
+Dec 02 20:40 : client: [66] opened from 127.0.0.1:52276
+Dec 02 20:40 : client: [66] closed
+Dec 02 20:40 : client: [67] opened from 127.0.0.1:52284
+Dec 02 20:40 : client: [67] closed
+Dec 02 20:40 : client: [61] closed
+Dec 02 20:40 : client: [68] opened from 127.0.0.1:52288
+Dec 02 20:40 : client: [69] opened from 127.0.0.1:52292
+Dec 02 20:40 : client: [64] closed
+Dec 02 20:40 : client: [69] closed
+Dec 02 20:40 : client: [70] opened from 127.0.0.1:52296
+Dec 02 20:40 : client: [71] opened from 127.0.0.1:52300
+Dec 02 20:40 : client: [70] closed
+Dec 02 20:41 : client: [72] opened from 127.0.0.1:52312
+Dec 02 20:41 : client: [71] closed
+Dec 02 20:41 : client: [72] closed
+Dec 02 20:41 : client: [73] opened from 127.0.0.1:52316
+Dec 02 20:41 : client: [74] opened from 127.0.0.1:52320
+Dec 02 20:41 : client: [74] closed
+Dec 02 20:41 : client: [75] opened from 127.0.0.1:52324
+Dec 02 20:41 : client: [73] closed
+Dec 02 20:41 : client: [75] closed
+Dec 02 20:41 : client: [76] opened from 127.0.0.1:52328
+Dec 02 20:41 : client: [77] opened from 127.0.0.1:52332
+Dec 02 20:41 : client: [77] closed
+Dec 02 20:41 : client: [78] opened from 127.0.0.1:52336
+Dec 02 20:41 : client: [76] closed
+Dec 02 20:41 : client: [78] closed
+Dec 02 20:41 : client: [79] opened from 127.0.0.1:52340
+Dec 02 20:41 : client: [80] opened from 127.0.0.1:52344
+Dec 02 20:41 : client: [79] closed
+Dec 02 20:41 : client: [81] opened from 127.0.0.1:52348
+Dec 02 20:41 : client: [81] closed
+Dec 02 20:41 : client: [82] opened from 127.0.0.1:52352
+Dec 02 20:41 : client: [82] closed
+Dec 02 20:41 : client: [83] opened from 127.0.0.1:52360
+Dec 02 20:41 : client: [83] closed
+Dec 02 20:41 : client: [84] opened from 127.0.0.1:52364
+Dec 02 20:41 : client: [80] closed
+Dec 02 20:41 : client: [84] closed
+Dec 02 20:41 : client: [85] opened from 127.0.0.1:52368
+Dec 02 20:41 : client: [86] opened from 127.0.0.1:52372
+Dec 02 20:41 : client: [86] closed
+Dec 02 20:44 : player: played "The Weeknd x Future Type Beat - ''I'm A Star''-08NSWTMsdc0.opus"
+Dec 02 20:44 : client: [85] closed
+Dec 02 20:44 : client: [87] opened from 127.0.0.1:52416
+Dec 02 20:44 : client: [88] opened from 127.0.0.1:52420
+Dec 02 20:44 : client: [88] closed
+Dec 02 20:44 : client: [68] closed
+Dec 02 20:45 : client: [89] opened from 127.0.0.1:52424
+Dec 02 20:45 : client: [89] closed
+Dec 02 20:45 : client: [90] opened from 127.0.0.1:52428
+Dec 02 20:45 : client: [87] closed
+Dec 02 20:45 : client: [91] opened from 127.0.0.1:52436
+Dec 02 20:45 : client: [92] opened from 127.0.0.1:52440
+Dec 02 20:45 : client: [92] closed
+Dec 02 20:45 : client: [91] closed
+Dec 02 20:45 : client: [93] opened from 127.0.0.1:52444
+Dec 02 20:45 : client: [94] opened from 127.0.0.1:52448
+Dec 02 20:45 : client: [94] closed
+Dec 02 20:45 : client: [95] opened from 127.0.0.1:52452
+Dec 02 20:45 : client: [93] closed
+Dec 02 20:45 : client: [95] closed
+Dec 02 20:45 : client: [96] opened from 127.0.0.1:52458
+Dec 02 20:45 : client: [97] opened from 127.0.0.1:52460
+Dec 02 20:45 : client: [97] closed
+Dec 02 20:45 : client: [98] opened from 127.0.0.1:52464
+Dec 02 20:45 : client: [96] closed
+Dec 02 20:45 : client: [98] closed
+Dec 02 20:45 : client: [99] opened from 127.0.0.1:52468
+Dec 02 20:45 : client: [100] opened from 127.0.0.1:52472
+Dec 02 20:45 : client: [99] closed
+Dec 02 20:45 : client: [90] closed
+Dec 02 20:45 : client: [101] opened from 127.0.0.1:52498
+Dec 02 20:46 : client: [102] opened from 127.0.0.1:52512
+Dec 02 20:46 : client: [102] closed
+Dec 02 20:46 : client: [103] opened from 127.0.0.1:52520
+Dec 02 20:46 : client: [100] closed
+Dec 02 20:46 : client: [103] closed
+Dec 02 20:46 : client: [104] opened from 127.0.0.1:52524
+Dec 02 20:46 : client: [105] opened from 127.0.0.1:52528
+Dec 02 20:46 : client: [105] closed
+Dec 02 20:46 : client: [106] opened from 127.0.0.1:52532
+Dec 02 20:46 : client: [104] closed
+Dec 02 20:46 : client: [106] closed
+Dec 02 20:46 : client: [107] opened from 127.0.0.1:52536
+Dec 02 20:46 : client: [108] opened from 127.0.0.1:52540
+Dec 02 20:46 : client: [107] closed
+Dec 02 20:46 : player: played "Tory Lanez Type Beat - ''Perspective''-CkInOwdIti8.m4a"
+Dec 02 20:46 : client: [108] closed
+Dec 02 20:46 : client: [109] opened from 127.0.0.1:52544
+Dec 02 20:46 : client: [110] opened from 127.0.0.1:52548
+Dec 02 20:46 : client: [110] closed
+Dec 02 20:46 : client: [101] closed
+Dec 02 22:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 22:32 : client: [0] opened from 127.0.0.1:35096
+Dec 02 22:32 : client: [1] opened from 127.0.0.1:35100
+Dec 02 22:32 : client: [1] closed
+Dec 03 02:44 : client: [2] opened from 127.0.0.1:39910
+Dec 03 02:44 : exception: Not playing
+Dec 03 02:44 : client: [2] closed
+Dec 03 02:44 : client: [3] opened from 127.0.0.1:39918
+Dec 03 02:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 02:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 02:44 : client: [3] closed
+Dec 03 02:44 : client: [0] closed
+Dec 03 02:44 : client: [4] opened from 127.0.0.1:39922
+Dec 03 02:44 : client: [5] opened from 127.0.0.1:39926
+Dec 03 02:44 : client: [5] closed
+Dec 03 02:44 : client: [6] opened from 127.0.0.1:39934
+Dec 03 02:46 : client: [6] closed
+Dec 03 02:46 : client: [7] opened from 127.0.0.1:39970
+Dec 03 02:48 : player: played "Tory Lanez x Drake Type Beat - ''Toronto''-Yb-lDp8qKPo.opus"
+Dec 03 02:48 : client: [4] closed
+Dec 03 02:48 : client: [8] opened from 127.0.0.1:39994
+Dec 03 02:48 : client: [9] opened from 127.0.0.1:39998
+Dec 03 02:48 : client: [8] closed
+Dec 03 02:48 : client: [10] opened from 127.0.0.1:40002
+Dec 03 02:48 : client: [9] closed
+Dec 03 02:48 : client: [10] closed
+Dec 03 02:48 : client: [11] opened from 127.0.0.1:40006
+Dec 03 02:48 : client: [12] opened from 127.0.0.1:40010
+Dec 03 02:48 : client: [11] closed
+Dec 03 02:51 : player: played "Keith Ape x Dumbfoundead Type Beat - ''Yakuza''-ii5k_zO4aHc.opus"
+Dec 03 02:51 : client: [12] closed
+Dec 03 02:51 : client: [13] opened from 127.0.0.1:40080
+Dec 03 02:51 : client: [14] opened from 127.0.0.1:40084
+Dec 03 02:51 : client: [13] closed
+Dec 03 02:52 : client: [15] opened from 127.0.0.1:40102
+Dec 03 02:52 : client: [14] closed
+Dec 03 02:52 : client: [15] closed
+Dec 03 02:52 : client: [16] opened from 127.0.0.1:40106
+Dec 03 02:52 : client: [17] opened from 127.0.0.1:40110
+Dec 03 02:52 : client: [17] closed
+Dec 03 02:55 : player: played "Yung Lean x Keith Ape Type Beat - ''Saiko''-LVhEvOZrdQo.opus"
+Dec 03 02:55 : client: [16] closed
+Dec 03 02:55 : client: [18] opened from 127.0.0.1:40174
+Dec 03 02:55 : client: [18] closed
+Dec 03 02:55 : client: [19] opened from 127.0.0.1:40178
+Dec 03 02:58 : player: played "Dragon Ball Z Type Beat - ''9000''-a5bQAMGxK1Q.opus"
+Dec 03 02:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 02:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 02:59 : client: [0] opened from 127.0.0.1:52348
+Dec 03 03:00 : client: [1] opened from 127.0.0.1:52368
+Dec 03 03:00 : client: [1] closed
+Dec 03 03:01 : player: played "Dragon Ball Z Type Beat - ''9000''-a5bQAMGxK1Q.opus"
+Dec 03 03:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 03:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 03:01 : client: [0] opened from 127.0.0.1:56398
+Dec 03 03:02 : client: [1] opened from 127.0.0.1:56406
+Dec 03 03:02 : client: [1] closed
+Dec 03 03:02 : client: [2] opened from 127.0.0.1:56416
+Dec 03 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 03:02 : client: [0] closed
+Dec 03 03:02 : client: [2] closed
+Dec 03 03:02 : client: [3] opened from 127.0.0.1:56420
+Dec 03 03:02 : client: [4] opened from 127.0.0.1:56424
+Dec 03 03:02 : client: [4] closed
+Dec 03 03:02 : client: [5] opened from 127.0.0.1:56428
+Dec 03 03:02 : client: [5] closed
+Dec 03 03:02 : client: [6] opened from 127.0.0.1:56436
+Dec 03 03:03 : client: [6] closed
+Dec 03 03:04 : exception: Failed to play on "pulse audio" (pulse): suspended
+Dec 03 03:04 : client: [7] opened from 127.0.0.1:56454
+Dec 03 03:04 : client: [7] closed
+Dec 03 03:04 : client: [8] opened from 127.0.0.1:56464
+Dec 03 03:04 : client: [3] closed
+Dec 03 03:04 : client: [8] closed
+Dec 03 03:04 : client: [9] opened from 127.0.0.1:56468
+Dec 03 03:04 : client: [9] closed
+Dec 03 03:04 : client: [10] opened from 127.0.0.1:56476
+Dec 03 03:04 : client: [10] closed
+Dec 03 03:05 : client: [11] opened from 127.0.0.1:56480
+Dec 03 03:05 : player: played "Dragon Ball Z Type Beat - ''9000''-a5bQAMGxK1Q.opus"
+Dec 03 03:05 : client: [12] opened from 127.0.0.1:56498
+Dec 03 03:05 : client: [12] closed
+Dec 03 03:08 : player: played "Vince Staples Type Beat - ''Unconcious''-ROmc1SqjH38.opus"
+Dec 03 03:08 : client: [13] opened from 127.0.0.1:56536
+Dec 03 03:08 : client: [13] closed
+Dec 03 03:11 : client: [14] opened from 127.0.0.1:56598
+Dec 03 03:15 : player: played "Schoolboy Q x BJ Chicago The Kid Type Beat - ''Take Over''-ujH6srcqIf4.opus"
+Dec 03 03:19 : player: played "Wale x Rick Ross x Drake Type Beat - ''Sweet Juice''-ES-oRQ4ASwI.m4a"
+Dec 03 03:21 : client: [15] opened from 127.0.0.1:56742
+Dec 03 03:21 : client: [15] closed
+Dec 03 03:21 : client: [16] opened from 127.0.0.1:56746
+Dec 03 03:21 : client: [16] closed
+Dec 03 03:21 : client: [17] opened from 127.0.0.1:56750
+Dec 03 03:21 : client: [17] closed
+Dec 03 03:21 : client: [18] opened from 127.0.0.1:56754
+Dec 03 03:21 : client: [14] closed
+Dec 03 03:21 : client: [18] closed
+Dec 03 03:21 : client: [19] opened from 127.0.0.1:56762
+Dec 03 03:21 : client: [19] closed
+Dec 03 03:21 : client: [20] opened from 127.0.0.1:56770
+Dec 03 03:21 : client: [20] closed
+Dec 03 03:25 : player: played "Japanese Type Beat - ''Kanji''-4itRDAjN1q0.opus"
+Dec 03 03:28 : player: played "SZA x Kendrick Lamar Type Beat - ''CTRL''-eUmMIZh5OGs.opus"
+Dec 03 03:31 : player: played "Kanye West x Travis Scott Type Beat - ''Kamikaze''-XFvv8TR3W9g.opus"
+Dec 03 03:34 : player: played "Skepta Type Beat - ''ISH''-n19ITlzCRUc.m4a"
+Dec 03 03:37 : client: [21] opened from 127.0.0.1:57012
+Dec 03 03:37 : client: [21] closed
+Dec 03 03:39 : player: played "Joey Badass x J.Cole Type Beat - ''Be Free''-78rIKsc18NA.opus"
+Dec 03 03:42 : player: played "Sampha x Drake x Kanye West Type Beat - ''Freedom''-B3l57eXwsBY.m4a"
+Dec 03 03:45 : player: played "Drake Type Beat - ''Champagne Papi''-cv_G2XVZT5s.m4a"
+Dec 03 03:47 : client: [22] opened from 127.0.0.1:57362
+Dec 03 03:47 : client: [22] closed
+Dec 03 03:48 : client: [23] opened from 127.0.0.1:57370
+Dec 03 03:48 : client: [23] closed
+Dec 03 03:48 : client: [24] opened from 127.0.0.1:57378
+Dec 03 03:48 : client: [24] closed
+Dec 03 03:48 : client: [25] opened from 127.0.0.1:57382
+Dec 03 03:48 : client: [26] opened from 127.0.0.1:57386
+Dec 03 03:48 : client: [25] closed
+Dec 03 03:48 : client: [26] closed
+Dec 03 03:48 : client: [27] opened from 127.0.0.1:57390
+Dec 03 03:48 : client: [28] opened from 127.0.0.1:57394
+Dec 03 03:48 : client: [29] opened from 127.0.0.1:57398
+Dec 03 03:48 : client: [27] closed
+Dec 03 03:48 : client: [30] opened from 127.0.0.1:57402
+Dec 03 03:48 : client: [31] opened from 127.0.0.1:57406
+Dec 03 03:48 : client: [29] closed
+Dec 03 03:48 : client: [28] closed
+Dec 03 03:48 : client: [30] closed
+Dec 03 03:48 : client: [31] closed
+Dec 03 03:48 : client: [32] opened from 127.0.0.1:57410
+Dec 03 03:48 : client: [33] opened from 127.0.0.1:57414
+Dec 03 03:48 : client: [34] opened from 127.0.0.1:57418
+Dec 03 03:48 : client: [32] closed
+Dec 03 03:48 : client: [35] opened from 127.0.0.1:57422
+Dec 03 03:48 : client: [33] closed
+Dec 03 03:48 : client: [34] closed
+Dec 03 03:48 : client: [35] closed
+Dec 03 03:48 : client: [36] opened from 127.0.0.1:57426
+Dec 03 03:48 : client: [37] opened from 127.0.0.1:57430
+Dec 03 03:48 : client: [38] opened from 127.0.0.1:57434
+Dec 03 03:48 : client: [36] closed
+Dec 03 03:48 : client: [38] closed
+Dec 03 03:48 : client: [37] closed
+Dec 03 03:48 : client: [39] opened from 127.0.0.1:57438
+Dec 03 03:48 : client: [40] opened from 127.0.0.1:57442
+Dec 03 03:48 : client: [41] opened from 127.0.0.1:57446
+Dec 03 03:48 : client: [39] closed
+Dec 03 03:48 : client: [42] opened from 127.0.0.1:57450
+Dec 03 03:48 : client: [40] closed
+Dec 03 03:48 : client: [43] opened from 127.0.0.1:57454
+Dec 03 03:48 : client: [44] opened from 127.0.0.1:57458
+Dec 03 03:48 : client: [42] closed
+Dec 03 03:48 : client: [41] closed
+Dec 03 03:48 : client: [45] opened from 127.0.0.1:57462
+Dec 03 03:48 : client: [44] closed
+Dec 03 03:48 : client: [46] opened from 127.0.0.1:57466
+Dec 03 03:48 : client: [43] closed
+Dec 03 03:48 : client: [45] closed
+Dec 03 03:48 : client: [46] closed
+Dec 03 03:48 : client: [47] opened from 127.0.0.1:57470
+Dec 03 03:48 : client: [48] opened from 127.0.0.1:57474
+Dec 03 03:48 : client: [49] opened from 127.0.0.1:57478
+Dec 03 03:48 : client: [47] closed
+Dec 03 03:48 : client: [50] opened from 127.0.0.1:57482
+Dec 03 03:48 : client: [49] closed
+Dec 03 03:48 : client: [48] closed
+Dec 03 03:48 : client: [51] opened from 127.0.0.1:57486
+Dec 03 03:48 : client: [50] closed
+Dec 03 03:48 : client: [52] opened from 127.0.0.1:57490
+Dec 03 03:48 : client: [53] opened from 127.0.0.1:57494
+Dec 03 03:48 : client: [51] closed
+Dec 03 03:48 : client: [52] closed
+Dec 03 03:48 : client: [53] closed
+Dec 03 03:48 : client: [54] opened from 127.0.0.1:57498
+Dec 03 03:48 : client: [54] closed
+Dec 03 03:48 : client: [55] opened from 127.0.0.1:57502
+Dec 03 03:48 : client: [55] closed
+Dec 03 03:48 : client: [56] opened from 127.0.0.1:57506
+Dec 03 03:48 : client: [56] closed
+Dec 03 03:48 : client: [57] opened from 127.0.0.1:57510
+Dec 03 03:48 : client: [57] closed
+Dec 03 03:48 : client: [58] opened from 127.0.0.1:57514
+Dec 03 03:48 : client: [58] closed
+Dec 03 03:48 : client: [59] opened from 127.0.0.1:57518
+Dec 03 03:48 : client: [59] closed
+Dec 03 03:48 : client: [60] opened from 127.0.0.1:57522
+Dec 03 03:48 : client: [60] closed
+Dec 03 03:48 : client: [61] opened from 127.0.0.1:57526
+Dec 03 03:48 : client: [61] closed
+Dec 03 03:48 : client: [62] opened from 127.0.0.1:57530
+Dec 03 03:48 : client: [62] closed
+Dec 03 03:53 : player: played "Frank Ocean Type Beat - ''Ocean''-6llj81XJIkM.m4a"
+Dec 03 03:55 : client: [63] opened from 127.0.0.1:57648
+Dec 03 03:55 : client: [63] closed
+Dec 03 04:30 : client: [64] opened from 127.0.0.1:58216
+Dec 03 04:30 : client: [64] closed
+Dec 03 04:36 : client: [65] opened from 127.0.0.1:58304
+Dec 03 04:36 : client: [65] closed
+Dec 03 04:37 : client: [66] opened from 127.0.0.1:58320
+Dec 03 04:37 : client: [66] closed
+Dec 03 04:37 : client: [67] opened from 127.0.0.1:58334
+Dec 03 04:37 : client: [67] closed
+Dec 03 04:39 : client: [11] closed
+Dec 03 04:39 : client: [68] opened from 127.0.0.1:58362
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:39 : player: played "[FREE] Chance The Rapper x Kanye West Type Beat - ''SWISH''-pNPvSwA7zEk.m4a"
+Dec 03 04:39 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:40 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 04:43 : player: played "[FREE] Joey Badass Type Beat - ''Next Gen''-SFDRrY3yMlU.opus"
+Dec 03 04:46 : player: played "Drake x Jay-Z Type Beat - ''The Real Her''-rOK2V8FuJT4.opus"
+Dec 03 04:50 : player: played "Rich Chigga x Keith Ape Type Beat - ''Ninja''-Mvt6glOAfG4.opus"
+Dec 03 04:54 : player: played "Tory Lanez Type Beat - ''Perspective''-CkInOwdIti8.m4a"
+Dec 03 04:57 : player: played "Earl Sweatshirt Type Beat - ''Soft''-Ul47IvUwtMM.m4a"
+Dec 03 05:00 : player: played "Sonny Digital Type Beat - ''Roll Up''-zLjf20gQKxM.opus"
+Dec 03 05:04 : player: played "Ty Dolla Sign Type Beat - ''Missionary''-r_G2fL0qILM.opus"
+Dec 03 05:07 : player: played "Rich Chigga x Keith Ape Type Beat - ''Glow''-5wcupkq-q8I.opus"
+Dec 03 05:11 : player: played "Drake x Future Type Beat - ''100-Carat''-EzPTen4mMgM.opus"
+Dec 03 05:15 : player: played "Okasian x Jay Park Type Beat - ''Drunk''-ysyh6_PUt0Q.opus"
+Dec 03 05:18 : player: played "Japanese Type Beat - ''Senso''-vTmMtNoeN9U.opus"
+Dec 03 05:22 : player: played "Yung Lean x Keith Ape Type Beat - ''Saiko''-LVhEvOZrdQo.opus"
+Dec 03 05:25 : player: played "Travis Scott x Asap Ferg Type Beat - ''Reloaded''-R4hBtRzOwdM.opus"
+Dec 03 05:29 : player: played "Egyptian Type Beat - ''Pharaoh''-VPk1kGs4LBE.opus"
+Dec 03 05:33 : player: played "Meek Mill x Tory Lanez Type Beat - ''Praise''-YW9G-EURBAk.opus"
+Dec 03 05:36 : player: played "Japanese Type Beat - ''Hito''-eXUwHfuFXHo.opus"
+Dec 03 05:40 : player: played "Donnie Trumpet x Wale x J. Cole Type Beat - ''Daydreaming''-RHxmofE3d3I.opus"
+Dec 03 05:43 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 03 05:46 : player: played "Japanese Type Beat - ''Sakura''-DE4vKTzTrRE.opus"
+Dec 03 05:50 : player: played "Lil Pump x Smokepurpp Type Beat - ''Jetski''-AyMEdxwuXlw.ogg"
+Dec 03 05:54 : player: played "Pusha T Type Beat - ''Snitch''-mSI3v3iTpDE.opus"
+Dec 03 05:58 : player: played "Childish Gambino Type Beat - ''I Ain't Like Them''-TwFaXjGG2Sk.opus"
+Dec 03 06:01 : player: played "XXXTENTACION x Keith Ape Type Beat - ''Akuma''-msEJQP81-Fc.opus"
+Dec 03 06:05 : player: played "Joey Badass x Mick Jenkins Type Beat - ''Money Ain't A Thing''-rx-dAIJcrK4.opus"
+Dec 03 06:08 : player: played "Dizzy Wright x Phora Type Beat - ''Vibe''-SvWLu9QR5FA.opus"
+Dec 03 06:12 : player: played "Rich Chigga x XXXTENTACION Type Beat - ''Java''-eruUsMaFJro.opus"
+Dec 03 06:18 : player: played "Khalid Type Beat - ''Take It Slow''-vj3e52GZBOw.m4a"
+Dec 03 06:22 : player: played "Isaiah Rashad x SZA Type Beat - ''Tha Situation''-dqTbj8jWfsc.opus"
+Dec 03 06:25 : player: played "Phora Type Beat - ''Starting Over''-FpE6-N3ewk8.opus"
+Dec 03 06:27 : player: played "Kohh x Keith Ape Type Beat - ''Play''-yvjnmLdED4Q.opus"
+Dec 03 06:32 : player: played "Dizzy Wright Type Beat - ''Time Travel''-sHSAX-zyXVI.opus"
+Dec 03 06:35 : player: played "Travis Scott x Young Thug Type Beat - ''It's Lit''-OAgNNE0aYQI.opus"
+Dec 03 06:38 : player: played "Mick Jenkins Type Beat - ''Dehydration''-Un6yGDXRBrY.opus"
+Dec 03 06:42 : player: played "Future Type Beat - ''Crown''-SPzEbkDMUaE.opus"
+Dec 03 06:46 : player: played "Dizzy Wright x Phora Type Beat - ''Daydream''-RXyisO4WqUI.m4a"
+Dec 03 06:50 : player: played "Keith Ape x Asap Ferg Type Beat - ''SAFE''-4nhb0XGhAfo.opus"
+Dec 03 06:53 : player: played "J. Cole Type Beat - ''Exotic''-8dQwTac2seA.opus"
+Dec 03 06:57 : player: played "Kanye West x Travis Scott Type Beat - ''Slave''-KkRZqtxBOsg.opus"
+Dec 03 07:01 : player: played "Japanese Type Beat - ''Geisha''-5MKPbQ0zsWE.opus"
+Dec 03 07:04 : player: played "Naruto Type Beat - ''Chakra''-HH0GfR3tl_Q.opus"
+Dec 03 07:08 : player: played "Schoolboy Q x Asap Rocky Type Beat - ''Whip''-k-ArNgWFgLs.opus"
+Dec 03 07:11 : player: played "Tyga Type Beat - ''Spitfire''-aIGid_NtZoQ.opus"
+Dec 03 07:16 : player: played "Phora x Frank Ocean Type Beat - ''Faith''-n9MoyaUPy3U.opus"
+Dec 03 07:20 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 03 07:23 : player: played "Earl Sweatshirt Type Beat - ''Buried Alive''-72GPVRdkTiQ.opus"
+Dec 03 07:27 : player: played "Drake Type Beat - ''Let God Handle It''-B8_-xaJ_t2Y.opus"
+Dec 03 07:30 : player: played "Japanese Type Beat - ''Kotonaru''-YYpZGiKySMw.opus"
+Dec 03 07:33 : player: played "[FREE] Migos Type Beat - ''Air Jordan''-e2p3NttgdVg.opus"
+Dec 03 07:37 : player: played "Japanese Type Beat - ''Kumo''-p8uQh9Kx13Y.opus"
+Dec 03 07:41 : player: played "Tory Lanez x Drake Type Beat - ''Toronto''-Yb-lDp8qKPo.opus"
+Dec 03 07:45 : player: played "Chance The Rapper x Donnie Trumpet Type Beat - ''Good Enough''-RGxiegU_Fe8.opus"
+Dec 03 07:50 : player: played "Travis Scott x Schoolboy Q Type Beat - ''Texas''-04VSzPluXLY.opus"
+Dec 03 07:53 : player: played "Jhene Aiko x Casey Veggies Type Beat - ''Floating''-jTyKmPBWw64.opus"
+Dec 03 07:57 : player: played "Nintendo Type Beat - ''Gameboy''-SFqBAKpRWi0.opus"
+Dec 03 08:00 : player: played "Keith Ape x Pink Guy Type Beat - ''88Rising''-3ILhGZAbSF0.opus"
+Dec 03 08:04 : player: played "Indonesian Type Beat - ''Gamelan''-8a_43A7-zHQ.opus"
+Dec 03 08:06 : player: played "Kanye West x Pusha T Type Beat - ''God Level''-udSZxTYx9Cc.opus"
+Dec 03 08:09 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 03 08:14 : player: played "Bryson Tiller x The Weeknd Type Beat - ''6 AM''-Feg9P2VtY74.opus"
+Dec 03 08:22 : player: played "[FREE] Japanese Type Beat - ''Arigato''-BP-ql2P1uR8.opus"
+Dec 03 08:26 : player: played "The Weeknd Type Beat - ''Go Home''-ZBFsfQBdFYc.opus"
+Dec 03 08:29 : player: played "Pusha T x Rick Ross Type Beat - ''Guns & Roses''-FRnXD7xUDP8.opus"
+Dec 03 08:33 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 03 08:36 : player: played "Asap Rocky Type Beat - ''Trill''-ALveAaHT_xo.opus"
+Dec 03 08:40 : player: played "Rae Sremmurd x Ty Dolla Sign Type Beat - ''Gimme Sum''-G4Lbd-BvVZs.opus"
+Dec 03 08:44 : player: played "Japanese Type Beat - ''Hosu''-XfjWqRDFH2s.opus"
+Dec 03 08:47 : player: played "Vince Staples Type Beat - ''El Chapo''-IdW22upNUSc.opus"
+Dec 03 08:49 : player: played "Dragon Ball Z Type Beat - ''Saiyan''-dJH0j1MDJ0E.m4a"
+Dec 03 08:53 : player: played "Big Sean x Travis Scott Type Beat - ''Halftime''-NRt7yYQH6Bs.opus"
+Dec 03 08:56 : player: played "Mac Miller x Earl Sweatshirt Type Beat - ''Hallucination''--aO1oxW5w6c.opus"
+Dec 03 09:00 : player: played "Arabic Type Beat - ''Maeak''-AsBqyvZoMnw.opus"
+Dec 03 09:04 : player: played "Desiigner Type Beat - ''Exhale''-EgqXYtwP5Kg.m4a"
+Dec 03 09:08 : player: played "[FREE] J. Cole Type Beat - ''In Too Deep''-m3kOhllKxPg.m4a"
+Dec 03 09:11 : player: played "Higher Brothers x Bohan Phoenix Type Beat - ''Made in China''-1pZhLnFRq2w.opus"
+Dec 03 09:16 : player: played "Korean Type Beat - ''Muji''-G6Odb88VCy4.opus"
+Dec 03 09:19 : player: played "Earl Sweatshirt Type Beat - ''Exhausted''-8sP4Su9MOB8.opus"
+Dec 03 09:23 : player: played "Travis Scott x Allan Kingdom Type Beat - ''Karma''-GDfpHZOJhYA.opus"
+Dec 03 09:26 : player: played "Nipsey Hussle Type Beat - ''Ground Control''-owPocPwoKe4.opus"
+Dec 03 09:29 : player: played "Drake Type Beat - ''Times Change''-hQ2dckDNawA.opus"
+Dec 03 09:34 : player: played "Quavo x Swae Lee Type Beat - ''Sachi''-VSZ4HwlUSXU.opus"
+Dec 03 09:38 : player: played "Isaiah Rashad Type Beat - ''San Vicente''-_KU64R0O0ks.m4a"
+Dec 03 09:42 : player: played "Ty Dolla Sign x Rae Sremmurd Type Beat - ''SWANG''-eVtfmCT4Pic.opus"
+Dec 03 09:45 : player: played "Wiz Khalifa Type Beat - 'Countin' Paper'-jHL_GDneyY0.opus"
+Dec 03 09:49 : player: played "Travis Scott Type Beat - ''Treachery''-AuuzsQoB3YY.opus"
+Dec 03 09:53 : player: played "Phora Type Beat - ''North End''-9zFikb--ZAY.opus"
+Dec 03 09:57 : player: played "The Game x Drake Type Beat - ''8 More Than 92''-F98_3pICaME.opus"
+Dec 03 10:02 : player: played "Japanese Type Beat - ''Trapanese''-_M9_xd7YhLI.opus"
+Dec 03 10:05 : player: played "Dizzy Wright Type Beat - ''Make It Better''-9QhYgfrJNKg.opus"
+Dec 03 10:09 : player: played "Machine Gun Kelly Type Beat - ''No Sleep''-u36oxDPeXJA.m4a"
+Dec 03 10:12 : player: played "Japanese Type Beat - ''Shakuhachi''-S5cHBB9tVos.opus"
+Dec 03 10:16 : player: played "Phora Type Beat - ''On Point''-NZPjAHEG1L0.m4a"
+Dec 03 10:20 : player: played "Dej Loaf Type Beat - ''Butterflies''-3khQN_30KVI.opus"
+Dec 03 10:24 : player: played "Indian Type Beat - ''Mumbai''-Qph2lViJLVQ.ogg"
+Dec 03 10:28 : player: played "The Weeknd x Future Type Beat - ''I'm A Star''-08NSWTMsdc0.opus"
+Dec 03 10:32 : player: played "Kohh x Keith Ape Type Beat - ''Tokyo''-Nt11x4o7hfw.opus"
+Dec 03 10:35 : player: played "Suicideboys x Bones Type Beat - ''Gaudy''-yRNF8kbYjoY.opus"
+Dec 03 10:38 : player: played "[FREE] Vince Staples Type Beat - ''Back When''-I7A-RGoEWmw.opus"
+Dec 03 10:42 : player: played "Chinese Type Beat - ''Shangxin''-29nrdX__igI.opus"
+Dec 03 10:46 : player: played "The Weeknd x Future Type Beat - ''Rockin''-oX1i33Gu1xs.opus"
+Dec 03 10:50 : player: played "6LACK x PartyNextDoor Type Beat - ''Instinct''-2BVzlGSXGD4.opus"
+Dec 03 10:54 : player: played "Ty Dolla Sign x Big Sean x YG Type Beat - ''On & On''-SZSP9_AA2-w.m4a"
+Dec 03 10:57 : player: played "Bryson Tiller x Ye Ali Type Beat - ''Lose The Feeling''-0gcjrXLGlYI.opus"
+Dec 03 11:00 : player: played "808 Mafia Type Beat - ''Tha Jxker''-jAFXuBliP-Y.opus"
+Dec 03 12:35 : client: [69] opened from 127.0.0.1:36242
+Dec 03 12:35 : client: [69] closed
+Dec 03 12:37 : client: [70] opened from 127.0.0.1:36264
+Dec 03 12:37 : client: [70] closed
+Dec 03 12:37 : client: [71] opened from 127.0.0.1:36274
+Dec 03 12:37 : client: [71] closed
+Dec 03 12:41 : player: played "Chance The Rapper x Donnie Trumpet Type Beat - ''Good Enough''-RGxiegU_Fe8.opus"
+Dec 03 12:45 : player: played "Jhene Aiko x Casey Veggies Type Beat - ''Floating''-jTyKmPBWw64.opus"
+Dec 03 12:45 : client: [72] opened from 127.0.0.1:36388
+Dec 03 12:45 : client: [72] closed
+Dec 03 12:45 : client: [73] opened from 127.0.0.1:36392
+Dec 03 12:45 : exception: Failed to open /home/skydive420dz/.config/mpd/playlists: No such file or directory
+Dec 03 12:48 : player: played "Skepta Type Beat - ''ISH''-n19ITlzCRUc.m4a"
+Dec 03 12:52 : player: played "Dizzy Wright x Phora Type Beat - ''Daydream''-RXyisO4WqUI.m4a"
+Dec 03 12:55 : player: played "Keith Ape x Asap Ferg Type Beat - ''SAFE''-4nhb0XGhAfo.opus"
+Dec 03 12:58 : client: [68] closed
+Dec 03 12:58 : client: [73] closed
+Dec 03 12:58 : client: [74] opened from 127.0.0.1:36828
+Dec 03 12:58 : client: [74] closed
+Dec 03 12:58 : client: [75] opened from 127.0.0.1:36832
+Dec 03 12:58 : player: played "Drake Type Beat - ''Champagne Papi''-cv_G2XVZT5s.m4a"
+Dec 03 12:58 : client: [75] closed
+Dec 03 12:58 : client: [76] opened from 127.0.0.1:36836
+Dec 03 12:58 : client: [76] closed
+Dec 03 12:58 : client: [77] opened from 127.0.0.1:36840
+Dec 03 12:59 : client: [77] closed
+Dec 03 16:35 : client: [78] opened from 127.0.0.1:41416
+Dec 03 16:35 : client: [78] closed
+Dec 03 16:36 : client: [79] opened from 127.0.0.1:41434
+Dec 03 16:36 : client: [79] closed
+Dec 03 17:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 17:21 : client: [0] opened from 127.0.0.1:35524
+Dec 03 17:21 : client: [1] opened from 127.0.0.1:35528
+Dec 03 17:21 : client: [1] closed
+Dec 04 02:33 : client: [2] opened from 127.0.0.1:53652
+Dec 04 02:33 : client: [2] closed
+Dec 04 02:34 : client: [3] opened from 127.0.0.1:53672
+Dec 04 02:34 : client: [3] closed
+Dec 04 02:36 : client: [4] opened from 127.0.0.1:53716
+Dec 04 02:36 : client: [4] closed
+Dec 04 02:37 : client: [5] opened from 127.0.0.1:53730
+Dec 04 02:37 : client: [5] closed
+Dec 04 02:40 : client: [6] opened from 127.0.0.1:53774
+Dec 04 02:40 : client: [6] closed
+Dec 04 02:40 : client: [7] opened from 127.0.0.1:53794
+Dec 04 02:40 : client: [7] closed
+Dec 04 02:41 : client: [8] opened from 127.0.0.1:53812
+Dec 04 02:41 : client: [8] closed
+Dec 04 04:05 : client: [9] opened from 127.0.0.1:55776
+Dec 04 04:05 : client: [9] closed
+Dec 04 07:52 : client: [10] opened from 127.0.0.1:59374
+Dec 04 07:52 : client: [10] closed
+Dec 04 07:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 07:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 07:52 : client: [0] closed
+Dec 04 07:52 : client: [11] opened from 127.0.0.1:59378
+Dec 04 07:52 : client: [12] opened from 127.0.0.1:59382
+Dec 04 07:52 : client: [11] closed
+Dec 04 07:55 : player: played "Nintendo Type Beat - ''Gameboy''-SFqBAKpRWi0.opus"
+Dec 04 07:55 : client: [12] closed
+Dec 04 07:55 : client: [13] opened from 127.0.0.1:59430
+Dec 04 07:55 : client: [14] opened from 127.0.0.1:59434
+Dec 04 07:55 : client: [14] closed
+Dec 04 07:59 : player: played "Jhene Aiko x Casey Veggies Type Beat - ''Floating''-jTyKmPBWw64.opus"
+Dec 04 07:59 : client: [13] closed
+Dec 04 07:59 : client: [15] opened from 127.0.0.1:59548
+Dec 04 07:59 : client: [16] opened from 127.0.0.1:59552
+Dec 04 07:59 : client: [16] closed
+Dec 04 08:04 : player: played "Quavo x Swae Lee Type Beat - ''Sachi''-VSZ4HwlUSXU.opus"
+Dec 04 08:04 : client: [15] closed
+Dec 04 08:04 : client: [17] opened from 127.0.0.1:59626
+Dec 04 08:04 : client: [18] opened from 127.0.0.1:59630
+Dec 04 08:04 : client: [17] closed
+Dec 04 08:06 : player: played "Japanese Type Beat - ''Hito''-eXUwHfuFXHo.opus"
+Dec 04 08:06 : client: [18] closed
+Dec 04 08:06 : client: [19] opened from 127.0.0.1:59682
+Dec 04 08:06 : client: [20] opened from 127.0.0.1:59686
+Dec 04 08:06 : client: [20] closed
+Dec 04 08:10 : player: played "Dizzy Wright x Phora Type Beat - ''Daydream''-RXyisO4WqUI.m4a"
+Dec 04 08:10 : client: [19] closed
+Dec 04 08:10 : client: [21] opened from 127.0.0.1:59750
+Dec 04 08:10 : client: [22] opened from 127.0.0.1:59754
+Dec 04 08:10 : client: [21] closed
+Dec 04 08:13 : player: played "Joey Badass Type Beat - ''She Wants it''-Bih9bUS_hDY.m4a"
+Dec 04 08:13 : client: [22] closed
+Dec 04 08:13 : client: [23] opened from 127.0.0.1:59802
+Dec 04 08:13 : client: [24] opened from 127.0.0.1:59804
+Dec 04 08:13 : client: [24] closed
+Dec 04 08:17 : player: played "Keith Ape x Pink Guy Type Beat - ''88Rising''-3ILhGZAbSF0.opus"
+Dec 04 08:17 : client: [23] closed
+Dec 04 08:17 : client: [25] opened from 127.0.0.1:59868
+Dec 04 08:17 : client: [25] closed
+Dec 04 08:17 : client: [26] opened from 127.0.0.1:59872
+Dec 04 08:20 : player: played "Chinese Type Beat - ''Shangxin''-29nrdX__igI.opus"
+Dec 04 08:20 : client: [26] closed
+Dec 04 08:20 : client: [27] opened from 127.0.0.1:59926
+Dec 04 08:20 : client: [28] opened from 127.0.0.1:59934
+Dec 04 08:20 : client: [28] closed
+Dec 04 08:24 : player: played "Wale x Rick Ross x Drake Type Beat - ''Sweet Juice''-ES-oRQ4ASwI.m4a"
+Dec 04 08:24 : client: [27] closed
+Dec 04 08:24 : client: [29] opened from 127.0.0.1:59984
+Dec 04 08:24 : client: [30] opened from 127.0.0.1:59988
+Dec 04 08:24 : client: [30] closed
+Dec 04 08:28 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 04 08:28 : client: [29] closed
+Dec 04 08:28 : client: [31] opened from 127.0.0.1:60040
+Dec 04 08:28 : client: [32] opened from 127.0.0.1:60044
+Dec 04 08:28 : client: [32] closed
+Dec 04 08:32 : player: played "Chance The Rapper x Donnie Trumpet Type Beat - ''Good Enough''-RGxiegU_Fe8.opus"
+Dec 04 08:32 : client: [31] closed
+Dec 04 08:32 : client: [33] opened from 127.0.0.1:60118
+Dec 04 08:32 : client: [34] opened from 127.0.0.1:60120
+Dec 04 08:32 : client: [34] closed
+Dec 04 08:37 : player: played "Frank Ocean Type Beat - ''Ocean''-6llj81XJIkM.m4a"
+Dec 04 08:37 : client: [33] closed
+Dec 04 08:37 : client: [35] opened from 127.0.0.1:60194
+Dec 04 08:37 : client: [36] opened from 127.0.0.1:60192
+Dec 04 08:37 : client: [35] closed
+Dec 04 08:41 : player: played "Japanese Type Beat - ''Kumo''-p8uQh9Kx13Y.opus"
+Dec 04 08:41 : client: [36] closed
+Dec 04 08:41 : client: [37] opened from 127.0.0.1:60248
+Dec 04 08:41 : client: [38] opened from 127.0.0.1:60252
+Dec 04 08:41 : client: [38] closed
+Dec 04 08:46 : player: played "Bryson Tiller x The Weeknd Type Beat - ''6 AM''-Feg9P2VtY74.opus"
+Dec 04 08:46 : client: [37] closed
+Dec 04 08:46 : client: [39] opened from 127.0.0.1:60530
+Dec 04 08:46 : client: [40] opened from 127.0.0.1:60534
+Dec 04 08:46 : client: [39] closed
+Dec 04 08:49 : player: played "Dizzy Wright Type Beat - ''Make It Better''-9QhYgfrJNKg.opus"
+Dec 04 08:49 : client: [40] closed
+Dec 04 08:49 : client: [41] opened from 127.0.0.1:60618
+Dec 04 08:49 : client: [42] opened from 127.0.0.1:60622
+Dec 04 08:49 : client: [41] closed
+Dec 04 08:54 : player: played "Dizzy Wright Type Beat - ''Time Travel''-sHSAX-zyXVI.opus"
+Dec 04 08:54 : client: [42] closed
+Dec 04 08:54 : client: [43] opened from 127.0.0.1:60744
+Dec 04 08:54 : client: [44] opened from 127.0.0.1:60748
+Dec 04 08:54 : client: [44] closed
+Dec 04 08:57 : player: played "[FREE] Vince Staples Type Beat - ''Back When''-I7A-RGoEWmw.opus"
+Dec 04 08:57 : client: [43] closed
+Dec 04 08:57 : client: [45] opened from 127.0.0.1:60818
+Dec 04 08:57 : client: [46] opened from 127.0.0.1:60822
+Dec 04 08:57 : client: [46] closed
+Dec 04 09:00 : player: played "Vince Staples Type Beat - ''Unconcious''-ROmc1SqjH38.opus"
+Dec 04 09:00 : client: [45] closed
+Dec 04 09:00 : client: [47] opened from 127.0.0.1:60866
+Dec 04 09:00 : client: [48] opened from 127.0.0.1:60870
+Dec 04 09:00 : client: [47] closed
+Dec 04 09:04 : player: played "XXXTENTACION x Night Lovell Type Beat - ''Yen''-ioVTDFG-85c.opus"
+Dec 04 09:04 : client: [48] closed
+Dec 04 09:04 : client: [49] opened from 127.0.0.1:60920
+Dec 04 09:04 : client: [50] opened from 127.0.0.1:60924
+Dec 04 09:04 : client: [49] closed
+Dec 04 09:08 : player: played "[FREE] Asap Rocky x Asap Ferg Type Beat - ''Trilla''-KVo19N9btqw.opus"
+Dec 04 09:08 : client: [50] closed
+Dec 04 09:08 : client: [51] opened from 127.0.0.1:32804
+Dec 04 09:08 : client: [52] opened from 127.0.0.1:32808
+Dec 04 09:08 : client: [51] closed
+Dec 04 09:10 : player: played "Drake Type Beat - ''Times Change''-hQ2dckDNawA.opus"
+Dec 04 09:10 : client: [52] closed
+Dec 04 09:10 : client: [53] opened from 127.0.0.1:32878
+Dec 04 09:10 : client: [54] opened from 127.0.0.1:32882
+Dec 04 09:10 : client: [54] closed
+Dec 04 09:13 : player: played "Kohh x Keith Ape Type Beat - ''Play''-yvjnmLdED4Q.opus"
+Dec 04 09:13 : client: [53] closed
+Dec 04 09:13 : client: [55] opened from 127.0.0.1:32948
+Dec 04 09:13 : client: [56] opened from 127.0.0.1:32952
+Dec 04 09:13 : client: [56] closed
+Dec 04 09:17 : player: played "Machine Gun Kelly Type Beat - ''No Sleep''-u36oxDPeXJA.m4a"
+Dec 04 09:17 : client: [55] closed
+Dec 04 09:17 : client: [57] opened from 127.0.0.1:33062
+Dec 04 09:17 : client: [58] opened from 127.0.0.1:33066
+Dec 04 09:17 : client: [58] closed
+Dec 04 09:21 : player: played "Childish Gambino Type Beat - ''I Ain't Like Them''-TwFaXjGG2Sk.opus"
+Dec 04 09:21 : client: [57] closed
+Dec 04 09:21 : client: [59] opened from 127.0.0.1:33124
+Dec 04 09:21 : client: [60] opened from 127.0.0.1:33128
+Dec 04 09:21 : client: [59] closed
+Dec 04 09:24 : player: played "Asap Rocky x Bones Type Beat - ''Drxwning''-KCtx_XYe6bM.opus"
+Dec 04 09:24 : client: [60] closed
+Dec 04 09:24 : client: [61] opened from 127.0.0.1:33180
+Dec 04 09:24 : client: [61] closed
+Dec 04 09:24 : client: [62] opened from 127.0.0.1:33184
+Dec 04 09:27 : player: played "Pusha T x Rick Ross Type Beat - ''Guns & Roses''-FRnXD7xUDP8.opus"
+Dec 04 09:27 : client: [62] closed
+Dec 04 09:27 : client: [63] opened from 127.0.0.1:33246
+Dec 04 09:27 : client: [64] opened from 127.0.0.1:33250
+Dec 04 09:27 : client: [63] closed
+Dec 04 09:35 : player: played "[FREE] Japanese Type Beat - ''Arigato''-BP-ql2P1uR8.opus"
+Dec 04 09:35 : client: [64] closed
+Dec 04 09:35 : client: [65] opened from 127.0.0.1:33394
+Dec 04 09:35 : client: [66] opened from 127.0.0.1:33398
+Dec 04 09:35 : client: [65] closed
+Dec 04 09:39 : player: played "Logic - Flexicution [HD] - YouTube.mp3"
+Dec 04 09:39 : client: [66] closed
+Dec 04 09:39 : client: [67] opened from 127.0.0.1:33448
+Dec 04 09:39 : client: [68] opened from 127.0.0.1:33452
+Dec 04 09:39 : client: [67] closed
+Dec 04 09:43 : player: played "Pusha T Type Beat - ''Snitch''-mSI3v3iTpDE.opus"
+Dec 04 09:43 : client: [68] closed
+Dec 04 09:43 : client: [69] opened from 127.0.0.1:33512
+Dec 04 09:43 : client: [69] closed
+Dec 04 09:43 : client: [70] opened from 127.0.0.1:33516
+Dec 04 09:46 : player: played "Rae Sremmurd x Ty Dolla Sign Type Beat - ''Gimme Sum''-G4Lbd-BvVZs.opus"
+Dec 04 09:46 : client: [70] closed
+Dec 04 09:46 : client: [71] opened from 127.0.0.1:33576
+Dec 04 09:46 : client: [72] opened from 127.0.0.1:33580
+Dec 04 09:46 : client: [72] closed
+Dec 04 09:50 : player: played "Bryson Tiller x Ye Ali Type Beat - ''Lose The Feeling''-0gcjrXLGlYI.opus"
+Dec 04 09:50 : client: [71] closed
+Dec 04 09:50 : client: [73] opened from 127.0.0.1:33630
+Dec 04 09:50 : client: [74] opened from 127.0.0.1:33634
+Dec 04 09:50 : client: [73] closed
+Dec 04 09:54 : player: played "Isaiah Rashad Type Beat - ''San Vicente''-_KU64R0O0ks.m4a"
+Dec 04 09:54 : client: [74] closed
+Dec 04 09:54 : client: [75] opened from 127.0.0.1:33696
+Dec 04 09:54 : client: [76] opened from 127.0.0.1:33700
+Dec 04 09:54 : client: [76] closed
+Dec 04 09:58 : player: played "Drake Type Beat - ''Champagne Papi''-cv_G2XVZT5s.m4a"
+Dec 04 09:58 : client: [75] closed
+Dec 04 09:58 : client: [77] opened from 127.0.0.1:33758
+Dec 04 09:58 : client: [78] opened from 127.0.0.1:33762
+Dec 04 09:58 : client: [78] closed
+Dec 04 10:02 : player: played "Yung Lean x Keith Ape Type Beat - ''Saiko''-LVhEvOZrdQo.opus"
+Dec 04 10:02 : client: [77] closed
+Dec 04 10:02 : client: [79] opened from 127.0.0.1:33812
+Dec 04 10:02 : client: [80] opened from 127.0.0.1:33816
+Dec 04 10:02 : client: [80] closed
+Dec 04 10:05 : player: played "Earl Sweatshirt Type Beat - ''Soft''-Ul47IvUwtMM.m4a"
+Dec 04 10:05 : client: [79] closed
+Dec 04 10:05 : client: [81] opened from 127.0.0.1:33874
+Dec 04 10:05 : client: [82] opened from 127.0.0.1:33878
+Dec 04 10:05 : client: [81] closed
+Dec 04 10:09 : player: played "Dizzy Wright Type Beat - ''Pledge''-bG2Ml5izaEs.m4a"
+Dec 04 10:09 : client: [82] closed
+Dec 04 10:09 : client: [83] opened from 127.0.0.1:33932
+Dec 04 10:09 : client: [84] opened from 127.0.0.1:33936
+Dec 04 10:09 : client: [84] closed
+Dec 04 10:12 : player: played "Japanese Type Beat - ''Senso''-vTmMtNoeN9U.opus"
+Dec 04 10:12 : client: [83] closed
+Dec 04 10:12 : client: [85] opened from 127.0.0.1:33980
+Dec 04 10:12 : client: [85] closed
+Dec 04 10:12 : client: [86] opened from 127.0.0.1:33984
+Dec 04 10:16 : player: played "Kanye West x Travis Scott Type Beat - ''Kamikaze''-XFvv8TR3W9g.opus"
+Dec 04 10:16 : client: [86] closed
+Dec 04 10:16 : client: [87] opened from 127.0.0.1:34096
+Dec 04 10:16 : client: [88] opened from 127.0.0.1:34100
+Dec 04 10:16 : client: [88] closed
+Dec 04 10:19 : player: played "Isaiah Rashad x YGTUT x Michael Da Vinci Type Beat - ''Vibin'''-4VuEsrDCzug.opus"
+Dec 04 10:19 : client: [87] closed
+Dec 04 10:19 : client: [89] opened from 127.0.0.1:34168
+Dec 04 10:19 : client: [90] opened from 127.0.0.1:34166
+Dec 04 10:19 : client: [90] closed
+Dec 04 10:20 : client: [91] opened from 127.0.0.1:34184
+Dec 04 10:20 : client: [89] closed
+Dec 04 10:20 : client: [91] closed
+Dec 04 10:20 : client: [92] opened from 127.0.0.1:34188
+Dec 04 10:20 : client: [93] opened from 127.0.0.1:34192
+Dec 04 10:20 : client: [93] closed
+Dec 04 11:01 : client: [94] opened from 127.0.0.1:34982
+Dec 04 11:01 : client: [92] closed
+Dec 04 11:01 : client: [94] closed
+Dec 04 11:01 : client: [95] opened from 127.0.0.1:34986
+Dec 04 11:01 : client: [96] opened from 127.0.0.1:34990
+Dec 04 11:01 : client: [95] closed
+Dec 04 11:04 : player: played "Travis Scott x Schoolboy Q Type Beat - ''Texas''-04VSzPluXLY.opus"
+Dec 04 11:04 : client: [96] closed
+Dec 04 11:04 : client: [97] opened from 127.0.0.1:35040
+Dec 04 11:04 : client: [98] opened from 127.0.0.1:35044
+Dec 04 11:04 : client: [97] closed
+Dec 04 11:07 : player: played "SZA x Kendrick Lamar Type Beat - ''CTRL''-eUmMIZh5OGs.opus"
+Dec 04 11:07 : client: [98] closed
+Dec 04 11:07 : client: [99] opened from 127.0.0.1:35112
+Dec 04 11:07 : client: [99] closed
+Dec 04 11:07 : client: [100] opened from 127.0.0.1:35116
+Dec 04 11:10 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 04 11:10 : client: [100] closed
+Dec 04 11:10 : client: [101] opened from 127.0.0.1:35172
+Dec 04 11:10 : client: [102] opened from 127.0.0.1:35176
+Dec 04 11:10 : client: [102] closed
+Dec 04 11:13 : player: played "Higher Brothers x Bohan Phoenix Type Beat - ''Made in China''-1pZhLnFRq2w.opus"
+Dec 04 11:13 : client: [101] closed
+Dec 04 11:13 : client: [103] opened from 127.0.0.1:35286
+Dec 04 11:13 : client: [104] opened from 127.0.0.1:35290
+Dec 04 11:13 : client: [103] closed
+Dec 04 11:16 : client: [105] opened from 127.0.0.1:35332
+Dec 04 11:16 : client: [104] closed
+Dec 04 11:16 : client: [105] closed
+Dec 04 11:16 : client: [106] opened from 127.0.0.1:35336
+Dec 04 11:16 : client: [107] opened from 127.0.0.1:35340
+Dec 04 11:16 : client: [106] closed
+Dec 04 12:17 : client: [108] opened from 127.0.0.1:37062
+Dec 04 12:17 : client: [107] closed
+Dec 04 12:17 : client: [108] closed
+Dec 04 12:17 : client: [109] opened from 127.0.0.1:37066
+Dec 04 12:17 : client: [110] opened from 127.0.0.1:37070
+Dec 04 12:17 : client: [109] closed
+Dec 04 12:17 : client: [111] opened from 127.0.0.1:37074
+Dec 04 12:17 : client: [110] closed
+Dec 04 12:17 : client: [111] closed
+Dec 04 12:17 : client: [112] opened from 127.0.0.1:37078
+Dec 04 12:17 : client: [113] opened from 127.0.0.1:37082
+Dec 04 12:17 : client: [113] closed
+Dec 04 12:17 : client: [114] opened from 127.0.0.1:37086
+Dec 04 12:17 : client: [114] closed
+Dec 04 12:17 : client: [115] opened from 127.0.0.1:37104
+Dec 04 12:17 : client: [112] closed
+Dec 04 12:17 : client: [115] closed
+Dec 04 12:17 : client: [116] opened from 127.0.0.1:37108
+Dec 04 12:17 : client: [117] opened from 127.0.0.1:37112
+Dec 04 12:17 : client: [117] closed
+Dec 04 12:26 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 04 13:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 13:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 13:00 : client: [0] opened from 127.0.0.1:52828
+Dec 04 13:00 : client: [1] opened from 127.0.0.1:52832
+Dec 04 13:00 : client: [1] closed
+Dec 04 13:09 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 04 14:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 14:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 14:15 : client: [0] opened from 127.0.0.1:60746
+Dec 04 14:41 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 04 14:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 14:42 : client: [0] opened from 127.0.0.1:40462
+Dec 04 14:42 : client: [1] opened from 127.0.0.1:40470
+Dec 04 14:42 : client: [1] closed
+Dec 04 18:14 : client: [2] opened from 127.0.0.1:32994
+Dec 04 18:14 : client: [2] closed
+Dec 04 18:14 : client: [3] opened from 127.0.0.1:32998
+Dec 04 18:15 : client: [3] closed
+Dec 04 20:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 20:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 20:50 : client: [0] opened from 127.0.0.1:52126
+Dec 04 20:50 : client: [1] opened from 127.0.0.1:52130
+Dec 04 20:50 : client: [1] closed
+Dec 04 21:48 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 04 22:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 22:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 22:27 : client: [0] opened from 127.0.0.1:55182
+Dec 04 22:27 : client: [1] opened from 127.0.0.1:55186
+Dec 04 22:27 : client: [1] closed
+Dec 04 23:54 : client: [2] opened from 127.0.0.1:57298
+Dec 04 23:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 23:54 : client: [0] closed
+Dec 04 23:54 : client: [2] closed
+Dec 04 23:54 : client: [3] opened from 127.0.0.1:57302
+Dec 04 23:54 : client: [3] closed
+Dec 04 23:54 : client: [4] opened from 127.0.0.1:57306
+Dec 04 23:54 : client: [5] opened from 127.0.0.1:57310
+Dec 04 23:56 : player: played "Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus"
+Dec 04 23:56 : client: [4] closed
+Dec 04 23:56 : client: [6] opened from 127.0.0.1:57348
+Dec 04 23:56 : client: [7] opened from 127.0.0.1:57352
+Dec 04 23:56 : client: [7] closed
+Dec 05 00:01 : player: played "[FREE] YE Ali x K.Forest Type Beat - ''Yuga''-4eegv96ORNU.opus"
+Dec 05 00:01 : client: [6] closed
+Dec 05 00:01 : client: [8] opened from 127.0.0.1:57416
+Dec 05 00:01 : client: [8] closed
+Dec 05 00:01 : client: [9] opened from 127.0.0.1:57420
+Dec 05 00:04 : client: [10] opened from 127.0.0.1:57462
+Dec 05 00:04 : client: [9] closed
+Dec 05 00:04 : client: [10] closed
+Dec 05 00:04 : client: [11] opened from 127.0.0.1:57466
+Dec 05 00:04 : client: [12] opened from 127.0.0.1:57470
+Dec 05 00:04 : client: [11] closed
+Dec 05 00:04 : client: [13] opened from 127.0.0.1:57478
+Dec 05 00:04 : client: [12] closed
+Dec 05 00:04 : client: [13] closed
+Dec 05 00:04 : client: [14] opened from 127.0.0.1:57482
+Dec 05 00:04 : client: [15] opened from 127.0.0.1:57486
+Dec 05 00:04 : client: [14] closed
+Dec 05 00:06 : client: [5] closed
+Dec 05 00:06 : client: [16] opened from 127.0.0.1:57514
+Dec 05 00:06 : player: played "Joey Badass x Mick Jenkins Type Beat - ''Money Ain't A Thing''-rx-dAIJcrK4.opus"
+Dec 05 00:06 : client: [15] closed
+Dec 05 00:06 : client: [17] opened from 127.0.0.1:57518
+Dec 05 00:06 : client: [17] closed
+Dec 05 00:06 : client: [18] opened from 127.0.0.1:57522
+Dec 05 00:06 : client: [16] closed
+Dec 05 00:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 05 00:49 : client: [0] opened from 127.0.0.1:55550
+Dec 05 00:51 : client: [1] opened from 127.0.0.1:55570
+Dec 05 00:51 : client: [1] closed
+Dec 05 03:07 : client: [2] opened from 127.0.0.1:57740
+Dec 05 03:07 : client: [2] closed
+Dec 05 03:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 05 03:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 05 03:07 : client: [0] closed
+Dec 05 03:07 : client: [3] opened from 127.0.0.1:57744
+Dec 05 03:07 : client: [3] closed
+Dec 05 03:11 : player: played "Jay Park x Gray Type Beat - ''Yuh''-6m0buYYJwgI.opus"
+Dec 05 03:16 : player: played "Jhene Aiko x TWENTY88 x Chill Type Beat - ''When Ya Know''-PNeYAzr3Ydk.m4a"
+Dec 05 03:20 : player: played "Indian Type Beat - ''Mumbai''-Qph2lViJLVQ.ogg"
+Dec 05 03:23 : player: played "Kanye West x Pusha T Type Beat - ''God Level''-udSZxTYx9Cc.opus"
+Dec 05 03:25 : client: [4] opened from 127.0.0.1:58310
+Dec 05 03:26 : player: played "Keith Ape x Dumbfoundead Type Beat - ''Yakuza''-ii5k_zO4aHc.opus"
+Dec 05 03:28 : client: [5] opened from 127.0.0.1:58344
+Dec 05 03:28 : client: [5] closed
+Dec 05 03:30 : player: played "Joey Badass x J.Cole Type Beat - ''Be Free''-78rIKsc18NA.opus"
+Dec 05 03:33 : client: [6] opened from 127.0.0.1:58396
+Dec 05 03:33 : client: [6] closed
+Dec 06 01:26 : client: [7] opened from 127.0.0.1:42408
+Dec 06 01:26 : client: [7] closed
+Dec 06 01:26 : client: [8] opened from 127.0.0.1:42420
+Dec 06 01:26 : client: [8] closed
+Dec 06 01:26 : client: [9] opened from 127.0.0.1:42430
+Dec 06 01:26 : client: [9] closed
+Dec 06 01:26 : client: [10] opened from 127.0.0.1:42434
+Dec 06 01:26 : player: played "[FREE] Flatbush Zombies x Isaiah Rashad Type Beat - ''Poetic Justice''-_JNAxP_UgrU.opus"
+Dec 06 01:27 : client: [11] opened from 127.0.0.1:42438
+Dec 06 01:27 : exception: Not playing
+Dec 06 01:27 : client: [11] closed
+Dec 06 01:27 : client: [10] closed
+Dec 06 01:27 : client: [12] opened from 127.0.0.1:42446
+Dec 06 01:27 : client: [12] closed
+Dec 06 01:27 : client: [4] closed
+Dec 06 01:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 01:28 : client: [0] opened from 127.0.0.1:36120
+Dec 06 01:28 : client: [1] opened from 127.0.0.1:36124
+Dec 06 01:28 : client: [1] closed
+Dec 06 01:28 : client: [2] opened from 127.0.0.1:36130
+Dec 06 01:28 : client: [2] closed
+Dec 06 01:28 : client: [3] opened from 127.0.0.1:36140
+Dec 06 01:28 : client: [3] closed
+Dec 06 01:29 : client: [4] opened from 127.0.0.1:36158
+Dec 06 01:29 : client: [4] closed
+Dec 06 01:33 : client: [5] opened from 127.0.0.1:36218
+Dec 06 01:33 : client: [5] closed
+Dec 06 04:00 : client: [6] opened from 127.0.0.1:39830
+Dec 06 04:00 : client: [6] closed
+Dec 06 13:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 13:45 : client: [0] opened from 127.0.0.1:45850
+Dec 06 13:45 : client: [1] opened from 127.0.0.1:45860
+Dec 06 13:45 : client: [1] closed
+Dec 06 13:45 : client: [2] opened from 127.0.0.1:45866
+Dec 06 13:45 : client: [2] closed
+Dec 06 13:45 : client: [3] opened from 127.0.0.1:45876
+Dec 06 13:45 : client: [3] closed
+Dec 06 13:45 : client: [4] opened from 127.0.0.1:45886
+Dec 06 13:45 : client: [4] closed
+Dec 06 13:45 : client: [5] opened from 127.0.0.1:45896
+Dec 06 13:45 : client: [5] closed
+Dec 06 13:45 : client: [6] opened from 127.0.0.1:45906
+Dec 06 13:45 : client: [6] closed
+Dec 06 13:46 : client: [7] opened from 127.0.0.1:45928
+Dec 06 13:46 : client: [7] closed
+Dec 06 17:14 : client: [8] opened from 127.0.0.1:49848
+Dec 06 17:14 : exception: Not playing
+Dec 06 17:14 : client: [8] closed
+Dec 06 17:14 : client: [9] opened from 127.0.0.1:49852
+Dec 06 17:14 : exception: Not playing
+Dec 06 17:14 : client: [9] closed
+Dec 06 17:14 : client: [10] opened from 127.0.0.1:49856
+Dec 06 17:14 : exception: Not playing
+Dec 06 17:14 : client: [10] closed
+Dec 06 18:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:08 : client: [0] opened from 127.0.0.1:35516
+Dec 06 18:08 : client: [1] opened from 127.0.0.1:35520
+Dec 06 18:08 : client: [1] closed
+Dec 06 18:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:11 : client: [0] opened from 127.0.0.1:38148
+Dec 06 18:11 : client: [1] opened from 127.0.0.1:38152
+Dec 06 18:11 : client: [1] closed
+Dec 06 18:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:44 : client: [0] opened from 127.0.0.1:35388
+Dec 06 18:44 : client: [1] opened from 127.0.0.1:35394
+Dec 06 18:44 : client: [1] closed
+Dec 06 20:08 : client: [2] opened from 127.0.0.1:37104
+Dec 06 20:08 : client: [2] closed
+Dec 06 20:09 : client: [3] opened from 127.0.0.1:37120
+Dec 06 20:09 : client: [3] closed
+Dec 06 20:11 : client: [4] opened from 127.0.0.1:37152
+Dec 06 20:11 : client: [4] closed
+Dec 06 20:12 : client: [5] opened from 127.0.0.1:37178
+Dec 06 20:12 : client: [5] closed
+Dec 06 20:14 : client: [6] opened from 127.0.0.1:37214
+Dec 06 20:14 : client: [6] closed
+Dec 06 20:14 : client: [7] opened from 127.0.0.1:37226
+Dec 06 20:14 : client: [7] closed
+Dec 06 20:15 : client: [8] opened from 127.0.0.1:37236
+Dec 06 20:15 : client: [8] closed
+Dec 06 20:17 : client: [9] opened from 127.0.0.1:37270
+Dec 06 20:17 : client: [9] closed
+Dec 06 20:17 : client: [10] opened from 127.0.0.1:37284
+Dec 06 20:17 : client: [10] closed
+Dec 06 20:18 : client: [11] opened from 127.0.0.1:37300
+Dec 06 20:18 : client: [11] closed
+Dec 06 20:18 : client: [12] opened from 127.0.0.1:37318
+Dec 06 20:18 : client: [12] closed
+Dec 06 20:21 : client: [13] opened from 127.0.0.1:37358
+Dec 06 20:21 : client: [13] closed
+Dec 06 20:21 : client: [14] opened from 127.0.0.1:37372
+Dec 06 20:21 : client: [14] closed
+Dec 06 20:21 : client: [15] opened from 127.0.0.1:37382
+Dec 06 20:21 : client: [15] closed
+Dec 06 20:22 : client: [16] opened from 127.0.0.1:37392
+Dec 06 20:22 : client: [16] closed
+Dec 06 20:23 : client: [17] opened from 127.0.0.1:37420
+Dec 06 20:23 : client: [17] closed
+Dec 06 20:24 : client: [18] opened from 127.0.0.1:37436
+Dec 06 20:24 : client: [18] closed
+Dec 06 20:24 : client: [19] opened from 127.0.0.1:37450
+Dec 06 20:24 : client: [19] closed
+Dec 06 20:25 : client: [20] opened from 127.0.0.1:37464
+Dec 06 20:25 : client: [20] closed
+Dec 06 20:28 : client: [21] opened from 127.0.0.1:37520
+Dec 06 20:28 : client: [21] closed
+Dec 06 20:31 : client: [22] opened from 127.0.0.1:37560
+Dec 06 20:31 : client: [22] closed
+Dec 06 20:32 : client: [23] opened from 127.0.0.1:37578
+Dec 06 20:32 : client: [23] closed
+Dec 06 20:32 : client: [24] opened from 127.0.0.1:37598
+Dec 06 20:32 : client: [24] closed
+Dec 06 20:33 : client: [25] opened from 127.0.0.1:37616
+Dec 06 20:33 : client: [25] closed
+Dec 06 20:35 : client: [26] opened from 127.0.0.1:37642
+Dec 06 20:35 : client: [26] closed
+Dec 06 20:35 : client: [27] opened from 127.0.0.1:37660
+Dec 06 20:35 : client: [27] closed
+Dec 06 20:38 : client: [28] opened from 127.0.0.1:37710
+Dec 06 20:38 : client: [28] closed
+Dec 06 20:39 : client: [29] opened from 127.0.0.1:37726
+Dec 06 20:39 : client: [29] closed
+Dec 06 20:41 : client: [30] opened from 127.0.0.1:37762
+Dec 06 20:41 : client: [30] closed
+Dec 06 20:42 : client: [31] opened from 127.0.0.1:37780
+Dec 06 20:42 : client: [31] closed
+Dec 06 20:46 : client: [32] opened from 127.0.0.1:37848
+Dec 06 20:46 : client: [32] closed
+Dec 06 20:46 : client: [33] opened from 127.0.0.1:37862
+Dec 06 20:46 : client: [33] closed
+Dec 06 20:47 : client: [34] opened from 127.0.0.1:37872
+Dec 06 20:47 : client: [34] closed
+Dec 06 20:48 : client: [35] opened from 127.0.0.1:37892
+Dec 06 20:48 : client: [35] closed
+Dec 06 20:48 : client: [36] opened from 127.0.0.1:37906
+Dec 06 20:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 20:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 20:48 : client: [36] closed
+Dec 06 20:48 : client: [0] closed
+Dec 06 20:48 : client: [37] opened from 127.0.0.1:37910
+Dec 06 20:48 : client: [38] opened from 127.0.0.1:37914
+Dec 06 20:48 : client: [38] closed
+Dec 06 20:49 : client: [39] opened from 127.0.0.1:37928
+Dec 06 20:49 : client: [37] closed
+Dec 06 20:49 : client: [39] closed
+Dec 06 20:49 : client: [40] opened from 127.0.0.1:37932
+Dec 06 20:49 : client: [41] opened from 127.0.0.1:37936
+Dec 06 20:49 : client: [41] closed
+Dec 06 20:49 : client: [42] opened from 127.0.0.1:37940
+Dec 06 20:49 : client: [40] closed
+Dec 06 20:49 : client: [42] closed
+Dec 06 20:49 : client: [43] opened from 127.0.0.1:37950
+Dec 06 20:49 : client: [44] opened from 127.0.0.1:37948
+Dec 06 20:49 : client: [43] closed
+Dec 06 20:50 : client: [45] opened from 127.0.0.1:37972
+Dec 06 20:50 : client: [45] closed
+Dec 06 20:51 : client: [46] opened from 127.0.0.1:37990
+Dec 06 20:51 : client: [46] closed
+Dec 06 20:53 : player: played "Future Type Beat - ''Crown''-SPzEbkDMUaE.opus"
+Dec 06 20:53 : client: [44] closed
+Dec 06 20:53 : client: [47] opened from 127.0.0.1:38040
+Dec 06 20:53 : client: [48] opened from 127.0.0.1:38044
+Dec 06 20:53 : client: [48] closed
+Dec 06 20:54 : client: [49] opened from 127.0.0.1:38062
+Dec 06 20:54 : client: [47] closed
+Dec 06 20:54 : client: [49] closed
+Dec 06 20:54 : client: [50] opened from 127.0.0.1:38066
+Dec 06 20:54 : client: [51] opened from 127.0.0.1:38070
+Dec 06 20:54 : client: [51] closed
+Dec 06 20:54 : client: [52] opened from 127.0.0.1:38074
+Dec 06 20:54 : client: [50] closed
+Dec 06 20:54 : client: [52] closed
+Dec 06 20:54 : client: [53] opened from 127.0.0.1:38078
+Dec 06 20:54 : client: [54] opened from 127.0.0.1:38082
+Dec 06 20:54 : client: [53] closed
+Dec 06 20:54 : client: [55] opened from 127.0.0.1:38086
+Dec 06 20:54 : client: [54] closed
+Dec 06 20:54 : client: [55] closed
+Dec 06 20:54 : client: [56] opened from 127.0.0.1:38090
+Dec 06 20:54 : client: [57] opened from 127.0.0.1:38094
+Dec 06 20:54 : client: [56] closed
+Dec 06 20:54 : client: [58] opened from 127.0.0.1:38098
+Dec 06 20:54 : client: [57] closed
+Dec 06 20:54 : client: [58] closed
+Dec 06 20:54 : client: [59] opened from 127.0.0.1:38102
+Dec 06 20:54 : client: [60] opened from 127.0.0.1:38106
+Dec 06 20:54 : client: [59] closed
+Dec 06 20:54 : client: [61] opened from 127.0.0.1:38114
+Dec 06 20:54 : client: [60] closed
+Dec 06 20:54 : client: [61] closed
+Dec 06 20:54 : client: [62] opened from 127.0.0.1:38118
+Dec 06 20:54 : client: [63] opened from 127.0.0.1:38122
+Dec 06 20:54 : client: [62] closed
+Dec 06 20:54 : client: [64] opened from 127.0.0.1:38126
+Dec 06 20:54 : client: [63] closed
+Dec 06 20:54 : client: [64] closed
+Dec 06 20:54 : client: [65] opened from 127.0.0.1:38130
+Dec 06 20:54 : client: [66] opened from 127.0.0.1:38134
+Dec 06 20:54 : client: [66] closed
+Dec 06 20:54 : client: [67] opened from 127.0.0.1:38138
+Dec 06 20:54 : client: [65] closed
+Dec 06 20:54 : client: [67] closed
+Dec 06 20:54 : client: [68] opened from 127.0.0.1:38142
+Dec 06 20:54 : client: [69] opened from 127.0.0.1:38146
+Dec 06 20:54 : client: [69] closed
+Dec 06 20:54 : client: [70] opened from 127.0.0.1:38150
+Dec 06 20:54 : client: [68] closed
+Dec 06 20:54 : client: [70] closed
+Dec 06 20:54 : client: [71] opened from 127.0.0.1:38154
+Dec 06 20:54 : client: [72] opened from 127.0.0.1:38158
+Dec 06 20:54 : client: [71] closed
+Dec 06 20:58 : player: played "Japanese Type Beat - ''Kanji''-4itRDAjN1q0.opus"
+Dec 06 20:58 : client: [72] closed
+Dec 06 20:58 : client: [73] opened from 127.0.0.1:38258
+Dec 06 20:58 : client: [74] opened from 127.0.0.1:38260
+Dec 06 20:58 : client: [74] closed
+Dec 06 21:02 : player: played "Japanese Type Beat - ''Yoru''-WFiL9TIYNv4.opus"
+Dec 06 21:02 : client: [73] closed
+Dec 06 21:02 : client: [75] opened from 127.0.0.1:38316
+Dec 06 21:02 : client: [76] opened from 127.0.0.1:38320
+Dec 06 21:02 : client: [76] closed
+Dec 06 21:05 : player: played "Keith Ape x Dumbfoundead Type Beat - ''Yakuza''-ii5k_zO4aHc.opus"
+Dec 06 21:05 : client: [75] closed
+Dec 06 21:05 : client: [77] opened from 127.0.0.1:38574
+Dec 06 21:05 : client: [78] opened from 127.0.0.1:38578
+Dec 06 21:05 : client: [77] closed
+Dec 06 21:08 : player: played "Rich Chigga x Keith Ape Type Beat - ''Glow''-5wcupkq-q8I.opus"
+Dec 06 21:08 : client: [78] closed
+Dec 06 21:08 : client: [79] opened from 127.0.0.1:38676
+Dec 06 21:08 : client: [80] opened from 127.0.0.1:38680
+Dec 06 21:08 : client: [80] closed
+Dec 06 21:12 : player: played "Desiigner x Future Type Beat - ''Streets''-Q-EqUvuiUDE.opus"
+Dec 06 21:12 : client: [79] closed
+Dec 06 21:12 : client: [81] opened from 127.0.0.1:38772
+Dec 06 21:12 : client: [82] opened from 127.0.0.1:38776
+Dec 06 21:12 : client: [81] closed
+Dec 06 21:17 : player: played "The Weeknd x Future Type Beat - ''Rockin''-oX1i33Gu1xs.opus"
+Dec 06 21:17 : client: [82] closed
+Dec 06 21:17 : client: [83] opened from 127.0.0.1:38998
+Dec 06 21:17 : client: [84] opened from 127.0.0.1:39002
+Dec 06 21:17 : client: [83] closed
+Dec 06 21:20 : client: [85] opened from 127.0.0.1:39180
+Dec 06 21:20 : client: [84] closed
+Dec 06 21:20 : client: [85] closed
+Dec 06 21:20 : client: [86] opened from 127.0.0.1:39184
+Dec 06 21:20 : client: [87] opened from 127.0.0.1:39188
+Dec 06 21:20 : client: [86] closed
+Dec 06 22:03 : client: [88] opened from 127.0.0.1:40298
+Dec 06 22:03 : client: [88] closed
+Dec 06 22:03 : client: [89] opened from 127.0.0.1:40302
+Dec 06 22:03 : player: played "Tory Lanez Type Beat - ''Perspective''-CkInOwdIti8.m4a"
+Dec 06 22:03 : client: [87] closed
+Dec 06 22:03 : client: [90] opened from 127.0.0.1:40306
+Dec 06 22:03 : client: [91] opened from 127.0.0.1:40310
+Dec 06 22:03 : client: [91] closed
+Dec 06 22:03 : client: [89] closed

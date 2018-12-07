@@ -1,11 +1,11 @@
-sw_volume: 94
+sw_volume: 90
 audio_device_state:1:pulse audio
 audio_device_state:1:toggle_visualizer
 state: stop
-current: 2
-random: 0
-repeat: 1
-single: 1
+current: 57
+random: 1
+repeat: 0
+single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
@@ -14,4 +14,154 @@ playlist_begin
 0:Logic - Flexicution [HD] - YouTube.mp3
 1:Logic - Flexicution [HD] - YouTube.mp3
 2:Logic - Flexicution [HD] - YouTube.mp3
+3:Vince Staples x Earl Sweatshirt Type Beat - ''Casual''-4vKjnHLKb9I.m4a
+4:Phora Type Beat - ''Starting Over''-FpE6-N3ewk8.opus
+5:Mick Jenkins Type Beat - ''Dehydration''-Un6yGDXRBrY.opus
+6:[FREE] Vince Staples Type Beat - ''Back When''-I7A-RGoEWmw.opus
+7:Dizzy Wright Type Beat - ''Make It Better''-9QhYgfrJNKg.opus
+8:Drake x Jay-Z Type Beat - ''The Real Her''-rOK2V8FuJT4.opus
+9:Travis Scott x Asap Ferg Type Beat - ''Reloaded''-R4hBtRzOwdM.opus
+10:Rae Sremmurd x Ty Dolla Sign Type Beat - ''Gimme Sum''-G4Lbd-BvVZs.opus
+11:Pusha T x Rick Ross Type Beat - ''Guns & Roses''-FRnXD7xUDP8.opus
+12:Isaiah Rashad x YGTUT x Michael Da Vinci Type Beat - ''Vibin'''-4VuEsrDCzug.opus
+13:Travis Scott x Allan Kingdom Type Beat - ''Karma''-GDfpHZOJhYA.opus
+14:Schoolboy Q x BJ Chicago The Kid Type Beat - ''Take Over''-ujH6srcqIf4.opus
+15:Jhene Aiko x Casey Veggies Type Beat - ''Floating''-jTyKmPBWw64.opus
+16:[FREE] Flatbush Zombies x Isaiah Rashad Type Beat - ''Poetic Justice''-_JNAxP_UgrU.opus
+17:Joey Badass x Mick Jenkins Type Beat - ''Money Ain't A Thing''-rx-dAIJcrK4.opus
+18:[FREE] Joey Badass Type Beat - ''Next Gen''-SFDRrY3yMlU.opus
+19:Phora Type Beat - ''Die Tryin'''-fU-KPwtzJkA.opus
+20:Childish Gambino Type Beat - ''I Ain't Like Them''-TwFaXjGG2Sk.opus
+21:Big Sean x Travis Scott Type Beat - ''Halftime''-NRt7yYQH6Bs.opus
+22:Dizzy Wright x Phora Type Beat - ''Vibe''-SvWLu9QR5FA.opus
+23:Asap Rocky x Bones Type Beat - ''Drxwning''-KCtx_XYe6bM.opus
+24:Dizzy Wright Type Beat - ''Time Travel''-sHSAX-zyXVI.opus
+25:Mac Miller x Earl Sweatshirt Type Beat - ''Hallucination''--aO1oxW5w6c.opus
+26:Earl Sweatshirt Type Beat - ''Exhausted''-8sP4Su9MOB8.opus
+27:Vince Staples Type Beat - ''Unconcious''-ROmc1SqjH38.opus
+28:Travis Scott Type Beat - ''Treachery''-AuuzsQoB3YY.opus
+29:Asap Ferg Type Beat - ''Sick Mind''-TFSDYz_dWm8.opus
+30:Ty Dolla Sign Type Beat - ''Missionary''-r_G2fL0qILM.opus
+31:Pusha T Type Beat - ''Snitch''-mSI3v3iTpDE.opus
+32:Earl Sweatshirt Type Beat - ''Buried Alive''-72GPVRdkTiQ.opus
+33:Kanye West x Pusha T Type Beat - ''God Level''-udSZxTYx9Cc.opus
+34:808 Mafia Type Beat - ''Tha Jxker''-jAFXuBliP-Y.opus
+35:Drake x Future Type Beat - ''100-Carat''-EzPTen4mMgM.opus
+36:Sonny Digital Type Beat - ''Roll Up''-zLjf20gQKxM.opus
+37:Asap Rocky Type Beat - ''Trill''-ALveAaHT_xo.opus
+38:The Game x Drake Type Beat - ''8 More Than 92''-F98_3pICaME.opus
+39:Japanese Type Beat - ''Shakuhachi''-S5cHBB9tVos.opus
+40:Jay Z x Kanye West Type Beat - ''Ma Throne''-LMmKgKx7csk.opus
+41:Travis Scott Type Beat - ''Slot Machine''-WKOKCyvbIHc.opus
+42:Asap Rocky Type Beat - ''Rememory''-Pu7v6AhGsbE.opus
+43:Vince Staples Type Beat - ''El Chapo''-IdW22upNUSc.opus
+44:Donnie Trumpet x Wale x J. Cole Type Beat - ''Daydreaming''-RHxmofE3d3I.opus
+45:Chance The Rapper x Donnie Trumpet Type Beat - ''Good Enough''-RGxiegU_Fe8.opus
+46:Pusha T x Kanye West Type Beat - ''The Prelude''-uRe8hcXXhnQ.opus
+47:Jahlil Beats Type Beat - ''16 Bars''-Fa6YqvM0OcI.opus
+48:Dej Loaf Type Beat - ''Butterflies''-3khQN_30KVI.opus
+49:Bryson Tiller x The Weeknd Type Beat - ''6 AM''-Feg9P2VtY74.opus
+50:Drake Type Beat - ''Let God Handle It''-B8_-xaJ_t2Y.opus
+51:Tyga Type Beat - ''Spitfire''-aIGid_NtZoQ.opus
+52:Mac Miller Type Beat - ''Stargazing''-_g7QRsA20d0.opus
+53:Drake Type Beat - ''Times Change''-hQ2dckDNawA.opus
+54:Joey Badass Type Beat - ''She Wants it''-Bih9bUS_hDY.m4a
+55:Khalid Type Beat - ''Take It Slow''-vj3e52GZBOw.m4a
+56:[FREE] Chance The Rapper x Kanye West Type Beat - ''SWISH''-pNPvSwA7zEk.m4a
+57:Tory Lanez Type Beat - ''Perspective''-CkInOwdIti8.m4a
+58:[FREE] J. Cole Type Beat - ''In Too Deep''-m3kOhllKxPg.m4a
+59:Phora Type Beat - ''On Point''-NZPjAHEG1L0.m4a
+60:Dizzy Wright Type Beat - ''Pledge''-bG2Ml5izaEs.m4a
+61:Sampha x Drake x Kanye West Type Beat - ''Freedom''-B3l57eXwsBY.m4a
+62:Jhene Aiko x TWENTY88 x Chill Type Beat - ''When Ya Know''-PNeYAzr3Ydk.m4a
+63:Isaiah Rashad Type Beat - ''San Vicente''-_KU64R0O0ks.m4a
+64:Lil Uzi Vert Type Beat - ''Care Less''-QjdOXVUIYbQ.m4a
+65:Kanye West Type Beat - ''Bawlin''-nFT2sGtcHN8.m4a
+66:Wiz Khalifa Type Beat - 'Countin' Paper'-jHL_GDneyY0.opus
+67:Desiigner Type Beat - ''Exhale''-EgqXYtwP5Kg.m4a
+68:Machine Gun Kelly Type Beat - ''No Sleep''-u36oxDPeXJA.m4a
+69:Isaiah Rashad x SZA Type Beat - ''Tha Situation''-dqTbj8jWfsc.opus
+70:Frank Ocean Type Beat - ''Ocean''-6llj81XJIkM.m4a
+71:Earl Sweatshirt Type Beat - ''Soft''-Ul47IvUwtMM.m4a
+72:Drake Type Beat - ''Champagne Papi''-cv_G2XVZT5s.m4a
+73:[FREE] Asap Rocky x Asap Ferg Type Beat - ''SWAVEY''-XKheSQ7N8VA.m4a
+74:Ty Dolla Sign x Big Sean x YG Type Beat - ''On & On''-SZSP9_AA2-w.m4a
+75:Skepta Type Beat - ''ISH''-n19ITlzCRUc.m4a
+76:Travi$ Scott Type Beat - ''Reverse''-mbJLfg1g2qI.opus
+77:Nipsey Hussle Type Beat - ''Ground Control''-owPocPwoKe4.opus
+78:Bryson Tiller x Ye Ali Type Beat - ''Lose The Feeling''-0gcjrXLGlYI.opus
+79:Japanese Type Beat - ''Kotonaru''-YYpZGiKySMw.opus
+80:Kid Cudi Type Beat - ''Up To You''-bcEgptgdkhY.opus
+81:Tory Lanez x Drake Type Beat - ''Toronto''-Yb-lDp8qKPo.opus
+82:Phora Type Beat - ''North End''-9zFikb--ZAY.opus
+83:J. Cole Type Beat - ''Exotic''-8dQwTac2seA.opus
+84:Wale x Rick Ross x Drake Type Beat - ''Sweet Juice''-ES-oRQ4ASwI.m4a
+85:Partynextdoor x Bryson Tiller Type Beat - ''Story''-rmO6a9Yq7-A.m4a
+86:Future Type Beat - ''Crown''-SPzEbkDMUaE.opus
+87:Travis Scott x Young Thug Type Beat - ''It's Lit''-OAgNNE0aYQI.opus
+88:Drake x Rihanna Type Beat - ''Badgal''-nvSTvGl18mA.opus
+89:Desiigner x Future Type Beat - ''Streets''-Q-EqUvuiUDE.opus
+90:Dizzy Wright x Phora Type Beat - ''Daydream''-RXyisO4WqUI.m4a
+91:Schoolboy Q x Asap Rocky Type Beat - ''Whip''-k-ArNgWFgLs.opus
+92:[FREE] Drake x Giggs Type Beat - ''Diamonds''-k_ATYi3ZOig.opus
+93:Joey Badass x J.Cole Type Beat - ''Be Free''-78rIKsc18NA.opus
+94:Japanese Type Beat - ''Hosu''-XfjWqRDFH2s.opus
+95:[FREE] XXXTENTACION x Ski Mask Type Beat - ''Sake''-4IlwTWw7P7U.ogg
+96:Japanese Type Beat - ''Kanji''-4itRDAjN1q0.opus
+97:Kendrick Lamar Type Beat - ''Sense''-ZERPxvGQ2Ds.opus
+98:Japanese Type Beat - ''Kumo''-p8uQh9Kx13Y.opus
+99:6LACK x PartyNextDoor Type Beat - ''Instinct''-2BVzlGSXGD4.opus
+100:Japanese Type Beat - ''Trapanese''-_M9_xd7YhLI.opus
+101:Kanye West x Travis Scott Type Beat - ''Kamikaze''-XFvv8TR3W9g.opus
+102:Vic Mensa x Rich Chigga Type Beat - ''Decided''-P2q7fs8JiXo.opus
+103:Keith Ape x Dumbfoundead Type Beat - ''Yakuza''-ii5k_zO4aHc.opus
+104:Japanese Type Beat - ''Senso''-vTmMtNoeN9U.opus
+105:[FREE] YE Ali x K.Forest Type Beat - ''Yuga''-4eegv96ORNU.opus
+106:Nintendo Type Beat - ''Gameboy''-SFqBAKpRWi0.opus
+107:Japanese Type Beat - ''Sakura''-DE4vKTzTrRE.opus
+108:Yung Lean x Keith Ape Type Beat - ''Saiko''-LVhEvOZrdQo.opus
+109:XXXTENTACION x Keith Ape Type Beat - ''Akuma''-msEJQP81-Fc.opus
+110:The Weeknd x Future Type Beat - ''I'm A Star''-08NSWTMsdc0.opus
+111:Keith Ape x Asap Ferg Type Beat - ''SAFE''-4nhb0XGhAfo.opus
+112:Japanese Type Beat - ''Mirai''-5ymYdak0ZpM.opus
+113:Rich Chigga x Keith Ape Type Beat - ''Ninja''-Mvt6glOAfG4.opus
+114:Suicideboys x Bones Type Beat - ''Gaudy''-yRNF8kbYjoY.opus
+115:Okasian x Jay Park Type Beat - ''Drunk''-ysyh6_PUt0Q.opus
+116:KOHH x Dumbfoundead Type Beat - ''Dirt''-areK6gdjhJA.opus
+117:Japanese Type Beat - ''Yoru''-WFiL9TIYNv4.opus
+118:[FREE] Asap Rocky x Asap Ferg Type Beat - ''Trilla''-KVo19N9btqw.opus
+119:Quavo x Swae Lee Type Beat - ''Sachi''-VSZ4HwlUSXU.opus
+120:Dragon Ball Z Type Beat - ''Saiyan''-dJH0j1MDJ0E.m4a
+121:Chinese Type Beat - ''Shangxin''-29nrdX__igI.opus
+122:Egyptian Type Beat - ''Pharaoh''-VPk1kGs4LBE.opus
+123:Higher Brothers x Bohan Phoenix Type Beat - ''Made in China''-1pZhLnFRq2w.opus
+124:Japanese Type Beat - ''Jiyu''-KLDFzee11CQ.opus
+125:Indonesian Type Beat - ''Gamelan''-8a_43A7-zHQ.opus
+126:Travis Scott x Schoolboy Q Type Beat - ''Texas''-04VSzPluXLY.opus
+127:Japanese Type Beat - ''Geisha''-5MKPbQ0zsWE.opus
+128:Rich Chigga x XXXTENTACION Type Beat - ''Java''-eruUsMaFJro.opus
+129:[FREE] Japanese Type Beat - ''Arigato''-BP-ql2P1uR8.opus
+130:SZA x Kendrick Lamar Type Beat - ''CTRL''-eUmMIZh5OGs.opus
+131:Naruto Type Beat - ''Chakra''-HH0GfR3tl_Q.opus
+132:Korean Type Beat - ''Muji''-G6Odb88VCy4.opus
+133:Meek Mill x Tory Lanez Type Beat - ''Praise''-YW9G-EURBAk.opus
+134:Keith Ape x Pink Guy Type Beat - ''88Rising''-3ILhGZAbSF0.opus
+135:Jay Park x Gray Type Beat - ''Yuh''-6m0buYYJwgI.opus
+136:Kingdom Hearts Type Beat - ''Sora''-lpWruHm3VBQ.opus
+137:Kohh x Keith Ape Type Beat - ''Tokyo''-Nt11x4o7hfw.opus
+138:Arabic Type Beat - ''Maeak''-AsBqyvZoMnw.opus
+139:Lil Pump x Smokepurpp Type Beat - ''Jetski''-AyMEdxwuXlw.ogg
+140:Dragon Ball Z Type Beat - ''9000''-a5bQAMGxK1Q.opus
+141:Japanese Type Beat - ''Hito''-eXUwHfuFXHo.opus
+142:Phora x Frank Ocean Type Beat - ''Faith''-n9MoyaUPy3U.opus
+143:The Weeknd x Future Type Beat - ''Rockin''-oX1i33Gu1xs.opus
+144:Kanye West x Travis Scott Type Beat - ''Slave''-KkRZqtxBOsg.opus
+145:Kohh x Keith Ape Type Beat - ''Play''-yvjnmLdED4Q.opus
+146:Indian Type Beat - ''Mumbai''-Qph2lViJLVQ.ogg
+147:Rich Chigga x Keith Ape Type Beat - ''Glow''-5wcupkq-q8I.opus
+148:The Weeknd Type Beat - ''Go Home''-ZBFsfQBdFYc.opus
+149:[FREE] Migos Type Beat - ''Air Jordan''-e2p3NttgdVg.opus
+150:Ty Dolla Sign x Rae Sremmurd Type Beat - ''SWANG''-eVtfmCT4Pic.opus
+151:XXXTENTACION x Night Lovell Type Beat - ''Yen''-ioVTDFG-85c.opus
+152:[FREE] Playboi Carti x Lil Yachty Type Beat - ''Tour''-1sz6kqWX45c.opus
 playlist_end

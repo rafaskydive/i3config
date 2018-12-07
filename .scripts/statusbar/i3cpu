@@ -1,0 +1,12 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+	1) notify-send "<b>Top CPU hogs:</b>
+
+$(ps axch -o cmd:15,%cpu --sort=-%cpu | head)" ;;
+
+esac
+
+	sensors | awk '/^temp1/ {print $2}' | sed '1!d'
+
+

@@ -25,6 +25,6 @@ else
 	color="#FF0000"
 fi
 
-[ "$status" = "Charging" ] && color="#FFF"
+[ "$status" = "Charging" ] && color="#66E7F9"
 
 printf "<span color='%s'>%s %s</span>" "$color" "$(echo "$status" | sed -e "s/,//g;s/Discharging/🔋/;s/Charging/🔌/;s/Unknown/♻️/;s/Full/⚡/;s/ 0*/ /g;s/ :/ /g")" "$(echo "$capacity" | sed -e 's/$/%/')"

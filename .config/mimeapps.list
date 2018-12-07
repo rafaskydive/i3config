@@ -4,5 +4,5 @@ x-scheme-handler/mailto=mutt.desktop;
 
 [Added Associations]
 video/mp4=mpv.desktop;
-application/x-bittorrent=transmission-remote.desktop;
+application/x-bittorrent=transmission-gtk.desktop;transmission-remote.desktop;
 application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
